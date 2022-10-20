@@ -3,9 +3,9 @@ name: Updater
 on:
   schedule:
     - cron:  '0 */24 * * *'
-  on:
-    push:
-      tags
+  push:
+    tags:
+      - v**
 jobs:
   test:
     name: Update

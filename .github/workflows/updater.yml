@@ -1,5 +1,7 @@
 name: Updater
-on: []
+on:
+  schedule:
+    - cron:  '0 */24 * * *'
 jobs:
   test:
     name: Update

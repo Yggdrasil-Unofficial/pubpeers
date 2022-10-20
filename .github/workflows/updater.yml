@@ -5,8 +5,7 @@ on:
     - cron:  '0 */24 * * *'
   on:
     push:
-      tags:
-        - *
+      tags
 jobs:
   test:
     name: Update

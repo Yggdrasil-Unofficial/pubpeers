@@ -22,4 +22,4 @@ jobs:
         go mod download
     - name: Run updater
       run: |
-        go run pubpeers.gomain
+        go run pubpeers.go

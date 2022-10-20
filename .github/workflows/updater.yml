@@ -1,0 +1,22 @@
+
+name: Updater
+on:
+  schedule:
+    - cron:  '0 */24 * * *'
+jobs:
+  test:
+    name: Update
+    runs-on: ubuntu-latest
+    steps:
+    - name: Set up Go
+      uses: actions/setup-go@v2
+      with:
+        go-version: '1.17'
+    - name: Check out code
+      uses: actions/checkout@v2
+    - name: Install dependencies
+      run: |
+        go mod download
+    - name: Run updater
+      run: |
+        go run pubpeers.gomain

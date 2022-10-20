@@ -23,3 +23,6 @@ jobs:
     - name: Run updater
       run: |
         go run pubpeers.go
+    - name: Save updates
+      run: |
+        git add --all && git commit -m "Update peers" && git push

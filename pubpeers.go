@@ -32,9 +32,9 @@ func clone() {
 }
 
 func comit(){
-	exec.Command("git", "add", "--all").Output()
-	exec.Command("git", "comit", "-n", "UpdatePeers").Output()
-	exec.Command("git", "push").Output()
+	log.Error(exec.Command("git", "add", "*").Output())
+	log.Error(exec.Command("git", "comit", "-n", "UpdatePeers").Output())
+	log.Error(exec.Command("git", "push").Output())
 }
 
 type Peer = []string
@@ -188,6 +188,6 @@ func main() {
 	log.Info("peers.txt writed")
 	write(JSON_FILE, total.ToJson())
 	log.Info("peers.json writed")
-	comit()
-	log.Info("Comited")
+	//comit()
+	//log.Info("Comited")
 }

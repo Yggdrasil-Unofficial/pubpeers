@@ -15,7 +15,6 @@ tcp://92.124.136.131:30111
 tcp://94.130.203.208:5999
 tcp://[2001:470:1f13:e56::64]:39565
 tcp://[2603:c023:8001:1600:35e0:acde:2c6e:b27f]:17002
-tcp://[2a02:ff0:10f2:98c9::64]:8800
 tcp://[2a04:5b81:2010:5000:27d3:6343:a821:eb1c]:2000
 tcp://[2a04:5b81:2010::90]:2000
 tcp://[2a05:9403::8b]:7743
@@ -25,6 +24,7 @@ tcp://chiefsnapp.loki:42753
 tcp://creamy.chowder.land:9001
 tcp://curiosity.tdjs.tech:30003
 tcp://ekb.itrus.su:7991
+tcp://ip6-antalya.ddns.net:8800
 tcp://ipv4.campina-grande.paraiba.brazil.yggdrasil.iasylum.net:40000
 tcp://ipv4.dronten.flevoland.netherlands.iasylum.net:40000
 tcp://ipv6.campina-grande.paraiba.brazil.yggdrasil.iasylum.net:41000
@@ -75,6 +75,7 @@ tls://188.225.9.167:18227
 tls://192.99.145.61:58226
 tls://193.111.114.28:1443
 tls://212.154.86.134:4433
+tls://23.137.251.45:5222
 tls://2ddoxwucodjfy6u34v3toxm2a463nzd3f523hhfzc3y5de7twj6a.b32.i2p:2281
 tls://3qqi3lxscvx2ebatj36y6wmdzaah7eblf5fl7scayp6wgyhh3vpa.b32.i2p
 tls://44.234.134.124:443
@@ -108,7 +109,6 @@ tls://[2607:f1c0:1801:d4::1]:61216
 tls://[2a01:4f9:2a:60c::2]:18836
 tls://[2a01:4f9:c010:664d::1]:61995
 tls://[2a01:d0:ffff:4353::2]:6010
-tls://[2a02:ff0:10f2:98c9::64]:4433
 tls://[2a04:5b81:2010:5000:27d3:6343:a821:eb1c]:2001
 tls://[2a07:e01:105:444:c634:6bff:feb5:6e28]:7040
 tls://[2a10:4740:40:0:2222:3f9c:b7cf:1]:43006
@@ -128,6 +128,7 @@ tls://fllrj72kxnenalmmi3uz22ljqnmuex4h2jlhwnapxlzrnn7lknadxuqd.onion:706
 tls://fr2.servers.devices.cwinfo.net:23108
 tls://gqt6l2wox5jndysfllrgdr6mp473t24mdi7f3iz6lugpzv3z67wq.b32.i2p:63412
 tls://i6lbsjw7kh4gqmbylcsjtfh3juj3dbbk24bwzrpgvtalhs7xagoa.b32.i2p:2721
+tls://ip6-antalya.ddns.net:4433
 tls://ipv4.campina-grande.paraiba.brazil.yggdrasil.iasylum.net:50000
 tls://ipv4.dronten.flevoland.netherlands.iasylum.net:50000
 tls://ipv6.campina-grande.paraiba.brazil.yggdrasil.iasylum.net:51000

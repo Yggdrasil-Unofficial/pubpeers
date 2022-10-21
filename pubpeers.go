@@ -95,7 +95,7 @@ func (t *Total) ToString() string {
 }
 
 func (t *Total) ToJson() string {
-	b, _ := json.Marshal(t.Regions)
+	b, _ := json.MarshalIndent(t.Regions, "", "  ")
 	return string(b)
 }
 

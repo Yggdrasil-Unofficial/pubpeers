@@ -352,8 +352,8 @@
       "tls://lax.yuetau.net:6643"
     ],
     [
-      "tcp://tasty.chowder.land:9002",
-      "tls://tasty.chowder.land:9001"
+      "tls://tasty.chowder.land:9001",
+      "tcp://tasty.chowder.land:9002"
     ],
     [
       "tls://supergay.network:443",
@@ -388,9 +388,9 @@
       "tls://bazari.sh:3725"
     ],
     [
+      "tls://creamy.chowder.land:443",
       "tcp://creamy.chowder.land:9001",
-      "tls://creamy.chowder.land:9002",
-      "tls://creamy.chowder.land:443"
+      "tls://creamy.chowder.land:9002"
     ],
     [
       "tls://167.160.89.98:7040",

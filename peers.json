@@ -203,10 +203,6 @@
       "tls://188.225.9.167:18227"
     ],
     [
-      "tcp://kazi.peer.cofob.ru:18000",
-      "tls://kazi.peer.cofob.ru:18001"
-    ],
-    [
       "tls://yggpvs.duckdns.org:8443"
     ],
     [

@@ -31,7 +31,6 @@ tcp://ipv6.campina-grande.paraiba.brazil.yggdrasil.iasylum.net:41000
 tcp://ipv6.dronten.flevoland.netherlands.iasylum.net:41000
 tcp://itcom.multed.com:7991
 tcp://jeff.loki:5000
-tcp://kazi.peer.cofob.ru:18000
 tcp://kusoneko.moe:9002
 tcp://lancis.iscute.moe:49273
 tcp://lax.yuetau.net:6642
@@ -134,7 +133,6 @@ tls://ipv4.dronten.flevoland.netherlands.iasylum.net:50000
 tls://ipv6.campina-grande.paraiba.brazil.yggdrasil.iasylum.net:51000
 tls://ipv6.dronten.flevoland.netherlands.iasylum.net:51000
 tls://jorropo.net:12221?key=060f2d49c6a1a2066357ea06e58f5cff8c76a5c0cc513ceb2dab75c900fe183b&sni=jorropo.net
-tls://kazi.peer.cofob.ru:18001
 tls://lancis.iscute.moe:49274
 tls://lax.yuetau.net:6643
 tls://longseason.1200bps.xyz:13122

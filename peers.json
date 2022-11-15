@@ -130,7 +130,7 @@
   "japan": [
     [
       "tcp://ygg.puffer.blog:1883",
-      "tls://ygg.puffer.blog:443"
+      "tls://ygg.puffer.blog:443?sni=is1-ssl.mzstatic.com"
     ]
   ],
   "kazakhstan": [

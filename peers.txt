@@ -159,7 +159,7 @@ tls://ygg-ukr.incognet.io:8884
 tls://ygg.ace.ctrl-c.liu.se:9999?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908
 tls://ygg.loskiq.dev:17314
 tls://ygg.mkg20001.io:443
-tls://ygg.puffer.blog:443
+tls://ygg.puffer.blog:443?sni=is1-ssl.mzstatic.com
 tls://ygg.tomasgl.ru:61944?key=c5e0c28a600c2118e986196a0bbcbda4934d8e9278ceabea48838dc5d8fae576
 tls://ygg1.mk16.de:1338?key=0000000087ee9949eeab56bd430ee8f324cad55abf3993ed9b9be63ce693e18a
 tls://yggdrasil.su:62586

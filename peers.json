@@ -99,6 +99,10 @@
     [
       "tcp://yggdrasil.su:62486",
       "tls://yggdrasil.su:62586"
+    ],
+    [
+      "tls://x-fra-promo.sergeysedoy97.ru:65535",
+      "tls://87.251.77.39:65535"
     ]
   ],
   "i2p": [
@@ -176,6 +180,15 @@
     ],
     [
       "tls://23.137.251.45:5222"
+    ],
+    [
+      "tls://x-ams.sergeysedoy97.ru:65535",
+      "tls://89.22.237.91:65535",
+      "tls://[2a0d:8480:1:f9::]:65535"
+    ],
+    [
+      "tls://x-ams-promo.sergeysedoy97.ru:65535",
+      "tls://79.137.196.222:65535"
     ]
   ],
   "poland": [
@@ -204,6 +217,15 @@
     ],
     [
       "tls://yggpvs.duckdns.org:8443"
+    ],
+    [
+      "tls://x-msk.sergeysedoy97.ru:65535",
+      "tls://178.20.45.32:65535",
+      "tls://[2a0d:8480:2:54::]:65535"
+    ],
+    [
+      "tls://x-msk-promo.sergeysedoy97.ru:65535",
+      "tls://217.114.43.19:65535"
     ],
     [
       "tcp://ygg.loskiq.dev:17313",
@@ -352,6 +374,10 @@
       "tcp://tasty.chowder.land:9002"
     ],
     [
+      "tls://corn.chowder.land:443",
+      "tcp://corn.chowder.land:9002"
+    ],
+    [
       "tls://supergay.network:443",
       "tls://supergay.network:9001",
       "tcp://supergay.network:9002"
@@ -382,11 +408,6 @@
     ],
     [
       "tls://bazari.sh:3725"
-    ],
-    [
-      "tls://creamy.chowder.land:443",
-      "tcp://creamy.chowder.land:9001",
-      "tls://creamy.chowder.land:9002"
     ],
     [
       "tls://167.160.89.98:7040",

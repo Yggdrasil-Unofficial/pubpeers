@@ -24,6 +24,7 @@ tcp://chiefsnapp.loki:42753
 tcp://corn.chowder.land:9002
 tcp://curiosity.tdjs.tech:30003
 tcp://ekb.itrus.su:7991
+tcp://gutsche.tech:8888
 tcp://ip6-antalya.ddns.net:8800
 tcp://ipv4.campina-grande.paraiba.brazil.yggdrasil.iasylum.net:40000
 tcp://ipv4.dronten.flevoland.netherlands.iasylum.net:40000
@@ -35,7 +36,6 @@ tcp://kusoneko.moe:9002
 tcp://lancis.iscute.moe:49273
 tcp://lax.yuetau.net:6642
 tcp://longseason.1200bps.xyz:13121
-tcp://p2p-node.de:1337?key=000000d80a2d7b3126ea65c8c08fc751088c491a5cdd47eff11c86fa1e4644ae
 tcp://phrl42.ydns.eu:8842
 tcp://prophet.fun:30111
 tcp://s2.i2pd.xyz:39565
@@ -56,6 +56,8 @@ tcp://ygg.mkg20001.io:80
 tcp://ygg.puffer.blog:1883
 tcp://ygg.tomasgl.ru:61933?key=c5e0c28a600c2118e986196a0bbcbda4934d8e9278ceabea48838dc5d8fae576
 tcp://ygg1.mk16.de:1337?key=0000000087ee9949eeab56bd430ee8f324cad55abf3993ed9b9be63ce693e18a
+tcp://ygg2.mk16.de:1337?key=000000d80a2d7b3126ea65c8c08fc751088c491a5cdd47eff11c86fa1e4644ae
+tcp://ygg3.mk16.de:1337?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1
 tcp://yggdrasil.su:62486
 tcp://yggno.de:18226
 tcp://yyz.yuetau.net:6642
@@ -132,6 +134,7 @@ tls://fi1.servers.devices.cwinfo.net:61995
 tls://fllrj72kxnenalmmi3uz22ljqnmuex4h2jlhwnapxlzrnn7lknadxuqd.onion:706
 tls://fr2.servers.devices.cwinfo.net:23108
 tls://gqt6l2wox5jndysfllrgdr6mp473t24mdi7f3iz6lugpzv3z67wq.b32.i2p:63412
+tls://gutsche.tech:8889
 tls://i6lbsjw7kh4gqmbylcsjtfh3juj3dbbk24bwzrpgvtalhs7xagoa.b32.i2p:2721
 tls://ip6-antalya.ddns.net:4433
 tls://ipv4.campina-grande.paraiba.brazil.yggdrasil.iasylum.net:50000
@@ -144,7 +147,6 @@ tls://lax.yuetau.net:6643
 tls://longseason.1200bps.xyz:13122
 tls://minecast.xyz:3785
 tls://nxuwjikhsirri2rbrdlphstsn3jr2qzjrsylwkt65rh2miycr5n24tid.onion:706
-tls://p2p-node.de:1338?key=000000d80a2d7b3126ea65c8c08fc751088c491a5cdd47eff11c86fa1e4644ae
 tls://p2pkbqdgvabddixbbr2y7vrra4qxq3sejfep2qknfu4owh7e3i622dqd.onion:1337
 tls://pl1.servers.devices.cwinfo.net:11129
 tls://ro7bwwx7ch6echfqwgivsi37tgojgcrjosgq5jrgx5ebadu4xsaq.b32.i2p:39565
@@ -173,6 +175,8 @@ tls://ygg.mkg20001.io:443
 tls://ygg.puffer.blog:443?sni=is1-ssl.mzstatic.com
 tls://ygg.tomasgl.ru:61944?key=c5e0c28a600c2118e986196a0bbcbda4934d8e9278ceabea48838dc5d8fae576
 tls://ygg1.mk16.de:1338?key=0000000087ee9949eeab56bd430ee8f324cad55abf3993ed9b9be63ce693e18a
+tls://ygg2.mk16.de:1338?key=000000d80a2d7b3126ea65c8c08fc751088c491a5cdd47eff11c86fa1e4644ae
+tls://ygg3.mk16.de:1338?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1
 tls://yggdrasil.su:62586
 tls://yggnekkmyitzepgl5ltdl277y5wdg36n4pc45sualo3yesm3usnuwyad.onion:1863
 tls://yggno.de:18227

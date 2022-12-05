@@ -220,9 +220,6 @@
       "tls://188.225.9.167:18227"
     ],
     [
-      "tls://yggpvs.duckdns.org:8443"
-    ],
-    [
       "tls://x-msk.sergeysedoy97.ru:65535",
       "tls://178.20.45.32:65535",
       "tls://[2a0d:8480:2:54::]:65535"
@@ -240,7 +237,8 @@
       "tls://box.paulll.cc:13338"
     ],
     [
-      "tls://[2a01:d0:ffff:4353::2]:6010"
+      "tls://[2a01:d0:c353:1::1]:6010",
+      "tls://[2001:470:1f15:a:4::1]:6010"
     ],
     [
       "tls://avevad.com:1337"
@@ -285,7 +283,9 @@
   "south-africa": [
     [
       "tcp://[2a04:5b81:2010:5000:27d3:6343:a821:eb1c]:2000",
-      "tls://[2a04:5b81:2010:5000:27d3:6343:a821:eb1c]:2001"
+      "tls://[2a04:5b81:2010:5000:27d3:6343:a821:eb1c]:2001",
+      "tcp://yggdrasil.community.garage.networks.deavmi.assigned.network:2000",
+      "tls://yggdrasil.community.garage.networks.deavmi.assigned.network:2001"
     ],
     [
       "tcp://[2a04:5b81:2010::90]:2000"
@@ -299,6 +299,11 @@
     [
       "tls://ygg.ace.ctrl-c.liu.se:9999?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908",
       "tcp://ygg.ace.ctrl-c.liu.se:9998?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908"
+    ]
+  ],
+  "switzerland": [
+    [
+      "tcp://fud.tplinkdns.com:54321"
     ]
   ],
   "tor": [
@@ -366,6 +371,10 @@
     [
       "tcp://01.lon.gbr.ygg.yt:80",
       "tls://01.lon.gbr.ygg.yt:443"
+    ],
+    [
+      "tcp://0.ygg.l1qu1d.net:11100?key=0000000998b5ff8c0f1115ce9212f772d0427151f50fe858e6de1d22600f1680",
+      "tls://0.ygg.l1qu1d.net:11101?key=0000000998b5ff8c0f1115ce9212f772d0427151f50fe858e6de1d22600f1680"
     ]
   ],
   "united-states": [
@@ -392,6 +401,11 @@
     [
       "tls://108.175.10.127:61216",
       "tls://[2607:f1c0:1801:d4::1]:61216"
+    ],
+    [
+      "tcp://ygg4.mk16.de:1337?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b",
+      "tls://ygg4.mk16.de:1338?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b",
+      "tls://ygg4.mk16.de:443?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b"
     ],
     [
       "tcp://108.242.38.187:1337"

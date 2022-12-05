@@ -1,3 +1,4 @@
+tcp://0.ygg.l1qu1d.net:11100?key=0000000998b5ff8c0f1115ce9212f772d0427151f50fe858e6de1d22600f1680
 tcp://01.lon.gbr.ygg.yt:80
 tcp://108.242.38.187:1337
 tcp://149.28.123.138:8008
@@ -24,6 +25,7 @@ tcp://chiefsnapp.loki:42753
 tcp://corn.chowder.land:9002
 tcp://curiosity.tdjs.tech:30003
 tcp://ekb.itrus.su:7991
+tcp://fud.tplinkdns.com:54321
 tcp://gutsche.tech:8888
 tcp://ip6-antalya.ddns.net:8800
 tcp://ipv4.campina-grande.paraiba.brazil.yggdrasil.iasylum.net:40000
@@ -58,10 +60,13 @@ tcp://ygg.tomasgl.ru:61933?key=c5e0c28a600c2118e986196a0bbcbda4934d8e9278ceabea4
 tcp://ygg1.mk16.de:1337?key=0000000087ee9949eeab56bd430ee8f324cad55abf3993ed9b9be63ce693e18a
 tcp://ygg2.mk16.de:1337?key=000000d80a2d7b3126ea65c8c08fc751088c491a5cdd47eff11c86fa1e4644ae
 tcp://ygg3.mk16.de:1337?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1
+tcp://ygg4.mk16.de:1337?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b
+tcp://yggdrasil.community.garage.networks.deavmi.assigned.network:2000
 tcp://yggdrasil.su:62486
 tcp://yggno.de:18226
 tcp://yyz.yuetau.net:6642
 tcp://zabugor.itrus.su:7991
+tls://0.ygg.l1qu1d.net:11101?key=0000000998b5ff8c0f1115ce9212f772d0427151f50fe858e6de1d22600f1680
 tls://01.lon.gbr.ygg.yt:443
 tls://108.175.10.127:61216
 tls://109.107.173.235:9111
@@ -108,13 +113,14 @@ tls://[2001:41d0:304:200::ace3]:23108
 tls://[2001:41d0:601:1100::cf2]:11129
 tls://[2001:41d0:801:2000::233f]:28395
 tls://[2001:470:1f13:e56::64]:39575
+tls://[2001:470:1f15:a:4::1]:6010
 tls://[2603:c023:8001:1600:35e0:acde:2c6e:b27f]:17001
 tls://[2605:9f80:2000:64::2]:7040
 tls://[2607:5300:201:3100::50a1]:58226
 tls://[2607:f1c0:1801:d4::1]:61216
 tls://[2a01:4f9:2a:60c::2]:18836
 tls://[2a01:4f9:c010:664d::1]:61995
-tls://[2a01:d0:ffff:4353::2]:6010
+tls://[2a01:d0:c353:1::1]:6010
 tls://[2a04:5b81:2010:5000:27d3:6343:a821:eb1c]:2001
 tls://[2a07:e01:105:444:c634:6bff:feb5:6e28]:7040
 tls://[2a0d:8480:1:f9::]:65535
@@ -177,8 +183,10 @@ tls://ygg.tomasgl.ru:61944?key=c5e0c28a600c2118e986196a0bbcbda4934d8e9278ceabea4
 tls://ygg1.mk16.de:1338?key=0000000087ee9949eeab56bd430ee8f324cad55abf3993ed9b9be63ce693e18a
 tls://ygg2.mk16.de:1338?key=000000d80a2d7b3126ea65c8c08fc751088c491a5cdd47eff11c86fa1e4644ae
 tls://ygg3.mk16.de:1338?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1
+tls://ygg4.mk16.de:1338?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b
+tls://ygg4.mk16.de:443?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b
+tls://yggdrasil.community.garage.networks.deavmi.assigned.network:2001
 tls://yggdrasil.su:62586
 tls://yggnekkmyitzepgl5ltdl277y5wdg36n4pc45sualo3yesm3usnuwyad.onion:1863
 tls://yggno.de:18227
-tls://yggpvs.duckdns.org:8443
 tls://yyz.yuetau.net:6643

@@ -141,11 +141,6 @@
       "tls://ygg.puffer.blog:443?sni=is1-ssl.mzstatic.com"
     ]
   ],
-  "kazakhstan": [
-    [
-      "tls://minecast.xyz:3785"
-    ]
-  ],
   "lokinet": [
     [
       "tcp://jeff.loki:5000",

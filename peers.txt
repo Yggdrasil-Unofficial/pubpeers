@@ -151,7 +151,6 @@ tls://jorropo.net:12221?key=060f2d49c6a1a2066357ea06e58f5cff8c76a5c0cc513ceb2dab
 tls://lancis.iscute.moe:49274
 tls://lax.yuetau.net:6643
 tls://longseason.1200bps.xyz:13122
-tls://minecast.xyz:3785
 tls://nxuwjikhsirri2rbrdlphstsn3jr2qzjrsylwkt65rh2miycr5n24tid.onion:706
 tls://p2pkbqdgvabddixbbr2y7vrra4qxq3sejfep2qknfu4owh7e3i622dqd.onion:1337
 tls://pl1.servers.devices.cwinfo.net:11129

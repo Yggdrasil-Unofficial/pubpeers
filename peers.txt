@@ -80,6 +80,7 @@ tls://192.99.145.61:58226
 tls://193.111.114.28:1443
 tls://212.154.86.134:4433
 tls://217.114.43.19:65535
+tls://23.137.249.65:443
 tls://23.137.251.45:5222
 tls://2ddoxwucodjfy6u34v3toxm2a463nzd3f523hhfzc3y5de7twj6a.b32.i2p:2281
 tls://3qqi3lxscvx2ebatj36y6wmdzaah7eblf5fl7scayp6wgyhh3vpa.b32.i2p
@@ -125,7 +126,6 @@ tls://[2a10:4740:40:0:2222:3f9c:b7cf:1]:43006
 tls://aaoth.xyz:25565
 tls://aurora.devices.waren.io:18836
 tls://avevad.com:1337
-tls://bazari.sh:3725
 tls://box.paulll.cc:13338
 tls://ca1.servers.devices.cwinfo.net:58226
 tls://cloudberry.fr1.servers.devices.cwinfo.net:54232

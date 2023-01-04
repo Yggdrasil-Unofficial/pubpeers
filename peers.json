@@ -168,6 +168,9 @@
       "tls://ygg-nl.incognet.io:8884"
     ],
     [
+      "tls://23.137.249.65:443"
+    ],
+    [
       "tls://aaoth.xyz:25565",
       "tcp://aaoth.xyz:7777"
     ],
@@ -414,9 +417,6 @@
     [
       "tcp://ygg3.mk16.de:1337?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1",
       "tls://ygg3.mk16.de:1338?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1"
-    ],
-    [
-      "tls://bazari.sh:3725"
     ],
     [
       "tls://167.160.89.98:7040",

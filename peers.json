@@ -425,6 +425,10 @@
       "tls://ygg3.mk16.de:1338?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1"
     ],
     [
+      "tls://cowboy.supergay.network:443",
+      "tcp://cowboy.supergay.network:9001"
+    ],
+    [
       "tls://167.160.89.98:7040",
       "tls://[2605:9f80:2000:64::2]:7040"
     ],

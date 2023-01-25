@@ -41,6 +41,10 @@
     [
       "tcp://ygg-fin.incognet.io:8883",
       "tls://ygg-fin.incognet.io:8884"
+    ],
+    [
+      "tls://[2a01:4f9:6a:49e7:1068:cf52:a4aa:1]:8443",
+      "tls://94.23.116.184:1944"
     ]
   ],
   "france": [
@@ -107,9 +111,6 @@
     [
       "tls://x-fra-promo.sergeysedoy97.ru:65535",
       "tls://87.251.77.39:65535"
-    ],
-    [
-      "tls://[2a01:4f9:6a:49e7:1068:cf52:a4aa:1]:8443"
     ]
   ],
   "i2p": [
@@ -401,6 +402,9 @@
       "tls://ygg4.mk16.de:443?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b"
     ],
     [
+      "tls://102.223.180.74:993"
+    ],
+    [
       "tcp://108.242.38.187:1337"
     ],
     [
@@ -409,9 +413,6 @@
     [
       "tcp://lancis.iscute.moe:49273",
       "tls://lancis.iscute.moe:49274"
-    ],
-    [
-      "tls://102.223.180.74:993"
     ],
     [
       "tcp://longseason.1200bps.xyz:13121",
@@ -426,7 +427,7 @@
     ],
     [
       "tls://cowboy.supergay.network:443",
-      "tcp://cowboy.supergay.network:9001"
+      "tcp://cowboy.supergay.network:9111"
     ],
     [
       "tls://167.160.89.98:7040",

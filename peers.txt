@@ -20,7 +20,7 @@ tcp://aaoth.xyz:7777
 tcp://box.paulll.cc:13337
 tcp://chiefsnapp.loki:42753
 tcp://corn.chowder.land:9002
-tcp://cowboy.supergay.network:9001
+tcp://cowboy.supergay.network:9111
 tcp://curiosity.tdjs.tech:30003
 tcp://ekb.itrus.su:7991
 tcp://fud.tplinkdns.com:54321
@@ -105,6 +105,7 @@ tls://87.251.77.39:65535
 tls://89.22.237.91:65535
 tls://91.224.254.114:18001
 tls://94.103.82.150:8080
+tls://94.23.116.184:1944
 tls://95.216.5.243:18836
 tls://[2001:41d0:2:c44a:51:255:223:60]:54232
 tls://[2001:41d0:304:200::ace3]:23108

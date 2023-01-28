@@ -43,8 +43,8 @@
       "tls://ygg-fin.incognet.io:8884"
     ],
     [
-      "tls://[2a01:4f9:6a:49e7:1068:cf52:a4aa:1]:8443",
-      "tls://94.23.116.184:1944"
+      "tls://[2a01:4f9:6a:49e7:1068:cf52:a4aa:1]:8443?key=9d0bdac2e339fd57bcc9af5c4d5f2ecd98e724d32d56c239a5cdec580ab0a580",
+      "tls://94.23.116.184:1944?key=9d0bdac2e339fd57bcc9af5c4d5f2ecd98e724d32d56c239a5cdec580ab0a580"
     ]
   ],
   "france": [
@@ -111,6 +111,10 @@
     [
       "tls://x-fra-promo.sergeysedoy97.ru:65535",
       "tls://87.251.77.39:65535"
+    ],
+    [
+      "tls://[2a01:4f8:13a:19e5:103a:263e:890c:1]:8443?key=4308ccec1a3a9c68c4f376000cf9c7084c1daae4921eb123cd93b6eb96fd8d84",
+      "tls://94.23.116.184:1945?key=4308ccec1a3a9c68c4f376000cf9c7084c1daae4921eb123cd93b6eb96fd8d84"
     ]
   ],
   "i2p": [

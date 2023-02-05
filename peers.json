@@ -109,7 +109,8 @@
       "tls://yggdrasil.su:62586"
     ],
     [
-      "tls://x-fra-promo.sergeysedoy97.ru:65535",
+      "tls://x-fra-0.sergeysedoy97.ru:65535",
+      "tls://s-fra-0.sergeysedoy97.ru:65535",
       "tls://87.251.77.39:65535"
     ],
     [
@@ -195,13 +196,15 @@
       "tls://23.137.251.45:5222"
     ],
     [
-      "tls://x-ams.sergeysedoy97.ru:65535",
+      "tls://x-ams-0.sergeysedoy97.ru:65535",
+      "tls://s-ams-0.sergeysedoy97.ru:65535",
       "tls://89.22.237.91:65535",
       "tls://[2a0d:8480:1:f9::]:65535"
     ],
     [
-      "tls://x-ams-promo.sergeysedoy97.ru:65535",
-      "tls://79.137.196.222:65535"
+      "tls://x-ams-1.sergeysedoy97.ru:65535",
+      "tls://s-ams-1.sergeysedoy97.ru:65535",
+      "tls://79.137.194.94:65535"
     ]
   ],
   "poland": [
@@ -232,13 +235,22 @@
       "tls://188.225.9.167:18227"
     ],
     [
-      "tls://x-msk.sergeysedoy97.ru:65535",
+      "tls://x-msk-0.sergeysedoy97.ru:65535",
+      "tls://s-msk-0.sergeysedoy97.ru:65535",
       "tls://178.20.45.32:65535",
       "tls://[2a0d:8480:2:54::]:65535"
     ],
     [
-      "tls://x-msk-promo.sergeysedoy97.ru:65535",
-      "tls://217.114.43.19:65535"
+      "tls://x-msk-1.sergeysedoy97.ru:65535",
+      "tls://s-msk-1.sergeysedoy97.ru:65535",
+      "tls://185.103.109.63:65535",
+      "tls://[2a09:5302:ffff::ac9]:65535"
+    ],
+    [
+      "tls://x-msk-2.sergeysedoy97.ru:65535",
+      "tls://s-msk-2.sergeysedoy97.ru:65535",
+      "tls://45.95.202.91:65535",
+      "tls://[2a09:5302:ffff::aca]:65535"
     ],
     [
       "tcp://ygg.loskiq.dev:17313",

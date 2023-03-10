@@ -37,10 +37,6 @@
       "tls://aurora.devices.waren.io:18836",
       "tls://95.216.5.243:18836",
       "tls://[2a01:4f9:2a:60c::2]:18836"
-    ],
-    [
-      "tls://[2a01:4f9:6a:49e7:1068:cf52:a4aa:1]:8443?key=9d0bdac2e339fd57bcc9af5c4d5f2ecd98e724d32d56c239a5cdec580ab0a580",
-      "tls://94.23.116.184:1944?key=9d0bdac2e339fd57bcc9af5c4d5f2ecd98e724d32d56c239a5cdec580ab0a580"
     ]
   ],
   "france": [
@@ -110,10 +106,6 @@
       "tls://87.251.77.39:65535"
     ],
     [
-      "tls://[2a01:4f8:13a:19e5:103a:263e:890c:1]:8443?key=4308ccec1a3a9c68c4f376000cf9c7084c1daae4921eb123cd93b6eb96fd8d84",
-      "tls://94.23.116.184:1945?key=4308ccec1a3a9c68c4f376000cf9c7084c1daae4921eb123cd93b6eb96fd8d84"
-    ],
-    [
       "tcp://193.107.20.230:7743"
     ]
   ],
@@ -132,9 +124,6 @@
     ],
     [
       "tls://ro7bwwx7ch6echfqwgivsi37tgojgcrjosgq5jrgx5ebadu4xsaq.b32.i2p:39565"
-    ],
-    [
-      "tls://5cejostqhllvdnbjgmtsua46z6wt5eiecirljvthlz45yvn5hswa.b32.i2p:61944"
     ],
     [
       "tls://xmgzqfidm3zn4y3vfljqiuyfxorifntjca3rfnwv3dbbfcrx4uca.b32.i2p:30112"
@@ -196,9 +185,6 @@
       "tls://pl1.servers.devices.cwinfo.net:11129",
       "tls://54.37.137.221:11129",
       "tls://[2001:41d0:601:1100::cf2]:11129"
-    ],
-    [
-      "tls://[2a03:cfc0:8004::000b:0cf2]:8443?key=4696a1466c69110dfa6060a0be368b1049f1463906a75b815967efa6d374226e"
     ]
   ],
   "romania": [
@@ -208,10 +194,6 @@
     ]
   ],
   "russia": [
-    [
-      "tcp://ygg.tomasgl.ru:61933?key=c5e0c28a600c2118e986196a0bbcbda4934d8e9278ceabea48838dc5d8fae576",
-      "tls://ygg.tomasgl.ru:61944?key=c5e0c28a600c2118e986196a0bbcbda4934d8e9278ceabea48838dc5d8fae576"
-    ],
     [
       "tcp://yggno.de:18226",
       "tls://yggno.de:18227",

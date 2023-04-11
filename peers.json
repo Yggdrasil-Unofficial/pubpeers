@@ -247,8 +247,7 @@
       "tls://avevad.com:1337"
     ],
     [
-      "tcp://92.124.136.131:30111",
-      "tcp://prophet.fun:30111"
+      "tcp://92.124.136.131:30111"
     ],
     [
       "tcp://srv.itrus.su:7991"
@@ -293,6 +292,10 @@
     [
       "tls://ygg.ace.ctrl-c.liu.se:9999?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908",
       "tcp://ygg.ace.ctrl-c.liu.se:9998?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908"
+    ],
+    [
+      "tcp://zhoskiy.xyz:30111",
+      "tcp://80.78.27.103:30111"
     ]
   ],
   "tor": [

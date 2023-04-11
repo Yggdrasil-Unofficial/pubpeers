@@ -13,6 +13,7 @@ tcp://51.15.204.214:12345
 tcp://62.210.85.80:39565
 tcp://77.37.218.131:12402
 tcp://78.27.153.163:33165
+tcp://80.78.27.103:30111
 tcp://92.124.136.131:30111
 tcp://94.130.203.208:5999
 tcp://[2001:470:1f13:e56::64]:39565
@@ -37,7 +38,6 @@ tcp://kusoneko.moe:9002
 tcp://lancis.iscute.moe:49273
 tcp://longseason.1200bps.xyz:13121
 tcp://phrl42.ydns.eu:8842
-tcp://prophet.fun:30111
 tcp://s2.i2pd.xyz:39565
 tcp://sin.yuetau.net:6642
 tcp://srv.itrus.su:7991
@@ -57,6 +57,7 @@ tcp://yggdrasil.community.garage.networks.deavmi.assigned.network:2000
 tcp://yggdrasil.su:62486
 tcp://yggno.de:18226
 tcp://zabugor.itrus.su:7991
+tcp://zhoskiy.xyz:30111
 tls://0.ygg.l1qu1d.net:11101?key=0000000998b5ff8c0f1115ce9212f772d0427151f50fe858e6de1d22600f1680
 tls://102.223.180.74:993
 tls://108.175.10.127:61216

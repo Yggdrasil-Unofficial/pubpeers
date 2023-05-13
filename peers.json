@@ -52,7 +52,7 @@
     [
       "tls://cloudberry.fr1.servers.devices.cwinfo.net:54232",
       "tls://51.255.223.60:54232",
-      "tls://[2001:41d0:2:c44a:51:255:223:60]:54232"
+      "tls://[2001:41d0:303:13b3:51:255:223:60]:54232"
     ],
     [
       "tcp://s2.i2pd.xyz:39565",
@@ -253,6 +253,10 @@
       "tcp://srv.itrus.su:7991"
     ],
     [
+      "tcp://antebeot.ru:7890",
+      "tls://antebeot.ru:7891"
+    ],
+    [
       "tcp://itcom.multed.com:7991"
     ],
     [
@@ -399,8 +403,14 @@
       "tls://ygg3.mk16.de:1338?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1"
     ],
     [
+      "tls://ygg.mnpnk.com:443"
+    ],
+    [
       "tls://cowboy.supergay.network:443",
       "tcp://cowboy.supergay.network:9111"
+    ],
+    [
+      "tls://ygg.jjolly.dev:3443"
     ],
     [
       "tls://167.160.89.98:7040",

@@ -22,6 +22,7 @@ tcp://[2a00:b700::a:279]:12402
 tcp://[2a05:9403::8b]:7743
 tcp://[2a09:5302:ffff::992]:12403
 tcp://aaoth.xyz:7777
+tcp://antebeot.ru:7890
 tcp://box.paulll.cc:13337
 tcp://chiefsnapp.loki:42753
 tcp://corn.chowder.land:9002
@@ -103,7 +104,7 @@ tls://89.22.237.91:65535
 tls://94.103.82.150:8080
 tls://94.140.114.241:4708
 tls://95.216.5.243:18836
-tls://[2001:41d0:2:c44a:51:255:223:60]:54232
+tls://[2001:41d0:303:13b3:51:255:223:60]:54232
 tls://[2001:41d0:304:200::ace3]:23108
 tls://[2001:41d0:601:1100::cf2]:11129
 tls://[2001:41d0:801:2000::233f]:28395
@@ -123,6 +124,7 @@ tls://[2a0d:8480:1:f9::]:65535
 tls://[2a0d:8480:2:54::]:65535
 tls://[2a10:4740:40:0:2222:3f9c:b7cf:1]:43006
 tls://aaoth.xyz:25565
+tls://antebeot.ru:7891
 tls://aurora.devices.waren.io:18836
 tls://avevad.com:1337
 tls://box.paulll.cc:13338
@@ -171,7 +173,9 @@ tls://x7dqdmjb7y5ykj4kgirwzj62wrrd3t5dv57oy7oyidnf7cpthd4k7ryd.onion:5222
 tls://xmgzqfidm3zn4y3vfljqiuyfxorifntjca3rfnwv3dbbfcrx4uca.b32.i2p:30112
 tls://ygg-nl.incognet.io:8884
 tls://ygg.ace.ctrl-c.liu.se:9999?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908
+tls://ygg.jjolly.dev:3443
 tls://ygg.mkg20001.io:443
+tls://ygg.mnpnk.com:443
 tls://ygg1.mk16.de:1338?key=0000000087ee9949eeab56bd430ee8f324cad55abf3993ed9b9be63ce693e18a
 tls://ygg2.mk16.de:1338?key=000000d80a2d7b3126ea65c8c08fc751088c491a5cdd47eff11c86fa1e4644ae
 tls://ygg3.mk16.de:1338?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1

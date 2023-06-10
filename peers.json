@@ -107,6 +107,10 @@
     ],
     [
       "tcp://193.107.20.230:7743"
+    ],
+    [
+      "tcp://ygg.yt:80",
+      "tls://ygg.yt:443"
     ]
   ],
   "i2p": [
@@ -318,6 +322,9 @@
     ],
     [
       "tls://p2pkbqdgvabddixbbr2y7vrra4qxq3sejfep2qknfu4owh7e3i622dqd.onion:1337"
+    ],
+    [
+      "tls://yzkelq2cd76znzdbexyeqp35hw2fgsj5pyc5yd5jntxode3cu4bysnqd.onion:42753"
     ]
   ],
   "turkey": [

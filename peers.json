@@ -186,7 +186,8 @@
     [
       "tls://x-ams-1.sergeysedoy97.ru:65535",
       "tls://s-ams-1.sergeysedoy97.ru:65535",
-      "tls://79.137.194.94:65535"
+      "tls://79.137.194.94:65535",
+      "tls://[2a12:5940:1464::2]:65535"
     ]
   ],
   "poland": [
@@ -210,22 +211,32 @@
       "tls://188.225.9.167:18227"
     ],
     [
-      "tls://x-msk-0.sergeysedoy97.ru:65535",
-      "tls://s-msk-0.sergeysedoy97.ru:65535",
+      "tls://x-mow-0.sergeysedoy97.ru:65535",
+      "tls://s-mow-0.sergeysedoy97.ru:65535",
       "tls://178.20.45.32:65535",
       "tls://[2a0d:8480:2:54::]:65535"
     ],
     [
-      "tls://x-msk-1.sergeysedoy97.ru:65535",
-      "tls://s-msk-1.sergeysedoy97.ru:65535",
+      "tls://x-mow-1.sergeysedoy97.ru:65535",
+      "tls://s-mow-1.sergeysedoy97.ru:65535",
       "tls://185.103.109.63:65535",
       "tls://[2a09:5302:ffff::ac9]:65535"
     ],
     [
-      "tls://x-msk-2.sergeysedoy97.ru:65535",
-      "tls://s-msk-2.sergeysedoy97.ru:65535",
+      "tls://x-mow-2.sergeysedoy97.ru:65535",
+      "tls://s-mow-2.sergeysedoy97.ru:65535",
       "tls://45.95.202.91:65535",
       "tls://[2a09:5302:ffff::aca]:65535"
+    ],
+    [
+      "tls://x-mow-3.sergeysedoy97.ru:65535",
+      "tls://s-mow-3.sergeysedoy97.ru:65535",
+      "tls://[2a00:b700::c:2e1]:65535"
+    ],
+    [
+      "tls://x-mow-4.sergeysedoy97.ru:65535",
+      "tls://s-mow-4.sergeysedoy97.ru:65535",
+      "tls://[2a00:b700:3::3:3b4]:65535"
     ],
     [
       "tcp://45.147.200.202:12402",
@@ -248,6 +259,11 @@
       "tls://box.paulll.cc:13338"
     ],
     [
+      "tls://x-led-0.sergeysedoy97.ru:65535",
+      "tls://s-led-0.sergeysedoy97.ru:65535",
+      "tls://[2a00:b700:5::5:34]:65535"
+    ],
+    [
       "tls://avevad.com:1337"
     ],
     [
@@ -261,10 +277,25 @@
       "tls://antebeot.ru:7891"
     ],
     [
+      "tls://x-ovb-0.sergeysedoy97.ru:65535",
+      "tls://s-ovb-0.sergeysedoy97.ru:65535",
+      "tls://[2a00:b700:2::5:2d4]:65535"
+    ],
+    [
+      "tls://x-ovb-1.sergeysedoy97.ru:65535",
+      "tls://s-ovb-1.sergeysedoy97.ru:65535",
+      "tls://[2a00:b700:4::3:6f]:65535"
+    ],
+    [
       "tcp://itcom.multed.com:7991"
     ],
     [
       "tcp://ekb.itrus.su:7991"
+    ],
+    [
+      "tls://x-kzn-0.sergeysedoy97.ru:65535",
+      "tls://s-kzn-0.sergeysedoy97.ru:65535",
+      "tls://[2a00:b700:1::38]:65535"
     ]
   ],
   "saudi-arabia": [
@@ -304,6 +335,12 @@
     [
       "tcp://zhoskiy.xyz:30111",
       "tcp://80.78.27.103:30111"
+    ],
+    [
+      "tls://x-sto-0.sergeysedoy97.ru:65535",
+      "tls://s-sto-0.sergeysedoy97.ru:65535",
+      "tls://77.91.84.76:65535",
+      "tls://[2a12:5940:b1a0::2]:65535"
     ]
   ],
   "tor": [

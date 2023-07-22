@@ -46,8 +46,10 @@ tcp://tasty.chowder.land:9002
 tcp://vpn.itrus.su:7991
 tcp://y.zbin.eu:7743
 tcp://yes.loki:5000
+tcp://ygg-msk-1.averyan.ru:8363
 tcp://ygg-nl.incognet.io:8883
 tcp://ygg.ace.ctrl-c.liu.se:9998?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908
+tcp://ygg.iva.bz:50001
 tcp://ygg.mkg20001.io:80
 tcp://ygg.yt:80
 tcp://ygg1.mk16.de:1337?key=0000000087ee9949eeab56bd430ee8f324cad55abf3993ed9b9be63ce693e18a
@@ -194,8 +196,10 @@ tls://x-ovb-1.sergeysedoy97.ru:65535
 tls://x-sto-0.sergeysedoy97.ru:65535
 tls://x7dqdmjb7y5ykj4kgirwzj62wrrd3t5dv57oy7oyidnf7cpthd4k7ryd.onion:5222
 tls://xmgzqfidm3zn4y3vfljqiuyfxorifntjca3rfnwv3dbbfcrx4uca.b32.i2p:30112
+tls://ygg-msk-1.averyan.ru:8362
 tls://ygg-nl.incognet.io:8884
 tls://ygg.ace.ctrl-c.liu.se:9999?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908
+tls://ygg.iva.bz:50002
 tls://ygg.jjolly.dev:3443
 tls://ygg.mkg20001.io:443
 tls://ygg.mnpnk.com:443

@@ -205,6 +205,10 @@
   ],
   "russia": [
     [
+      "tcp://ygg-msk-1.averyan.ru:8363",
+      "tls://ygg-msk-1.averyan.ru:8362"
+    ],
+    [
       "tcp://yggno.de:18226",
       "tls://yggno.de:18227",
       "tcp://188.225.9.167:18226",
@@ -262,6 +266,10 @@
       "tls://x-led-0.sergeysedoy97.ru:65535",
       "tls://s-led-0.sergeysedoy97.ru:65535",
       "tls://[2a00:b700:5::5:34]:65535"
+    ],
+    [
+      "tls://ygg.iva.bz:50002",
+      "tcp://ygg.iva.bz:50001"
     ],
     [
       "tls://avevad.com:1337"

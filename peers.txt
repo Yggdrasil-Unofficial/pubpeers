@@ -145,6 +145,7 @@ tls://corn.chowder.land:443
 tls://cowboy.supergay.network:443
 tls://de-fsn-1.peer.v4.yggdrasil.chaz6.com:4444
 tls://douchedeiqqvyyylqorwpej4q3oz46n2shpngp7d27tlcnufnpwag7ad.onion:5222
+tls://ekb.itrus.su:7992
 tls://fi1.servers.devices.cwinfo.net:61995
 tls://fllrj72kxnenalmmi3uz22ljqnmuex4h2jlhwnapxlzrnn7lknadxuqd.onion:706
 tls://fr2.servers.devices.cwinfo.net:23108
@@ -176,10 +177,12 @@ tls://s-ovb-1.sergeysedoy97.ru:65535
 tls://s-sto-0.sergeysedoy97.ru:65535
 tls://s2.i2pd.xyz:39575
 tls://sin.yuetau.net:6643
+tls://srv.itrus.su:7992
 tls://supergay.network:443
 tls://supergay.network:9001
 tls://tasty.chowder.land:9001
 tls://uk1.servers.devices.cwinfo.net:28395
+tls://vpn.itrus.su:7992
 tls://vpn.ltha.de:443?key=0000006149970f245e6cec43664bce203f2514b60a153e194f31e2b229a1339d
 tls://x-ams-0.sergeysedoy97.ru:65535
 tls://x-ams-1.sergeysedoy97.ru:65535
@@ -214,3 +217,4 @@ tls://yggdrasil.su:62586
 tls://yggnekkmyitzepgl5ltdl277y5wdg36n4pc45sualo3yesm3usnuwyad.onion:1863
 tls://yggno.de:18227
 tls://yzkelq2cd76znzdbexyeqp35hw2fgsj5pyc5yd5jntxode3cu4bysnqd.onion:42753
+tls://zabugor.itrus.su:7992

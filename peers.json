@@ -158,7 +158,8 @@
       "tls://94.103.82.150:8080"
     ],
     [
-      "tcp://vpn.itrus.su:7991"
+      "tcp://vpn.itrus.su:7991",
+      "tls://vpn.itrus.su:7992"
     ],
     [
       "tls://45.147.198.155:6010"
@@ -278,7 +279,8 @@
       "tcp://92.124.136.131:30111"
     ],
     [
-      "tcp://srv.itrus.su:7991"
+      "tcp://srv.itrus.su:7991",
+      "tls://srv.itrus.su:7992"
     ],
     [
       "tcp://antebeot.ru:7890",
@@ -298,7 +300,8 @@
       "tcp://itcom.multed.com:7991"
     ],
     [
-      "tcp://ekb.itrus.su:7991"
+      "tcp://ekb.itrus.su:7991",
+      "tls://ekb.itrus.su:7992"
     ],
     [
       "tls://x-kzn-0.sergeysedoy97.ru:65535",
@@ -466,7 +469,8 @@
       "tls://[2605:9f80:2000:64::2]:7040"
     ],
     [
-      "tcp://zabugor.itrus.su:7991"
+      "tcp://zabugor.itrus.su:7991",
+      "tls://zabugor.itrus.su:7992"
     ]
   ]
 }

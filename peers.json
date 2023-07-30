@@ -1,4 +1,9 @@
 {
+  "austria": [
+    [
+      "tls://77.244.252.40:65534"
+    ]
+  ],
   "brazil": [
     [
       "tcp://ipv4.campina-grande.paraiba.brazil.yggdrasil.iasylum.net:40000",

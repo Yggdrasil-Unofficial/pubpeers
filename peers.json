@@ -463,7 +463,6 @@
       "tls://ygg.mnpnk.com:443"
     ],
     [
-      "tls://cowboy.supergay.network:443",
       "tcp://cowboy.supergay.network:9111"
     ],
     [

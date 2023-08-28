@@ -46,6 +46,11 @@
   ],
   "france": [
     [
+      "tls://cloudberry.fr1.servers.devices.cwinfo.net:54232",
+      "tls://51.255.223.60:54232",
+      "tls://[2001:41d0:303:13b3:51:255:223:60]:54232"
+    ],
+    [
       "tls://fr2.servers.devices.cwinfo.net:23108",
       "tls://152.228.216.112:23108",
       "tls://[2001:41d0:304:200::ace3]:23108"
@@ -53,11 +58,6 @@
     [
       "tcp://51.15.204.214:12345",
       "tls://51.15.204.214:54321"
-    ],
-    [
-      "tls://cloudberry.fr1.servers.devices.cwinfo.net:54232",
-      "tls://51.255.223.60:54232",
-      "tls://[2001:41d0:303:13b3:51:255:223:60]:54232"
     ],
     [
       "tcp://s2.i2pd.xyz:39565",
@@ -427,6 +427,10 @@
     [
       "tls://corn.chowder.land:443",
       "tcp://corn.chowder.land:9002"
+    ],
+    [
+      "tls://165.227.17.198:2235",
+      "tcp://165.227.17.198:9002"
     ],
     [
       "tls://supergay.network:443",

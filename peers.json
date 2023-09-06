@@ -186,8 +186,8 @@
     [
       "tls://x-ams-0.sergeysedoy97.ru:65535",
       "tls://s-ams-0.sergeysedoy97.ru:65535",
-      "tls://89.22.237.91:65535",
-      "tls://[2a0d:8480:1:f9::]:65535"
+      "tls://88.210.3.30:65535",
+      "tls://[2a0d:8480:1:2e::]:65535"
     ],
     [
       "tls://x-ams-1.sergeysedoy97.ru:65535",
@@ -223,8 +223,8 @@
     [
       "tls://x-mow-0.sergeysedoy97.ru:65535",
       "tls://s-mow-0.sergeysedoy97.ru:65535",
-      "tls://178.20.45.32:65535",
-      "tls://[2a0d:8480:2:54::]:65535"
+      "tls://178.20.41.3:65535",
+      "tls://[2a0d:8480:2:6bd::]:65535"
     ],
     [
       "tls://x-mow-1.sergeysedoy97.ru:65535",

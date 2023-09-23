@@ -43,7 +43,6 @@ tcp://s2.i2pd.xyz:39565
 tcp://sin.yuetau.net:6642
 tcp://srv.itrus.su:7991
 tcp://supergay.network:9002
-tcp://tasty.chowder.land:9002
 tcp://vpn.itrus.su:7991
 tcp://y.zbin.eu:7743
 tcp://yes.loki:5000
@@ -182,7 +181,6 @@ tls://sin.yuetau.net:6643
 tls://srv.itrus.su:7992
 tls://supergay.network:443
 tls://supergay.network:9001
-tls://tasty.chowder.land:9001
 tls://uk1.servers.devices.cwinfo.net:28395
 tls://vpn.itrus.su:7992
 tls://vpn.ltha.de:443?key=0000006149970f245e6cec43664bce203f2514b60a153e194f31e2b229a1339d

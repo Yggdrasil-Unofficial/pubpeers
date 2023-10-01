@@ -123,9 +123,6 @@
       "tls://7mx6ztmimo5nrnmydjjtkr6maupknr3zlyr33umly22pqnivyxcq.b32.i2p:46944"
     ],
     [
-      "tls://gqt6l2wox5jndysfllrgdr6mp473t24mdi7f3iz6lugpzv3z67wq.b32.i2p:63412"
-    ],
-    [
       "tls://i6lbsjw7kh4gqmbylcsjtfh3juj3dbbk24bwzrpgvtalhs7xagoa.b32.i2p:2721"
     ],
     [
@@ -278,9 +275,6 @@
       "tcp://ygg.iva.bz:50001"
     ],
     [
-      "tls://avevad.com:1337"
-    ],
-    [
       "tcp://92.124.136.131:30111"
     ],
     [
@@ -362,9 +356,6 @@
   "tor": [
     [
       "tls://yggnekkmyitzepgl5ltdl277y5wdg36n4pc45sualo3yesm3usnuwyad.onion:1863"
-    ],
-    [
-      "tls://x7dqdmjb7y5ykj4kgirwzj62wrrd3t5dv57oy7oyidnf7cpthd4k7ryd.onion:5222"
     ],
     [
       "tls://nxuwjikhsirri2rbrdlphstsn3jr2qzjrsylwkt65rh2miycr5n24tid.onion:706",

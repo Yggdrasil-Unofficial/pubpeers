@@ -139,7 +139,6 @@ tls://[2a12:5940:1464::2]:65535
 tls://[2a12:5940:b1a0::2]:65535
 tls://aaoth.xyz:25565
 tls://aurora.devices.waren.io:18836
-tls://avevad.com:1337
 tls://box.paulll.cc:13338
 tls://ca1.servers.devices.cwinfo.net:58226
 tls://cloudberry.fr1.servers.devices.cwinfo.net:54232
@@ -150,7 +149,6 @@ tls://ekb.itrus.su:7992
 tls://fi1.servers.devices.cwinfo.net:61995
 tls://fllrj72kxnenalmmi3uz22ljqnmuex4h2jlhwnapxlzrnn7lknadxuqd.onion:706
 tls://fr2.servers.devices.cwinfo.net:23108
-tls://gqt6l2wox5jndysfllrgdr6mp473t24mdi7f3iz6lugpzv3z67wq.b32.i2p:63412
 tls://gutsche.tech:8889
 tls://i6lbsjw7kh4gqmbylcsjtfh3juj3dbbk24bwzrpgvtalhs7xagoa.b32.i2p:2721
 tls://ip6-antalya.ddns.net:4433
@@ -197,7 +195,6 @@ tls://x-mow-4.sergeysedoy97.ru:65535
 tls://x-ovb-0.sergeysedoy97.ru:65535
 tls://x-ovb-1.sergeysedoy97.ru:65535
 tls://x-sto-0.sergeysedoy97.ru:65535
-tls://x7dqdmjb7y5ykj4kgirwzj62wrrd3t5dv57oy7oyidnf7cpthd4k7ryd.onion:5222
 tls://xmgzqfidm3zn4y3vfljqiuyfxorifntjca3rfnwv3dbbfcrx4uca.b32.i2p:30112
 tls://ygg-msk-1.averyan.ru:8362
 tls://ygg-nl.incognet.io:8884

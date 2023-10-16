@@ -11,6 +11,7 @@ tcp://212.154.86.134:8800
 tcp://45.147.200.202:12402
 tcp://45.95.202.21:12403
 tcp://51.15.204.214:12345
+tcp://51.15.204.214:55555
 tcp://62.210.85.80:39565
 tcp://77.37.218.131:12402
 tcp://78.27.153.163:33165
@@ -210,6 +211,7 @@ tls://ygg3.mk16.de:1338?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83
 tls://ygg4.mk16.de:1338?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b
 tls://ygg4.mk16.de:443?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b
 tls://yggdrasil.community.garage.networks.deavmi.assigned.network:2001
+tls://yggdrasil.neilalexander.dev:64648
 tls://yggdrasil.su:62586
 tls://yggnekkmyitzepgl5ltdl277y5wdg36n4pc45sualo3yesm3usnuwyad.onion:1863
 tls://yggno.de:18227

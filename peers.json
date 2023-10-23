@@ -4,14 +4,6 @@
       "tls://77.244.252.40:65534"
     ]
   ],
-  "brazil": [
-    [
-      "tcp://ipv4.campina-grande.paraiba.brazil.yggdrasil.iasylum.net:40000",
-      "tcp://ipv6.campina-grande.paraiba.brazil.yggdrasil.iasylum.net:41000",
-      "tls://ipv4.campina-grande.paraiba.brazil.yggdrasil.iasylum.net:50000",
-      "tls://ipv6.campina-grande.paraiba.brazil.yggdrasil.iasylum.net:51000"
-    ]
-  ],
   "canada": [
     [
       "tls://ca1.servers.devices.cwinfo.net:58226",
@@ -67,10 +59,6 @@
       "tls://s2.i2pd.xyz:39575",
       "tls://62.210.85.80:39575",
       "tls://[2001:470:1f13:e56::64]:39575"
-    ],
-    [
-      "tls://jorropo.net:12221?key=060f2d49c6a1a2066357ea06e58f5cff8c76a5c0cc513ceb2dab75c900fe183b\u0026sni=jorropo.net",
-      "tls://163.172.31.60:12221?key=060f2d49c6a1a2066357ea06e58f5cff8c76a5c0cc513ceb2dab75c900fe183b\u0026sni=jorropo.net"
     ]
   ],
   "germany": [
@@ -166,9 +154,6 @@
   ],
   "netherlands": [
     [
-      "tls://109.107.173.235:9111"
-    ],
-    [
       "tls://94.103.82.150:8080"
     ],
     [
@@ -179,15 +164,7 @@
       "tls://45.147.198.155:6010"
     ],
     [
-      "tcp://ygg-nl.incognet.io:8883",
-      "tls://ygg-nl.incognet.io:8884"
-    ],
-    [
       "tls://23.137.249.65:444"
-    ],
-    [
-      "tls://aaoth.xyz:25565",
-      "tcp://aaoth.xyz:7777"
     ],
     [
       "tls://23.137.251.45:5222"
@@ -287,9 +264,6 @@
       "tcp://ygg.iva.bz:50001"
     ],
     [
-      "tcp://92.124.136.131:30111"
-    ],
-    [
       "tcp://srv.itrus.su:7991",
       "tls://srv.itrus.su:7992"
     ],
@@ -383,14 +357,6 @@
       "tls://yzkelq2cd76znzdbexyeqp35hw2fgsj5pyc5yd5jntxode3cu4bysnqd.onion:42753"
     ]
   ],
-  "turkey": [
-    [
-      "tcp://212.154.86.134:8800",
-      "tls://212.154.86.134:4433",
-      "tcp://ip6-antalya.ddns.net:8800",
-      "tls://ip6-antalya.ddns.net:4433"
-    ]
-  ],
   "ukraine": [
     [
       "tcp://193.111.114.28:8080",
@@ -409,9 +375,6 @@
       "tls://uk1.servers.devices.cwinfo.net:28395",
       "tls://51.38.64.12:28395",
       "tls://[2001:41d0:801:2000::233f]:28395"
-    ],
-    [
-      "tcp://curiosity.tdjs.tech:30003"
     ],
     [
       "tls://185.175.90.87:43006",
@@ -441,15 +404,10 @@
     ],
     [
       "tcp://ygg4.mk16.de:1337?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b",
-      "tls://ygg4.mk16.de:1338?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b",
-      "tls://ygg4.mk16.de:443?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b"
+      "tls://ygg4.mk16.de:1338?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b"
     ],
     [
       "tls://102.223.180.74:993"
-    ],
-    [
-      "tcp://lancis.iscute.moe:49273",
-      "tls://lancis.iscute.moe:49274"
     ],
     [
       "tcp://longseason.1200bps.xyz:13121",
@@ -474,10 +432,6 @@
     [
       "tls://167.160.89.98:7040",
       "tls://[2605:9f80:2000:64::2]:7040"
-    ],
-    [
-      "tcp://zabugor.itrus.su:7991",
-      "tls://zabugor.itrus.su:7992"
     ]
   ]
 }

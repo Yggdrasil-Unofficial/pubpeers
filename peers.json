@@ -111,7 +111,8 @@
     ],
     [
       "tcp://ygg.yt:80",
-      "tls://ygg.yt:443"
+      "tls://ygg.yt:443",
+      "quic://ygg.yt:443"
     ],
     [
       "tls://yggdrasil.neilalexander.dev:64648"

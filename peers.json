@@ -497,6 +497,11 @@
       "tls://longseason.1200bps.xyz:13122"
     ],
     [
+      "tcp://yggdrasil-2.herronjo.com:1336?key=6cbcd23d94c9a300e442bd1054c7ced8d09dbb6349261651b24e76851efb7edf",
+      "tls://yggdrasil-2.herronjo.com:1337?key=6cbcd23d94c9a300e442bd1054c7ced8d09dbb6349261651b24e76851efb7edf",
+      "quic://yggdrasil-2.herronjo.com:1337?key=6cbcd23d94c9a300e442bd1054c7ced8d09dbb6349261651b24e76851efb7edf"
+    ],
+    [
       "tls://44.234.134.124:443"
     ],
     [

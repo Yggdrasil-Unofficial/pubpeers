@@ -25,6 +25,7 @@ quic://[2a12:5940:1464::2]:65535
 quic://[2a12:5940:b1a0::2]:65535
 quic://bode.theender.net:42269
 quic://ygg.yt:443
+quic://yggdrasil-2.herronjo.com:1337?key=6cbcd23d94c9a300e442bd1054c7ced8d09dbb6349261651b24e76851efb7edf
 tcp://0.ygg.l1qu1d.net:11100?key=0000000998b5ff8c0f1115ce9212f772d0427151f50fe858e6de1d22600f1680
 tcp://158.101.229.219:17002
 tcp://165.227.17.198:9002
@@ -125,6 +126,7 @@ tcp://ygg1.mk16.de:1337?key=0000000087ee9949eeab56bd430ee8f324cad55abf3993ed9b9b
 tcp://ygg2.mk16.de:1337?key=000000d80a2d7b3126ea65c8c08fc751088c491a5cdd47eff11c86fa1e4644ae
 tcp://ygg3.mk16.de:1337?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1
 tcp://ygg4.mk16.de:1337?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b
+tcp://yggdrasil-2.herronjo.com:1336?key=6cbcd23d94c9a300e442bd1054c7ced8d09dbb6349261651b24e76851efb7edf
 tcp://yggdrasil.community.garage.networks.deavmi.assigned.network:2000
 tcp://yggdrasil.su:62486
 tcp://yggno.de:18226
@@ -272,6 +274,7 @@ tls://ygg1.mk16.de:1338?key=0000000087ee9949eeab56bd430ee8f324cad55abf3993ed9b9b
 tls://ygg2.mk16.de:1338?key=000000d80a2d7b3126ea65c8c08fc751088c491a5cdd47eff11c86fa1e4644ae
 tls://ygg3.mk16.de:1338?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1
 tls://ygg4.mk16.de:1338?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b
+tls://yggdrasil-2.herronjo.com:1337?key=6cbcd23d94c9a300e442bd1054c7ced8d09dbb6349261651b24e76851efb7edf
 tls://yggdrasil.community.garage.networks.deavmi.assigned.network:2001
 tls://yggdrasil.neilalexander.dev:64648
 tls://yggdrasil.su:62586

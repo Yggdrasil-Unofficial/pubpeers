@@ -24,6 +24,7 @@ quic://[2a10:4740:40:0:2222:3f9c:b7cf:1]:43006
 quic://[2a12:5940:1464::2]:65535
 quic://[2a12:5940:b1a0::2]:65535
 quic://bode.theender.net:42269
+quic://ygg-msk-1.averyan.ru:8364
 quic://ygg.yt:443
 quic://yggdrasil-2.herronjo.com:1337?key=6cbcd23d94c9a300e442bd1054c7ced8d09dbb6349261651b24e76851efb7edf
 tcp://0.ygg.l1qu1d.net:11100?key=0000000998b5ff8c0f1115ce9212f772d0427151f50fe858e6de1d22600f1680

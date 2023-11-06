@@ -177,7 +177,8 @@
     ],
     [
       "tcp://vpn.itrus.su:7991",
-      "tls://vpn.itrus.su:7992"
+      "tls://vpn.itrus.su:7992",
+      "quic://vpn.itrus.su:7993"
     ],
     [
       "tls://45.147.198.155:6010"
@@ -186,7 +187,8 @@
       "tls://23.137.249.65:444"
     ],
     [
-      "tls://23.137.251.45:5222"
+      "tls://23.137.251.45:5222",
+      "quic://23.137.251.45:5222"
     ],
     [
       "tcp://x-ams-0.sergeysedoy97.ru:65533",
@@ -338,7 +340,8 @@
     ],
     [
       "tcp://srv.itrus.su:7991",
-      "tls://srv.itrus.su:7992"
+      "tls://srv.itrus.su:7992",
+      "quic://srv.itrus.su:7993"
     ],
     [
       "tcp://185.177.216.199:7890",
@@ -367,7 +370,8 @@
     ],
     [
       "tcp://ekb.itrus.su:7991",
-      "tls://ekb.itrus.su:7992"
+      "tls://ekb.itrus.su:7992",
+      "quic://ekb.itrus.su:7993"
     ],
     [
       "tcp://x-kzn-0.sergeysedoy97.ru:65533",
@@ -497,9 +501,6 @@
       "tls://ygg4.mk16.de:1338?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b"
     ],
     [
-      "tls://102.223.180.74:993"
-    ],
-    [
       "tcp://longseason.1200bps.xyz:13121",
       "tls://longseason.1200bps.xyz:13122"
     ],
@@ -527,6 +528,12 @@
     [
       "tls://167.160.89.98:7040",
       "tls://[2605:9f80:2000:64::2]:7040"
+    ],
+    [
+      "tls://23.184.48.86:993",
+      "tls://[2602:fc24:18:7a42::1]:993",
+      "quic://23.184.48.86:993",
+      "quic://[2602:fc24:18:7a42::1]:993"
     ]
   ]
 }

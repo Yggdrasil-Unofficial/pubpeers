@@ -28,6 +28,7 @@ quic://[2a12:5940:1464::2]:65535
 quic://[2a12:5940:b1a0::2]:65535
 quic://bode.theender.net:42269
 quic://ekb.itrus.su:7993
+quic://mima.localghost.org:1998
 quic://srv.itrus.su:7993
 quic://vpn.itrus.su:7993
 quic://ygg-msk-1.averyan.ru:8364

@@ -29,13 +29,13 @@ quic://[2a12:5940:b1a0::2]:65535
 quic://bode.theender.net:42269
 quic://ekb.itrus.su:7993
 quic://mima.localghost.org:1998
+quic://pp1.ygg.sy.sa:8443
 quic://srv.itrus.su:7993
 quic://vpn.itrus.su:7993
 quic://ygg-msk-1.averyan.ru:8364
 quic://ygg.yt:443
 quic://yggdrasil-2.herronjo.com:1337?key=6cbcd23d94c9a300e442bd1054c7ced8d09dbb6349261651b24e76851efb7edf
 tcp://0.ygg.l1qu1d.net:11100?key=0000000998b5ff8c0f1115ce9212f772d0427151f50fe858e6de1d22600f1680
-tcp://158.101.229.219:17002
 tcp://165.227.17.198:9002
 tcp://178.132.161.124:65533
 tcp://178.20.41.3:65533
@@ -62,7 +62,6 @@ tcp://88.210.3.30:65533
 tcp://94.130.203.208:5999
 tcp://[2001:470:1f0a:3d7::2]:65533
 tcp://[2001:470:1f13:e56::64]:39565
-tcp://[2603:c023:8001:1600:35e0:acde:2c6e:b27f]:17002
 tcp://[2a00:b700:1::38]:65533
 tcp://[2a00:b700:2::5:2d4]:65533
 tcp://[2a00:b700:3::3:3b4]:65533
@@ -91,6 +90,7 @@ tcp://kusoneko.moe:9002
 tcp://longseason.1200bps.xyz:13121
 tcp://mima.localghost.org:1996
 tcp://phrl42.ydns.eu:8842
+tcp://pp1.ygg.sy.sa:8441
 tcp://s-ams-0.sergeysedoy97.ru:65533
 tcp://s-ams-1.sergeysedoy97.ru:65533
 tcp://s-fra-0.sergeysedoy97.ru:65533
@@ -144,7 +144,6 @@ tls://0.ygg.l1qu1d.net:11101?key=0000000998b5ff8c0f1115ce9212f772d0427151f50fe85
 tls://108.175.10.127:61216
 tls://139.28.220.141:3333
 tls://152.228.216.112:23108
-tls://158.101.229.219:17001
 tls://165.227.17.198:2235
 tls://167.160.89.98:7040
 tls://178.132.161.124:65534
@@ -196,7 +195,6 @@ tls://[2001:41d0:801:2000::233f]:28395
 tls://[2001:470:1f0a:3d7::2]:65534
 tls://[2001:470:1f13:e56::64]:39575
 tls://[2602:fc24:18:7a42::1]:993
-tls://[2603:c023:8001:1600:35e0:acde:2c6e:b27f]:17001
 tls://[2605:9f80:2000:64::2]:7040
 tls://[2607:5300:201:3100::50a1]:58226
 tls://[2a00:b700:1::38]:65534
@@ -238,6 +236,7 @@ tls://mima.localghost.org:1997
 tls://nxuwjikhsirri2rbrdlphstsn3jr2qzjrsylwkt65rh2miycr5n24tid.onion:706
 tls://p2pkbqdgvabddixbbr2y7vrra4qxq3sejfep2qknfu4owh7e3i622dqd.onion:1337
 tls://pl1.servers.devices.cwinfo.net:11129
+tls://pp1.ygg.sy.sa:8442
 tls://ro7bwwx7ch6echfqwgivsi37tgojgcrjosgq5jrgx5ebadu4xsaq.b32.i2p:39565
 tls://s-ams-0.sergeysedoy97.ru:65534
 tls://s-ams-1.sergeysedoy97.ru:65534

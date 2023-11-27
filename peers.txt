@@ -35,6 +35,7 @@ quic://vpn.itrus.su:7993
 quic://ygg-msk-1.averyan.ru:8364
 quic://ygg.yt:443
 quic://yggdrasil-2.herronjo.com:1337?key=6cbcd23d94c9a300e442bd1054c7ced8d09dbb6349261651b24e76851efb7edf
+quic://yggdrasil.neilalexander.dev:64648
 tcp://0.ygg.l1qu1d.net:11100?key=0000000998b5ff8c0f1115ce9212f772d0427151f50fe858e6de1d22600f1680
 tcp://165.227.17.198:9002
 tcp://178.132.161.124:65533
@@ -87,6 +88,8 @@ tcp://itcom.multed.com:7991
 tcp://jeff.loki:5000
 tcp://kusoneko.moe:9002
 tcp://longseason.1200bps.xyz:13121
+tcp://matrix.darkness.services:10100
+tcp://matrixv6.darkness.services:10100
 tcp://mima.localghost.org:1996
 tcp://phrl42.ydns.eu:8842
 tcp://pp1.ygg.sy.sa:8441
@@ -231,6 +234,8 @@ tls://fr2.servers.devices.cwinfo.net:23108
 tls://gutsche.tech:8889
 tls://i6lbsjw7kh4gqmbylcsjtfh3juj3dbbk24bwzrpgvtalhs7xagoa.b32.i2p:2721
 tls://longseason.1200bps.xyz:13122
+tls://matrix.darkness.services:10101
+tls://matrixv6.darkness.services:10101
 tls://mima.localghost.org:1997
 tls://nxuwjikhsirri2rbrdlphstsn3jr2qzjrsylwkt65rh2miycr5n24tid.onion:706
 tls://p2pkbqdgvabddixbbr2y7vrra4qxq3sejfep2qknfu4owh7e3i622dqd.onion:1337

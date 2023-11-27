@@ -118,7 +118,8 @@
       "quic://ygg.yt:443"
     ],
     [
-      "tls://yggdrasil.neilalexander.dev:64648"
+      "tls://yggdrasil.neilalexander.dev:64648",
+      "quic://yggdrasil.neilalexander.dev:64648"
     ],
     [
       "tcp://bode.theender.net:42069",
@@ -502,6 +503,12 @@
     [
       "tcp://ygg4.mk16.de:1337?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b",
       "tls://ygg4.mk16.de:1338?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b"
+    ],
+    [
+      "tcp://matrix.darkness.services:10100",
+      "tls://matrix.darkness.services:10101",
+      "tcp://matrixv6.darkness.services:10100",
+      "tls://matrixv6.darkness.services:10101"
     ],
     [
       "tcp://longseason.1200bps.xyz:13121",

@@ -19,10 +19,6 @@
   ],
   "czechia": [
     [
-      "tcp://195.123.245.146:7743",
-      "tcp://[2a05:9403::8b]:7743"
-    ],
-    [
       "tls://37.205.14.171:993",
       "tls://[2a03:3b40:fe:ab::1]:993"
     ]
@@ -147,9 +143,16 @@
       "tls://3qqi3lxscvx2ebatj36y6wmdzaah7eblf5fl7scayp6wgyhh3vpa.b32.i2p"
     ]
   ],
+  "japan": [
+    [
+      "tls://133.18.201.69:54232",
+      "tls://153.120.42.137:54232"
+    ]
+  ],
   "latvia": [
     [
-      "tls://94.140.114.241:4708"
+      "tls://94.140.114.241:4708",
+      "tls://[2a02:7aa0:4000::f2]:4708"
     ]
   ],
   "lokinet": [
@@ -496,6 +499,9 @@
       "tls://supergay.network:443",
       "tls://supergay.network:9001",
       "tcp://supergay.network:9002"
+    ],
+    [
+      "tcp://rendezvous.anton.molyboha.me:25453"
     ],
     [
       "tls://108.175.10.127:61216"

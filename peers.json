@@ -343,10 +343,6 @@
       "quic://[2a00:b700:5::5:34]:65535"
     ],
     [
-      "tls://ygg.iva.bz:50002",
-      "tcp://ygg.iva.bz:50001"
-    ],
-    [
       "tcp://srv.itrus.su:7991",
       "tls://srv.itrus.su:7992",
       "quic://srv.itrus.su:7993"

@@ -12,9 +12,6 @@
   "austria": [
     [
       "tls://77.244.252.40:65534"
-    ],
-    [
-      "tls://77.244.252.40:60050"
     ]
   ],
   "canada": [
@@ -22,9 +19,6 @@
       "tls://ca1.servers.devices.cwinfo.net:58226",
       "tls://192.99.145.61:58226",
       "tls://[2607:5300:201:3100::50a1]:58226"
-    ],
-    [
-      "tcp://kusoneko.moe:9002"
     ]
   ],
   "czechia": [
@@ -80,13 +74,6 @@
     [
       "tls://ygg.mkg20001.io:443",
       "tcp://ygg.mkg20001.io:80"
-    ],
-    [
-      "tcp://phrl42.ydns.eu:8842"
-    ],
-    [
-      "tcp://gutsche.tech:8888",
-      "tls://gutsche.tech:8889"
     ],
     [
       "tcp://ygg1.mk16.de:1337?key=0000000087ee9949eeab56bd430ee8f324cad55abf3993ed9b9be63ce693e18a",
@@ -161,8 +148,7 @@
   ],
   "latvia": [
     [
-      "tls://94.140.114.241:4708",
-      "tls://[2a02:7aa0:5000::4708]:4708"
+      "tls://94.140.114.89:4708"
     ]
   ],
   "lokinet": [
@@ -179,26 +165,17 @@
       "tcp://x-kiv-0.sergeysedoy97.ru:65533",
       "tcp://s-kiv-0.sergeysedoy97.ru:65533",
       "tcp://178.132.161.124:65533",
-      "tcp://[2001:470:1f0a:3d7::2]:65533",
       "tls://x-kiv-0.sergeysedoy97.ru:65534",
       "tls://s-kiv-0.sergeysedoy97.ru:65534",
       "tls://178.132.161.124:65534",
-      "tls://[2001:470:1f0a:3d7::2]:65534",
-      "quic://178.132.161.124:65535",
-      "quic://[2001:470:1f0a:3d7::2]:65535"
+      "quic://178.132.161.124:65535"
     ]
   ],
   "netherlands": [
     [
-      "tls://94.103.82.150:8080"
-    ],
-    [
       "tcp://vpn.itrus.su:7991",
       "tls://vpn.itrus.su:7992",
       "quic://vpn.itrus.su:7993"
-    ],
-    [
-      "tls://45.147.198.155:6010"
     ],
     [
       "tls://23.137.249.65:444"
@@ -423,16 +400,8 @@
   ],
   "sweden": [
     [
-      "tls://185.130.44.194:7040",
-      "tls://[2a07:e01:105:444:c634:6bff:feb5:6e28]:7040"
-    ],
-    [
       "tls://ygg.ace.ctrl-c.liu.se:9999?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908",
       "tcp://ygg.ace.ctrl-c.liu.se:9998?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908"
-    ],
-    [
-      "tcp://zhoskiy.xyz:30111",
-      "tcp://80.78.27.103:30111"
     ],
     [
       "tcp://x-sto-0.sergeysedoy97.ru:65533",
@@ -494,10 +463,6 @@
   ],
   "united-states": [
     [
-      "tls://corn.chowder.land:443",
-      "tcp://corn.chowder.land:9002"
-    ],
-    [
       "tls://165.227.17.198:2235",
       "tcp://165.227.17.198:9002"
     ],
@@ -510,21 +475,8 @@
       "tcp://rendezvous.anton.molyboha.me:25453"
     ],
     [
-      "tls://108.175.10.127:61216"
-    ],
-    [
       "tcp://ygg4.mk16.de:1337?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b",
       "tls://ygg4.mk16.de:1338?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b"
-    ],
-    [
-      "tcp://matrix.darkness.services:10100",
-      "tls://matrix.darkness.services:10101",
-      "tcp://matrixv6.darkness.services:10100",
-      "tls://matrixv6.darkness.services:10101"
-    ],
-    [
-      "tcp://longseason.1200bps.xyz:13121",
-      "tls://longseason.1200bps.xyz:13122"
     ],
     [
       "tcp://yggdrasil-2.herronjo.com:1336?key=6cbcd23d94c9a300e442bd1054c7ced8d09dbb6349261651b24e76851efb7edf",
@@ -546,10 +498,6 @@
     ],
     [
       "tls://ygg.jjolly.dev:3443"
-    ],
-    [
-      "tls://167.160.89.98:7040",
-      "tls://[2605:9f80:2000:64::2]:7040"
     ],
     [
       "tls://23.184.48.86:993",

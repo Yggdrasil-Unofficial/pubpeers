@@ -494,6 +494,10 @@
       "tls://ygg.mnpnk.com:443"
     ],
     [
+      "tcp://longseason.1200bps.xyz:13121",
+      "tls://longseason.1200bps.xyz:13122"
+    ],
+    [
       "tcp://cowboy.supergay.network:9111"
     ],
     [

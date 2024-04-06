@@ -4,9 +4,11 @@ quic://178.20.41.3:65535
 quic://185.103.109.63:65535
 quic://185.175.90.87:43006
 quic://193.93.119.42:1443
+quic://198.23.229.154:9003
 quic://23.137.251.45:5222
 quic://23.184.48.86:993
 quic://37.186.113.100:1515
+quic://45.61.188.119:9003
 quic://45.95.202.91:65535
 quic://77.91.84.76:65535
 quic://79.137.194.94:65535
@@ -34,6 +36,7 @@ quic://pp1.ygg.sy.sa:8443
 quic://srv.itrus.su:7993
 quic://vpn.itrus.su:7993
 quic://ygg-msk-1.averyan.ru:8364
+quic://ygg-uplink.thingylabs.io:443
 quic://ygg.yt:443
 quic://yggdrasil-2.herronjo.com:1337?key=6cbcd23d94c9a300e442bd1054c7ced8d09dbb6349261651b24e76851efb7edf
 quic://yggdrasil.neilalexander.dev:64648
@@ -123,6 +126,7 @@ tcp://x-sto-0.sergeysedoy97.ru:65533
 tcp://y.zbin.eu:7743
 tcp://yes.loki:5000
 tcp://ygg-msk-1.averyan.ru:8363
+tcp://ygg-uplink.thingylabs.io:80
 tcp://ygg.ace.ctrl-c.liu.se:9998?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908
 tcp://ygg.mkg20001.io:80
 tcp://ygg.yt:80
@@ -263,6 +267,7 @@ tls://x-ovb-1.sergeysedoy97.ru:65534
 tls://x-sto-0.sergeysedoy97.ru:65534
 tls://xmgzqfidm3zn4y3vfljqiuyfxorifntjca3rfnwv3dbbfcrx4uca.b32.i2p:30112
 tls://ygg-msk-1.averyan.ru:8362
+tls://ygg-uplink.thingylabs.io:443
 tls://ygg.ace.ctrl-c.liu.se:9999?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908
 tls://ygg.jjolly.dev:3443
 tls://ygg.mkg20001.io:443

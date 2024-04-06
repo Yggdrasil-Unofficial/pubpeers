@@ -71,6 +71,11 @@
   ],
   "germany": [
     [
+      "quic://ygg-uplink.thingylabs.io:443",
+      "tls://ygg-uplink.thingylabs.io:443",
+      "tcp://ygg-uplink.thingylabs.io:80"
+    ],
+    [
       "tcp://94.130.203.208:5999"
     ],
     [
@@ -467,6 +472,12 @@
     [
       "tls://165.227.17.198:2235",
       "tcp://165.227.17.198:9002"
+    ],
+    [
+      "quic://45.61.188.119:9003"
+    ],
+    [
+      "quic://198.23.229.154:9003"
     ],
     [
       "tls://supergay.network:443",

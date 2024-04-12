@@ -62,6 +62,7 @@ tcp://78.27.153.163:33165
 tcp://79.137.194.94:65533
 tcp://87.251.77.39:65533
 tcp://88.210.3.30:65533
+tcp://94.103.183.125:7676
 tcp://94.130.203.208:5999
 tcp://[2001:470:1f13:e56::64]:39565
 tcp://[2a00:b700:1::38]:65533
@@ -268,6 +269,7 @@ tls://x-sto-0.sergeysedoy97.ru:65534
 tls://xmgzqfidm3zn4y3vfljqiuyfxorifntjca3rfnwv3dbbfcrx4uca.b32.i2p:30112
 tls://ygg-msk-1.averyan.ru:8362
 tls://ygg-uplink.thingylabs.io:443
+tls://ygg-uplink.thingylabs.io:993
 tls://ygg.ace.ctrl-c.liu.se:9999?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908
 tls://ygg.jjolly.dev:3443
 tls://ygg.mkg20001.io:443

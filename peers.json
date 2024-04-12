@@ -71,9 +71,10 @@
   ],
   "germany": [
     [
-      "quic://ygg-uplink.thingylabs.io:443",
+      "tcp://ygg-uplink.thingylabs.io:80",
       "tls://ygg-uplink.thingylabs.io:443",
-      "tcp://ygg-uplink.thingylabs.io:80"
+      "tls://ygg-uplink.thingylabs.io:993",
+      "quic://ygg-uplink.thingylabs.io:443"
     ],
     [
       "tcp://94.130.203.208:5999"
@@ -322,6 +323,9 @@
     [
       "tcp://77.37.218.131:12402",
       "tls://77.37.218.131:443"
+    ],
+    [
+      "tcp://94.103.183.125:7676"
     ],
     [
       "tcp://box.paulll.cc:13337",

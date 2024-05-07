@@ -139,6 +139,7 @@ tcp://yggdrasil-2.herronjo.com:1336?key=6cbcd23d94c9a300e442bd1054c7ced8d09dbb63
 tcp://yggdrasil.community.garage.networks.deavmi.assigned.network:2000
 tcp://yggdrasil.su:62486
 tcp://yggno.de:18226
+tls://109.176.250.101:65534
 tls://133.18.201.69:54232
 tls://139.28.220.141:3333
 tls://152.228.216.112:23108
@@ -197,6 +198,7 @@ tls://[2a00:b700::a:279]:443
 tls://[2a00:b700::c:2e1]:65534
 tls://[2a01:4f9:2a:60c::2]:18836
 tls://[2a01:4f9:c012:a8df::1]:61995
+tls://[2a02:1b8:10:147::1:1ea]:65534
 tls://[2a03:3b40:fe:ab::1]:993
 tls://[2a09:5302:ffff::992]:443
 tls://[2a09:5302:ffff::ac9]:65534

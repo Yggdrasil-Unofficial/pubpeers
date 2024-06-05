@@ -38,6 +38,7 @@ quic://ygg-msk-1.averyan.ru:8364
 quic://ygg-uplink.thingylabs.io:443
 quic://yggdrasil-2.herronjo.com:1337?key=6cbcd23d94c9a300e442bd1054c7ced8d09dbb6349261651b24e76851efb7edf
 quic://yggdrasil.neilalexander.dev:64648
+quic://yggdrasil.sunsung.fun:4441
 tcp://165.227.17.198:9002
 tcp://178.132.161.124:65533
 tcp://178.20.41.3:65533
@@ -138,6 +139,7 @@ tcp://ygg4.mk16.de:1337?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba
 tcp://yggdrasil-2.herronjo.com:1336?key=6cbcd23d94c9a300e442bd1054c7ced8d09dbb6349261651b24e76851efb7edf
 tcp://yggdrasil.community.garage.networks.deavmi.assigned.network:2000
 tcp://yggdrasil.su:62486
+tcp://yggdrasil.sunsung.fun:4442
 tcp://yggno.de:18226
 tls://109.176.250.101:65534
 tls://133.18.201.69:54232
@@ -280,6 +282,7 @@ tls://yggdrasil-2.herronjo.com:1337?key=6cbcd23d94c9a300e442bd1054c7ced8d09dbb63
 tls://yggdrasil.community.garage.networks.deavmi.assigned.network:2001
 tls://yggdrasil.neilalexander.dev:64648
 tls://yggdrasil.su:62586
+tls://yggdrasil.sunsung.fun:4443
 tls://yggnekkmyitzepgl5ltdl277y5wdg36n4pc45sualo3yesm3usnuwyad.onion:1863
 tls://yggno.de:18227
 tls://yzkelq2cd76znzdbexyeqp35hw2fgsj5pyc5yd5jntxode3cu4bysnqd.onion:42753

@@ -463,6 +463,11 @@
       "tls://78.27.153.163:3785",
       "tls://78.27.153.163:3784",
       "tls://78.27.153.163:179"
+    ],
+    [
+      "quic://yggdrasil.sunsung.fun:4441",
+      "tcp://yggdrasil.sunsung.fun:4442",
+      "tls://yggdrasil.sunsung.fun:4443"
     ]
   ],
   "united-kingdom": [

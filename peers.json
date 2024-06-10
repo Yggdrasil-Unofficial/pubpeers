@@ -36,6 +36,13 @@
       "tls://[2a03:3b40:fe:ab::1]:993"
     ]
   ],
+  "estonia": [
+    [
+      "tls://193.40.103.121:8080",
+      "tls://[2001:bb8:4008:20::121]:8080",
+      "tls://hein.massia.ee:8080"
+    ]
+  ],
   "finland": [
     [
       "tls://fi1.servers.devices.cwinfo.net:61995",

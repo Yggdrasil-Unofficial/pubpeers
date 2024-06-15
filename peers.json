@@ -418,8 +418,8 @@
   ],
   "south-africa": [
     [
-      "tcp://yggdrasil.community.garage.networks.deavmi.assigned.network:2000",
-      "tls://yggdrasil.community.garage.networks.deavmi.assigned.network:2001"
+      "tcp://yggdrasil.deavmi.assigned.network:2000",
+      "tls://yggdrasil.deavmi.assigned.network:2001"
     ]
   ],
   "sweden": [

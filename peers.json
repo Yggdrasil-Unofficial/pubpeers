@@ -80,11 +80,6 @@
       "tls://s2.i2pd.xyz:39575",
       "tls://62.210.85.80:39575",
       "tls://[2001:470:1f13:e56::64]:39575"
-    ],
-    [
-      "tcp://boy.iwnp.org:65533",
-      "tls://boy.iwnp.org:65534",
-      "quic://boy.iwnp.org:65535"
     ]
   ],
   "germany": [
@@ -170,11 +165,6 @@
       "tls://153.120.42.137:54232"
     ]
   ],
-  "latvia": [
-    [
-      "tls://94.140.114.89:4708"
-    ]
-  ],
   "lokinet": [
     [
       "tcp://jeff.loki:5000",
@@ -211,14 +201,8 @@
     [
       "tcp://x-ams-0.sergeysedoy97.ru:65533",
       "tcp://s-ams-0.sergeysedoy97.ru:65533",
-      "tcp://88.210.3.30:65533",
-      "tcp://[2a0d:8480:1:2e::]:65533",
       "tls://x-ams-0.sergeysedoy97.ru:65534",
-      "tls://s-ams-0.sergeysedoy97.ru:65534",
-      "tls://88.210.3.30:65534",
-      "tls://[2a0d:8480:1:2e::]:65534",
-      "quic://88.210.3.30:65535",
-      "quic://[2a0d:8480:1:2e::]:65535"
+      "tls://s-ams-0.sergeysedoy97.ru:65534"
     ],
     [
       "tcp://x-ams-1.sergeysedoy97.ru:65533",
@@ -304,24 +288,6 @@
       "quic://[2a09:5302:ffff::aca]:65535"
     ],
     [
-      "tcp://x-mow-3.sergeysedoy97.ru:65533",
-      "tcp://s-mow-3.sergeysedoy97.ru:65533",
-      "tcp://[2a00:b700::c:2e1]:65533",
-      "tls://x-mow-3.sergeysedoy97.ru:65534",
-      "tls://s-mow-3.sergeysedoy97.ru:65534",
-      "tls://[2a00:b700::c:2e1]:65534",
-      "quic://[2a00:b700::c:2e1]:65535"
-    ],
-    [
-      "tcp://x-mow-4.sergeysedoy97.ru:65533",
-      "tcp://s-mow-4.sergeysedoy97.ru:65533",
-      "tcp://[2a00:b700:3::3:3b4]:65533",
-      "tls://x-mow-4.sergeysedoy97.ru:65534",
-      "tls://s-mow-4.sergeysedoy97.ru:65534",
-      "tls://[2a00:b700:3::3:3b4]:65534",
-      "quic://[2a00:b700:3::3:3b4]:65535"
-    ],
-    [
       "tcp://45.147.200.202:12402",
       "tcp://[2a00:b700::a:279]:12402",
       "tls://45.147.200.202:443",
@@ -345,15 +311,6 @@
       "tls://box.paulll.cc:13338"
     ],
     [
-      "tcp://x-led-0.sergeysedoy97.ru:65533",
-      "tcp://s-led-0.sergeysedoy97.ru:65533",
-      "tcp://[2a00:b700:5::5:34]:65533",
-      "tls://x-led-0.sergeysedoy97.ru:65534",
-      "tls://s-led-0.sergeysedoy97.ru:65534",
-      "tls://[2a00:b700:5::5:34]:65534",
-      "quic://[2a00:b700:5::5:34]:65535"
-    ],
-    [
       "tcp://srv.itrus.su:7991",
       "tls://srv.itrus.su:7992",
       "quic://srv.itrus.su:7993"
@@ -361,24 +318,6 @@
     [
       "tcp://185.177.216.199:7890",
       "tls://185.177.216.199:7891"
-    ],
-    [
-      "tcp://x-ovb-0.sergeysedoy97.ru:65533",
-      "tcp://s-ovb-0.sergeysedoy97.ru:65533",
-      "tcp://[2a00:b700:2::5:2d4]:65533",
-      "tls://x-ovb-0.sergeysedoy97.ru:65534",
-      "tls://s-ovb-0.sergeysedoy97.ru:65534",
-      "tls://[2a00:b700:2::5:2d4]:65534",
-      "quic://[2a00:b700:2::5:2d4]:65535"
-    ],
-    [
-      "tcp://x-ovb-1.sergeysedoy97.ru:65533",
-      "tcp://s-ovb-1.sergeysedoy97.ru:65533",
-      "tcp://[2a00:b700:4::3:6f]:65533",
-      "tls://x-ovb-1.sergeysedoy97.ru:65534",
-      "tls://s-ovb-1.sergeysedoy97.ru:65534",
-      "tls://[2a00:b700:4::3:6f]:65534",
-      "quic://[2a00:b700:4::3:6f]:65535"
     ],
     [
       "tcp://itcom.multed.com:7991"
@@ -511,11 +450,6 @@
     [
       "tcp://ygg4.mk16.de:1337?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b",
       "tls://ygg4.mk16.de:1338?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b"
-    ],
-    [
-      "tcp://yggdrasil-2.herronjo.com:1336?key=6cbcd23d94c9a300e442bd1054c7ced8d09dbb6349261651b24e76851efb7edf",
-      "tls://yggdrasil-2.herronjo.com:1337?key=6cbcd23d94c9a300e442bd1054c7ced8d09dbb6349261651b24e76851efb7edf",
-      "quic://yggdrasil-2.herronjo.com:1337?key=6cbcd23d94c9a300e442bd1054c7ced8d09dbb6349261651b24e76851efb7edf"
     ],
     [
       "tls://44.234.134.124:443"

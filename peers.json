@@ -195,10 +195,6 @@
       "tls://23.137.249.65:444"
     ],
     [
-      "tls://23.137.251.45:5222",
-      "quic://23.137.251.45:5222"
-    ],
-    [
       "tcp://x-ams-0.sergeysedoy97.ru:65533",
       "tcp://s-ams-0.sergeysedoy97.ru:65533",
       "tls://x-ams-0.sergeysedoy97.ru:65534",

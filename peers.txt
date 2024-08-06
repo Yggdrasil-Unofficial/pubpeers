@@ -72,7 +72,6 @@ tcp://ekb.itrus.su:7991
 tcp://itcom.multed.com:7991
 tcp://jeff.loki:5000
 tcp://longseason.1200bps.xyz:13121
-tcp://mima.localghost.org:1996
 tcp://pp1.ygg.sy.sa:8441
 tcp://rendezvous.anton.molyboha.me:25453
 tcp://s-ams-0.sergeysedoy97.ru:65533
@@ -188,7 +187,7 @@ tls://fr2.servers.devices.cwinfo.net:23108
 tls://hein.massia.ee:8080
 tls://i6lbsjw7kh4gqmbylcsjtfh3juj3dbbk24bwzrpgvtalhs7xagoa.b32.i2p:2721
 tls://longseason.1200bps.xyz:13122
-tls://mima.localghost.org:1997
+tls://mima.localghost.org:443
 tls://nxuwjikhsirri2rbrdlphstsn3jr2qzjrsylwkt65rh2miycr5n24tid.onion:706
 tls://p2pkbqdgvabddixbbr2y7vrra4qxq3sejfep2qknfu4owh7e3i622dqd.onion:1337
 tls://pl1.servers.devices.cwinfo.net:11129

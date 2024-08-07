@@ -189,7 +189,8 @@
     [
       "tcp://vpn.itrus.su:7991",
       "tls://vpn.itrus.su:7992",
-      "quic://vpn.itrus.su:7993"
+      "quic://vpn.itrus.su:7993",
+      "ws://vpn.itrus.su:7994"
     ],
     [
       "tls://23.137.249.65:444"
@@ -308,7 +309,8 @@
     [
       "tcp://srv.itrus.su:7991",
       "tls://srv.itrus.su:7992",
-      "quic://srv.itrus.su:7993"
+      "quic://srv.itrus.su:7993",
+      "ws://srv.itrus.su:7994"
     ],
     [
       "tcp://185.177.216.199:7890",
@@ -320,7 +322,8 @@
     [
       "tcp://ekb.itrus.su:7991",
       "tls://ekb.itrus.su:7992",
-      "quic://ekb.itrus.su:7993"
+      "quic://ekb.itrus.su:7993",
+      "ws://ekb.itrus.su:7994"
     ],
     [
       "tcp://x-kzn-0.sergeysedoy97.ru:65533",
@@ -396,7 +399,8 @@
     [
       "tcp://193.93.119.42:14244",
       "tls://193.93.119.42:443",
-      "quic://193.93.119.42:1443"
+      "quic://193.93.119.42:1443",
+      "ws://193.93.119.42:850"
     ],
     [
       "tcp://78.27.153.163:33165",

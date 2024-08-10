@@ -239,6 +239,8 @@ tls://yggnekkmyitzepgl5ltdl277y5wdg36n4pc45sualo3yesm3usnuwyad.onion:1863
 tls://yggno.de:18227
 tls://yzkelq2cd76znzdbexyeqp35hw2fgsj5pyc5yd5jntxode3cu4bysnqd.onion:42753
 ws://193.93.119.42:850
+ws://37.186.113.100:1516
 ws://ekb.itrus.su:7994
 ws://srv.itrus.su:7994
 ws://vpn.itrus.su:7994
+wss://ygg-evn-1.wgos.org:443

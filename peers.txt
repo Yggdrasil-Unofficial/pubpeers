@@ -20,6 +20,7 @@ quic://[2a0d:8480:2:6bd::]:65535
 quic://[2a10:4740:40:0:2222:3f9c:b7cf:1]:43006
 quic://[2a12:5940:1464::2]:65535
 quic://[2a12:5940:b1a0::2]:65535
+quic://aiwnios.com:41098
 quic://bode.theender.net:42269
 quic://ekb.itrus.su:7993
 quic://pp1.ygg.sy.sa:8443
@@ -124,7 +125,6 @@ tls://185.175.90.87:43006
 tls://185.177.216.199:7891
 tls://188.225.9.167:18227
 tls://192.99.145.61:58226
-tls://193.40.103.121:8080
 tls://193.93.119.42:443
 tls://23.137.249.65:444
 tls://23.184.48.86:993
@@ -157,7 +157,6 @@ tls://[2001:41d0:304:200::ace3]:23108
 tls://[2001:41d0:601:1100::cf2]:11129
 tls://[2001:41d0:801:2000::233f]:28395
 tls://[2001:470:1f13:e56::64]:39575
-tls://[2001:bb8:4008:20::121]:8080
 tls://[2602:fc24:18:7a42::1]:993
 tls://[2607:5300:201:3100::50a1]:58226
 tls://[2a00:b700:1::38]:65534
@@ -184,7 +183,6 @@ tls://ekb.itrus.su:7992
 tls://fi1.servers.devices.cwinfo.net:61995
 tls://fllrj72kxnenalmmi3uz22ljqnmuex4h2jlhwnapxlzrnn7lknadxuqd.onion:706
 tls://fr2.servers.devices.cwinfo.net:23108
-tls://hein.massia.ee:8080
 tls://i6lbsjw7kh4gqmbylcsjtfh3juj3dbbk24bwzrpgvtalhs7xagoa.b32.i2p:2721
 tls://longseason.1200bps.xyz:13122
 tls://mima.localghost.org:443

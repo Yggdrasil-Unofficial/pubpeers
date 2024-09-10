@@ -30,6 +30,7 @@ quic://ygg-msk-1.averyan.ru:8364
 quic://ygg-uplink.thingylabs.io:443
 quic://yggdrasil.neilalexander.dev:64648
 quic://yggdrasil.sunsung.fun:4441
+quic://yggpeer.tilde.green:62265
 tcp://165.227.17.198:9002
 tcp://178.132.161.124:65533
 tcp://178.20.41.3:65533
@@ -112,6 +113,7 @@ tcp://yggdrasil.deavmi.assigned.network:2000
 tcp://yggdrasil.su:62486
 tcp://yggdrasil.sunsung.fun:4442
 tcp://yggno.de:18226
+tcp://yggpeer.tilde.green:53299
 tls://109.176.250.101:65534
 tls://133.18.201.69:54232
 tls://139.28.220.141:3333
@@ -235,6 +237,7 @@ tls://yggdrasil.su:62586
 tls://yggdrasil.sunsung.fun:4443
 tls://yggnekkmyitzepgl5ltdl277y5wdg36n4pc45sualo3yesm3usnuwyad.onion:1863
 tls://yggno.de:18227
+tls://yggpeer.tilde.green:59454
 tls://yzkelq2cd76znzdbexyeqp35hw2fgsj5pyc5yd5jntxode3cu4bysnqd.onion:42753
 ws://193.93.119.42:850
 ws://37.186.113.100:1516

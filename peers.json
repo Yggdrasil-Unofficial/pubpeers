@@ -25,13 +25,6 @@
       "tcp://[2a14:2d81:0:6::1]:7676"
     ]
   ],
-  "canada": [
-    [
-      "tls://ca1.servers.devices.cwinfo.net:58226",
-      "tls://192.99.145.61:58226",
-      "tls://[2607:5300:201:3100::50a1]:58226"
-    ]
-  ],
   "czechia": [
     [
       "tls://37.205.14.171:993",
@@ -299,10 +292,6 @@
       "tls://[2a09:5302:ffff::992]:443"
     ],
     [
-      "tcp://77.37.218.131:12402",
-      "tls://77.37.218.131:443"
-    ],
-    [
       "tcp://94.103.183.125:7676"
     ],
     [
@@ -326,14 +315,7 @@
       "tcp://ekb.itrus.su:7991",
       "tls://ekb.itrus.su:7992",
       "quic://ekb.itrus.su:7993",
-      "ws://ekb.itrus.su:7994"
-    ],
-    [
-      "tcp://x-kzn-0.sergeysedoy97.ru:65533",
-      "tcp://s-kzn-0.sergeysedoy97.ru:65533",
-      "tcp://[2a00:b700:1::38]:65533",
-      "tls://x-kzn-0.sergeysedoy97.ru:65534",
-      "tls://s-kzn-0.sergeysedoy97.ru:65534",
+      "ws://ekb.itrus.su:7994",
       "tls://[2a00:b700:1::38]:65534",
       "quic://[2a00:b700:1::38]:65535"
     ]
@@ -416,19 +398,6 @@
       "quic://yggdrasil.sunsung.fun:4441",
       "tcp://yggdrasil.sunsung.fun:4442",
       "tls://yggdrasil.sunsung.fun:4443"
-    ]
-  ],
-  "united-kingdom": [
-    [
-      "tls://uk1.servers.devices.cwinfo.net:28395",
-      "tls://51.38.64.12:28395",
-      "tls://[2001:41d0:801:2000::233f]:28395"
-    ],
-    [
-      "tls://185.175.90.87:43006",
-      "tls://[2a10:4740:40:0:2222:3f9c:b7cf:1]:43006",
-      "quic://185.175.90.87:43006",
-      "quic://[2a10:4740:40:0:2222:3f9c:b7cf:1]:43006"
     ]
   ],
   "united-states": [

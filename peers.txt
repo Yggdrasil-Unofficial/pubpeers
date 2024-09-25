@@ -11,6 +11,7 @@ quic://ekb.itrus.su:7993
 quic://pp1.ygg.sy.sa:8443
 quic://srv.itrus.su:7993
 quic://uk.yggdrasil.neilalexander.dev:64648?key=c936c2171cf36fb4326acc644f83e367d0224b9e5b65bd97073c91e6d9d96559
+quic://vix.duckdns.org:36014
 quic://vpn.itrus.su:7993
 quic://x-ams-0.sergeysedoy97.ru:65535
 quic://x-ams-1.sergeysedoy97.ru:65535
@@ -160,6 +161,7 @@ tls://srv.itrus.su:7992
 tls://supergay.network:443
 tls://supergay.network:9001
 tls://uk.yggdrasil.neilalexander.dev:64648?key=c936c2171cf36fb4326acc644f83e367d0224b9e5b65bd97073c91e6d9d96559
+tls://vix.duckdns.org:36014
 tls://vpn.itrus.su:7992
 tls://vpn.ltha.de:443?key=0000006149970f245e6cec43664bce203f2514b60a153e194f31e2b229a1339d
 tls://x-ams-0.sergeysedoy97.ru:65534

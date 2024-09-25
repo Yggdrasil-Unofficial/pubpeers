@@ -286,6 +286,10 @@
       "tls://ekb.itrus.su:7992",
       "quic://ekb.itrus.su:7993",
       "ws://ekb.itrus.su:7994"
+    ],
+    [
+      "tls://vix.duckdns.org:36014",
+      "quic://vix.duckdns.org:36014"
     ]
   ],
   "saudi-arabia": [

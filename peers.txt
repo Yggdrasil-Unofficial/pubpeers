@@ -141,6 +141,7 @@ tls://ekb.itrus.su:7992
 tls://fi1.servers.devices.cwinfo.net:61995
 tls://fllrj72kxnenalmmi3uz22ljqnmuex4h2jlhwnapxlzrnn7lknadxuqd.onion:706
 tls://fr2.servers.devices.cwinfo.net:23108
+tls://goux4uxdsu4gdnoxvizb74fapjtsn2pstqeqonr2juwqn5qqfgiowjyd.onion:5222
 tls://i6lbsjw7kh4gqmbylcsjtfh3juj3dbbk24bwzrpgvtalhs7xagoa.b32.i2p:2721
 tls://longseason.1200bps.xyz:13122
 tls://mima.localghost.org:443

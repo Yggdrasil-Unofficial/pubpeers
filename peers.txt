@@ -9,6 +9,7 @@ quic://aiwnios.com:41098
 quic://bode.theender.net:42269
 quic://ekb.itrus.su:7993
 quic://pp1.ygg.sy.sa:8443
+quic://spain.magicum.net:36900
 quic://srv.itrus.su:7993
 quic://uk.yggdrasil.neilalexander.dev:64648?key=c936c2171cf36fb4326acc644f83e367d0224b9e5b65bd97073c91e6d9d96559
 quic://vix.duckdns.org:36014
@@ -159,6 +160,7 @@ tls://s-mow-1.sergeysedoy97.ru:65534
 tls://s-sto-0.sergeysedoy97.ru:65534
 tls://s2.i2pd.xyz:39575
 tls://sin.yuetau.net:6643
+tls://spain.magicum.net:36901
 tls://srv.itrus.su:7992
 tls://supergay.network:443
 tls://supergay.network:9001

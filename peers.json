@@ -319,6 +319,12 @@
       "tls://yggdrasil.deavmi.assigned.network:2001"
     ]
   ],
+  "spain": [
+    [
+      "quic://spain.magicum.net:36900",
+      "tls://spain.magicum.net:36901"
+    ]
+  ],
   "sweden": [
     [
       "tls://ygg.ace.ctrl-c.liu.se:9999?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908",

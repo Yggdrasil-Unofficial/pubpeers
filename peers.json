@@ -351,6 +351,14 @@
       "quic://x-sto-0.sergeysedoy97.ru:65535"
     ]
   ],
+  "switzerland": [
+    [
+      "tls://45.91.92.28:9441",
+      "tcp://45.91.92.28:9442",
+      "tls://[2a0e:dc0:6:257d::42]:9441",
+      "tcp://[2a0e:dc0:6:257d::42]:9442"
+    ]
+  ],
   "tor": [
     [
       "tls://yggnekkmyitzepgl5ltdl277y5wdg36n4pc45sualo3yesm3usnuwyad.onion:1863"

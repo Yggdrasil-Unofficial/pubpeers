@@ -336,6 +336,9 @@
     [
       "quic://spain.magicum.net:36900",
       "tls://spain.magicum.net:36901"
+    ],
+    [
+      "tcp://rendezvous.anton.molyboha.me:50421"
     ]
   ],
   "sweden": [
@@ -428,9 +431,6 @@
       "tls://supergay.network:443",
       "tls://supergay.network:9001",
       "tcp://supergay.network:9002"
-    ],
-    [
-      "tcp://rendezvous.anton.molyboha.me:25453"
     ],
     [
       "tcp://ygg4.mk16.de:1337?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b",

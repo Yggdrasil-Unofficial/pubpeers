@@ -13,7 +13,6 @@ quic://nerdvm.mywire.org:65535
 quic://pp1.ygg.sy.sa:8443
 quic://spain.magicum.net:36900
 quic://srv.itrus.su:7993
-quic://uk.yggdrasil.neilalexander.dev:64648?key=c936c2171cf36fb4326acc644f83e367d0224b9e5b65bd97073c91e6d9d96559
 quic://vix.duckdns.org:36014
 quic://vpn.itrus.su:7993
 quic://x-ams-0.sergeysedoy97.ru:65535
@@ -26,7 +25,6 @@ quic://x-sto-0.sergeysedoy97.ru:65535
 quic://yg-syd.magicum.net:23700
 quic://ygg-msk-1.averyan.ru:8364
 quic://ygg-uplink.thingylabs.io:443
-quic://yggdrasil.neilalexander.dev:64648?key=ecbbcb3298e7d3b4196103333c3e839cfe47a6ca47602b94a6d596683f6bb358
 quic://yggdrasil.sunsung.fun:4441
 quic://yggpeer.tilde.green:62265
 tcp://165.227.17.198:9002

@@ -22,6 +22,7 @@ quic://x-kiv-0.sergeysedoy97.ru:65535
 quic://x-mow-0.sergeysedoy97.ru:65535
 quic://x-mow-1.sergeysedoy97.ru:65535
 quic://x-sto-0.sergeysedoy97.ru:65535
+quic://yg-mel.magicum.net:23800
 quic://yg-syd.magicum.net:23700
 quic://ygg-msk-1.averyan.ru:8364
 quic://ygg-uplink.thingylabs.io:443
@@ -188,6 +189,7 @@ tls://x-mow-0.sergeysedoy97.ru:65534
 tls://x-mow-1.sergeysedoy97.ru:65534
 tls://x-sto-0.sergeysedoy97.ru:65534
 tls://xmgzqfidm3zn4y3vfljqiuyfxorifntjca3rfnwv3dbbfcrx4uca.b32.i2p:30112
+tls://yg-mel.magicum.net:23800
 tls://yg-syd.magicum.net:23700
 tls://ygg-msk-1.averyan.ru:8362
 tls://ygg-uplink.thingylabs.io:443

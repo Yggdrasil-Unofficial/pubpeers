@@ -17,6 +17,10 @@
       "tls://yg-syd.magicum.net:23700"
     ],
     [
+      "quic://yg-mel.magicum.net:23800",
+      "tls://yg-mel.magicum.net:23800"
+    ],
+    [
       "tls://[2001:44b8:26e:1300::1]:7676"
     ]
   ],

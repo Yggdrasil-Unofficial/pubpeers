@@ -49,6 +49,7 @@ tcp://95.164.4.146:7676
 tcp://[2001:470:1f13:e56::64]:39565
 tcp://[2a00:b700::a:279]:12402
 tcp://[2a03:90c0:85::28a]:446
+tcp://[2a04:5b81:2011:1:dea6:32ff:fe0b:b610]:2000
 tcp://[2a09:5302:ffff::992]:12403
 tcp://[2a09:7c45:0:10::1]:7676
 tcp://[2a0e:dc0:6:257d::42]:9442
@@ -102,7 +103,6 @@ tcp://yggpeer.tilde.green:53299
 tls://109.176.250.101:65534
 tls://133.18.201.69:54232
 tls://139.28.220.141:3333
-tls://152.228.216.112:23108
 tls://153.120.42.137:54232
 tls://185.165.169.234:8443
 tls://185.177.216.199:7891
@@ -120,7 +120,6 @@ tls://45.91.92.28:9441
 tls://45.95.202.21:443
 tls://51.15.204.214:54321
 tls://51.255.223.60:54232
-tls://54.37.137.221:11129
 tls://62.210.85.80:39575
 tls://65.21.57.122:61995
 tls://78.27.153.163:179
@@ -130,8 +129,6 @@ tls://78.27.153.163:3785
 tls://7mx6ztmimo5nrnmydjjtkr6maupknr3zlyr33umly22pqnivyxcq.b32.i2p:46944
 tls://95.216.5.243:18836
 tls://[2001:41d0:303:13b3:51:255:223:60]:54232
-tls://[2001:41d0:304:200::ace3]:23108
-tls://[2001:41d0:601:1100::cf2]:11129
 tls://[2001:44b8:26e:1300::1]:7676
 tls://[2001:470:1f13:e56::64]:39575
 tls://[2602:fc24:18:7a42::1]:993
@@ -141,6 +138,7 @@ tls://[2a01:4f9:c012:a8df::1]:61995
 tls://[2a02:1b8:10:147::1:1ea]:65534
 tls://[2a03:3b40:fe:ab::1]:993
 tls://[2a03:90c0:85::28a]:443
+tls://[2a04:5b81:2011:1:dea6:32ff:fe0b:b610]:2001
 tls://[2a09:5302:ffff::992]:443
 tls://[2a0e:dc0:6:257d::42]:9441
 tls://aurora.devices.waren.io:18836
@@ -152,7 +150,6 @@ tls://douchedeiqqvyyylqorwpej4q3oz46n2shpngp7d27tlcnufnpwag7ad.onion:5222
 tls://ekb.itrus.su:7992
 tls://fi1.servers.devices.cwinfo.net:61995
 tls://fllrj72kxnenalmmi3uz22ljqnmuex4h2jlhwnapxlzrnn7lknadxuqd.onion:706
-tls://fr2.servers.devices.cwinfo.net:23108
 tls://ftp.aiwnios.com:989
 tls://goux4uxdsu4gdnoxvizb74fapjtsn2pstqeqonr2juwqn5qqfgiowjyd.onion:5222
 tls://i6lbsjw7kh4gqmbylcsjtfh3juj3dbbk24bwzrpgvtalhs7xagoa.b32.i2p:2721
@@ -161,7 +158,6 @@ tls://longseason.1200bps.xyz:13122
 tls://mima.localghost.org:443
 tls://nxuwjikhsirri2rbrdlphstsn3jr2qzjrsylwkt65rh2miycr5n24tid.onion:706
 tls://p2pkbqdgvabddixbbr2y7vrra4qxq3sejfep2qknfu4owh7e3i622dqd.onion:1337
-tls://pl1.servers.devices.cwinfo.net:11129
 tls://pp1.ygg.sy.sa:8442
 tls://ro7bwwx7ch6echfqwgivsi37tgojgcrjosgq5jrgx5ebadu4xsaq.b32.i2p:39565
 tls://s-ams-0.sergeysedoy97.ru:65534

@@ -118,8 +118,10 @@
       "quic://x-fra-0.sergeysedoy97.ru:65535"
     ],
     [
-      "tcp://89.117.152.94:65535",
-      "quic://89.117.152.94:65535"
+      "tcp://ip4.fvm.mywire.org:8080?key=000000000143db657d1d6f80b5066dd109a4cb31f7dc6cb5d56050fffb014217",
+      "quic://ip4.fvm.mywire.org:443?key=000000000143db657d1d6f80b5066dd109a4cb31f7dc6cb5d56050fffb014217",
+      "tcp://ip6.fvm.mywire.org:8080?key=000000000143db657d1d6f80b5066dd109a4cb31f7dc6cb5d56050fffb014217",
+      "quic://ip6.fvm.mywire.org:443?key=000000000143db657d1d6f80b5066dd109a4cb31f7dc6cb5d56050fffb014217"
     ],
     [
       "tcp://193.107.20.230:7743"
@@ -417,8 +419,10 @@
       "tcp://165.227.17.198:9002"
     ],
     [
-      "tcp://nerdvm.mywire.org:65535",
-      "quic://nerdvm.mywire.org:65535"
+      "tcp://ip4.nerdvm.mywire.org:8080?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7",
+      "quic://ip4.nerdvm.mywire.org:443?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7",
+      "tcp://ip6.nerdvm.mywire.org:8080?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7",
+      "quic://ip6.nerdvm.mywire.org:443?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7"
     ],
     [
       "quic://45.61.188.119:9003"

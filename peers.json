@@ -141,6 +141,14 @@
       "tcp://[2a09:7c45:0:10::1]:7676"
     ]
   ],
+  "hungary": [
+    [
+      "tls://ygg1.grin.hu:42444",
+      "quic://ygg1.grin.hu:4299",
+      "tls://ygg1.grin.hu:42444",
+      "ws://ygg1.grin.hu:42443"
+    ]
+  ],
   "i2p": [
     [
       "tls://7mx6ztmimo5nrnmydjjtkr6maupknr3zlyr33umly22pqnivyxcq.b32.i2p:46944"

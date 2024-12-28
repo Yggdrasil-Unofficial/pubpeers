@@ -55,6 +55,10 @@
     ],
     [
       "tls://139.28.220.141:3333"
+    ],
+    [
+      "tls://95.217.35.92:1337",
+      "tls://[2a01:4f9:2b:2d8f::2]:1337"
     ]
   ],
   "france": [
@@ -215,6 +219,12 @@
       "tls://23.137.249.65:444"
     ],
     [
+      "tcp://ygg-nl.incognet.io:8883",
+      "tls://ygg-nl.incognet.io:8884",
+      "quic://ygg-nl.incognet.io:8885",
+      "ws://ygg-nl.incognet.io:8886"
+    ],
+    [
       "tcp://x-ams-0.sergeysedoy97.ru:65533",
       "tcp://s-ams-0.sergeysedoy97.ru:65533",
       "tls://x-ams-0.sergeysedoy97.ru:65534",
@@ -310,8 +320,26 @@
       "ws://ekb.itrus.su:7994"
     ],
     [
+      "tcp://ip4.01.ekb.ru.dioni.su:9002",
+      "tls://ip4.01.ekb.ru.dioni.su:9003",
+      "quic://ip4.01.ekb.ru.dioni.su:9002",
+      "ws://ip4.01.ekb.ru.dioni.su:9004"
+    ],
+    [
+      "tcp://ip6.01.ekb.ru.dioni.su:9002",
+      "tls://ip6.01.ekb.ru.dioni.su:9003",
+      "quic://ip6.01.ekb.ru.dioni.su:9002",
+      "ws://ip6.01.ekb.ru.dioni.su:9004"
+    ],
+    [
       "tls://vix.duckdns.org:36014",
       "quic://vix.duckdns.org:36014"
+    ],
+    [
+      "tcp://ip4.01.tom.ru.dioni.su:9002",
+      "tls://ip4.01.tom.ru.dioni.su:9003",
+      "quic://ip4.01.tom.ru.dioni.su:9002",
+      "ws://ip4.01.tom.ru.dioni.su:9004"
     ]
   ],
   "saudi-arabia": [
@@ -448,6 +476,16 @@
       "tls://ygg4.mk16.de:1338?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b"
     ],
     [
+      "tcp://ygg-kcmo.incognet.io:8883",
+      "tls://ygg-kcmo.incognet.io:8884",
+      "quic://ygg-kcmo.incognet.io:8885",
+      "ws://ygg-kcmo.incognet.io:8886"
+    ],
+    [
+      "tcp://longseason.1200bps.xyz:13121",
+      "tls://longseason.1200bps.xyz:13122"
+    ],
+    [
       "tls://44.234.134.124:443"
     ],
     [
@@ -458,8 +496,10 @@
       "tls://ygg.mnpnk.com:443"
     ],
     [
-      "tcp://longseason.1200bps.xyz:13121",
-      "tls://longseason.1200bps.xyz:13122"
+      "tcp://ygg-pa.incognet.io:8883",
+      "tls://ygg-pa.incognet.io:8884",
+      "quic://ygg-pa.incognet.io:8885",
+      "ws://ygg-pa.incognet.io:8886"
     ],
     [
       "tcp://cowboy.supergay.network:9111"
@@ -472,6 +512,12 @@
       "tls://[2602:fc24:18:7a42::1]:993",
       "quic://23.184.48.86:993",
       "quic://[2602:fc24:18:7a42::1]:993"
+    ],
+    [
+      "tcp://ygg-wa.incognet.io:8883",
+      "tls://ygg-wa.incognet.io:8884",
+      "quic://ygg-wa.incognet.io:8885",
+      "ws://ygg-wa.incognet.io:8886"
     ]
   ]
 }

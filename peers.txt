@@ -9,10 +9,12 @@ quic://[2a03:90c0:85::28a]:444
 quic://bode.theender.net:42269
 quic://ekb.itrus.su:7993
 quic://ip4.01.ekb.ru.dioni.su:9002
+quic://ip4.01.msk.ru.dioni.su:9002
 quic://ip4.01.tom.ru.dioni.su:9002
 quic://ip4.fvm.mywire.org:443?key=000000000143db657d1d6f80b5066dd109a4cb31f7dc6cb5d56050fffb014217
 quic://ip4.nerdvm.mywire.org:443?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7
 quic://ip6.01.ekb.ru.dioni.su:9002
+quic://ip6.01.msk.ru.dioni.su:9002
 quic://ip6.fvm.mywire.org:443?key=000000000143db657d1d6f80b5066dd109a4cb31f7dc6cb5d56050fffb014217
 quic://ip6.nerdvm.mywire.org:443?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7
 quic://pp1.ygg.sy.sa:8443
@@ -69,10 +71,12 @@ tcp://chiefsnapp.loki:42753
 tcp://cowboy.supergay.network:9111
 tcp://ekb.itrus.su:7991
 tcp://ip4.01.ekb.ru.dioni.su:9002
+tcp://ip4.01.msk.ru.dioni.su:9002
 tcp://ip4.01.tom.ru.dioni.su:9002
 tcp://ip4.fvm.mywire.org:8080?key=000000000143db657d1d6f80b5066dd109a4cb31f7dc6cb5d56050fffb014217
 tcp://ip4.nerdvm.mywire.org:8080?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7
 tcp://ip6.01.ekb.ru.dioni.su:9002
+tcp://ip6.01.msk.ru.dioni.su:9002
 tcp://ip6.fvm.mywire.org:8080?key=000000000143db657d1d6f80b5066dd109a4cb31f7dc6cb5d56050fffb014217
 tcp://ip6.nerdvm.mywire.org:8080?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7
 tcp://itcom.multed.com:7991
@@ -175,8 +179,10 @@ tls://ftp.aiwnios.com:989
 tls://goux4uxdsu4gdnoxvizb74fapjtsn2pstqeqonr2juwqn5qqfgiowjyd.onion:5222
 tls://i6lbsjw7kh4gqmbylcsjtfh3juj3dbbk24bwzrpgvtalhs7xagoa.b32.i2p:2721
 tls://ip4.01.ekb.ru.dioni.su:9003
+tls://ip4.01.msk.ru.dioni.su:9003
 tls://ip4.01.tom.ru.dioni.su:9003
 tls://ip6.01.ekb.ru.dioni.su:9003
+tls://ip6.01.msk.ru.dioni.su:9003
 tls://london.sabretruth.org:18472
 tls://longseason.1200bps.xyz:13122
 tls://mima.localghost.org:443
@@ -240,8 +246,10 @@ ws://37.186.113.100:1516
 ws://[2a03:90c0:85::28a]:445
 ws://ekb.itrus.su:7994
 ws://ip4.01.ekb.ru.dioni.su:9004
+ws://ip4.01.msk.ru.dioni.su:9004
 ws://ip4.01.tom.ru.dioni.su:9004
 ws://ip6.01.ekb.ru.dioni.su:9004
+ws://ip6.01.msk.ru.dioni.su:9004
 ws://srv.itrus.su:7994
 ws://vpn.itrus.su:7994
 ws://ygg-kcmo.incognet.io:8886

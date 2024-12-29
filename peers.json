@@ -297,6 +297,18 @@
       "tcp://94.103.183.125:7676"
     ],
     [
+      "tcp://ip4.01.msk.ru.dioni.su:9002",
+      "tls://ip4.01.msk.ru.dioni.su:9003",
+      "quic://ip4.01.msk.ru.dioni.su:9002",
+      "ws://ip4.01.msk.ru.dioni.su:9004"
+    ],
+    [
+      "tcp://ip6.01.msk.ru.dioni.su:9002",
+      "tls://ip6.01.msk.ru.dioni.su:9003",
+      "quic://ip6.01.msk.ru.dioni.su:9002",
+      "ws://ip6.01.msk.ru.dioni.su:9004"
+    ],
+    [
       "tcp://box.paulll.cc:13337",
       "tls://box.paulll.cc:13338"
     ],

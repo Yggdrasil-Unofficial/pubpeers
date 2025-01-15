@@ -15,6 +15,7 @@ quic://ip4.fvm.mywire.org:443?key=000000000143db657d1d6f80b5066dd109a4cb31f7dc6c
 quic://ip4.nerdvm.mywire.org:443?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7
 quic://ip6.01.ekb.ru.dioni.su:9002
 quic://ip6.01.msk.ru.dioni.su:9002
+quic://ip6.casa2.mywire.org:44443?key=af4885c078c705dc0e21a696171f3d7878c48bd47164571590f29f38ed5a4573
 quic://ip6.fvm.mywire.org:443?key=000000000143db657d1d6f80b5066dd109a4cb31f7dc6cb5d56050fffb014217
 quic://ip6.nerdvm.mywire.org:443?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7
 quic://pp1.ygg.sy.sa:8443
@@ -30,6 +31,7 @@ quic://x-mow-0.sergeysedoy97.ru:65535
 quic://x-mow-1.sergeysedoy97.ru:65535
 quic://x-sto-0.sergeysedoy97.ru:65535
 quic://yg-mel.magicum.net:23800
+quic://yg-osa.magicum.net:23900
 quic://yg-syd.magicum.net:23700
 quic://ygg-kcmo.incognet.io:8885
 quic://ygg-msk-1.averyan.ru:8364
@@ -216,6 +218,7 @@ tls://x-mow-1.sergeysedoy97.ru:65534
 tls://x-sto-0.sergeysedoy97.ru:65534
 tls://xmgzqfidm3zn4y3vfljqiuyfxorifntjca3rfnwv3dbbfcrx4uca.b32.i2p:30112
 tls://yg-mel.magicum.net:23800
+tls://yg-osa.magicum.net:23900
 tls://yg-syd.magicum.net:23700
 tls://ygg-kcmo.incognet.io:8884
 tls://ygg-msk-1.averyan.ru:8362

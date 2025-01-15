@@ -34,6 +34,9 @@
     [
       "tcp://95.164.4.146:7676",
       "tcp://[2a14:2d81:0:6::1]:7676"
+    ],
+    [
+      "quic://ip6.casa2.mywire.org:44443?key=af4885c078c705dc0e21a696171f3d7878c48bd47164571590f29f38ed5a4573"
     ]
   ],
   "czechia": [
@@ -180,6 +183,10 @@
     ],
     [
       "tls://ftp.aiwnios.com:989"
+    ],
+    [
+      "quic://yg-osa.magicum.net:23900",
+      "tls://yg-osa.magicum.net:23900"
     ]
   ],
   "lokinet": [

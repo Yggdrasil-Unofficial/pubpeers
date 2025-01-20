@@ -220,6 +220,7 @@ tls://xmgzqfidm3zn4y3vfljqiuyfxorifntjca3rfnwv3dbbfcrx4uca.b32.i2p:30112
 tls://yg-mel.magicum.net:23800
 tls://yg-osa.magicum.net:23900
 tls://yg-syd.magicum.net:23700
+tls://ygg-evn-1.wgos.org:443
 tls://ygg-kcmo.incognet.io:8884
 tls://ygg-msk-1.averyan.ru:8362
 tls://ygg-nl.incognet.io:8884

@@ -317,6 +317,9 @@
       "ws://ip6.01.msk.ru.dioni.su:9004"
     ],
     [
+      "tcp://yggdrasil.1337.moe:7676"
+    ],
+    [
       "tcp://box.paulll.cc:13337",
       "tls://box.paulll.cc:13338"
     ],
@@ -494,6 +497,10 @@
     [
       "tcp://ygg4.mk16.de:1337?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b",
       "tls://ygg4.mk16.de:1338?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b"
+    ],
+    [
+      "tls://redcatho.de:9494",
+      "quic://redcatho.de:9494"
     ],
     [
       "tcp://ygg-kcmo.incognet.io:8883",

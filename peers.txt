@@ -19,6 +19,7 @@ quic://ip6.casa2.mywire.org:44443?key=af4885c078c705dc0e21a696171f3d7878c48bd471
 quic://ip6.fvm.mywire.org:443?key=000000000143db657d1d6f80b5066dd109a4cb31f7dc6cb5d56050fffb014217
 quic://ip6.nerdvm.mywire.org:443?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7
 quic://pp1.ygg.sy.sa:8443
+quic://redcatho.de:9494
 quic://spain.magicum.net:36900
 quic://srv.itrus.su:7993
 quic://vix.duckdns.org:36014
@@ -120,6 +121,7 @@ tcp://ygg1.mk16.de:1337?key=0000000087ee9949eeab56bd430ee8f324cad55abf3993ed9b9b
 tcp://ygg2.mk16.de:1337?key=000000d80a2d7b3126ea65c8c08fc751088c491a5cdd47eff11c86fa1e4644ae
 tcp://ygg3.mk16.de:1337?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1
 tcp://ygg4.mk16.de:1337?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b
+tcp://yggdrasil.1337.moe:7676
 tcp://yggdrasil.deavmi.assigned.network:2000
 tcp://yggdrasil.su:62486
 tcp://yggdrasil.sunsung.fun:4442
@@ -191,6 +193,7 @@ tls://mima.localghost.org:443
 tls://nxuwjikhsirri2rbrdlphstsn3jr2qzjrsylwkt65rh2miycr5n24tid.onion:706
 tls://p2pkbqdgvabddixbbr2y7vrra4qxq3sejfep2qknfu4owh7e3i622dqd.onion:1337
 tls://pp1.ygg.sy.sa:8442
+tls://redcatho.de:9494
 tls://ro7bwwx7ch6echfqwgivsi37tgojgcrjosgq5jrgx5ebadu4xsaq.b32.i2p:39565
 tls://s-ams-0.sergeysedoy97.ru:65534
 tls://s-ams-1.sergeysedoy97.ru:65534

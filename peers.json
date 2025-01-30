@@ -177,6 +177,11 @@
       "tls://3qqi3lxscvx2ebatj36y6wmdzaah7eblf5fl7scayp6wgyhh3vpa.b32.i2p"
     ]
   ],
+  "india": [
+    [
+      "tls://117.221.230.135:443"
+    ]
+  ],
   "japan": [
     [
       "tls://133.18.201.69:54232",

@@ -1,5 +1,7 @@
 quic://0.ygg.l1qu1d.net:11102?key=0000000998b5ff8c0f1115ce9212f772d0427151f50fe858e6de1d22600f1680
 quic://193.93.119.42:1443
+quic://195.2.74.155:7994
+quic://195.58.51.167:7994
 quic://198.23.229.154:9003
 quic://23.184.48.86:993
 quic://37.186.113.100:1515
@@ -18,6 +20,8 @@ quic://ip6.01.msk.ru.dioni.su:9002
 quic://ip6.casa2.mywire.org:44443?key=af4885c078c705dc0e21a696171f3d7878c48bd47164571590f29f38ed5a4573
 quic://ip6.fvm.mywire.org:443?key=000000000143db657d1d6f80b5066dd109a4cb31f7dc6cb5d56050fffb014217
 quic://ip6.nerdvm.mywire.org:443?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7
+quic://kzn1.neonxp.ru:7994
+quic://msk1.neonxp.ru:7994
 quic://pp1.ygg.sy.sa:8443
 quic://redcatho.de:9494
 quic://spain.magicum.net:36900
@@ -51,6 +55,8 @@ tcp://193.107.20.230:7743
 tcp://193.93.119.42:14244
 tcp://194.156.98.6:7676
 tcp://195.114.14.86:7676
+tcp://195.2.74.155:7991
+tcp://195.58.51.167:7991
 tcp://37.186.113.100:1514
 tcp://45.147.200.202:12402
 tcp://45.91.92.28:9442
@@ -84,8 +90,10 @@ tcp://ip6.fvm.mywire.org:8080?key=000000000143db657d1d6f80b5066dd109a4cb31f7dc6c
 tcp://ip6.nerdvm.mywire.org:8080?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7
 tcp://itcom.multed.com:7991
 tcp://jeff.loki:5000
+tcp://kzn1.neonxp.ru:7991
 tcp://london.sabretruth.org:18473
 tcp://longseason.1200bps.xyz:13121
+tcp://msk1.neonxp.ru:7991
 tcp://pp1.ygg.sy.sa:8441
 tcp://rendezvous.anton.molyboha.me:50421
 tcp://s-ams-0.sergeysedoy97.ru:65533
@@ -136,6 +144,8 @@ tls://185.165.169.234:8443
 tls://185.177.216.199:7891
 tls://188.225.9.167:18227
 tls://193.93.119.42:443
+tls://195.2.74.155:7992
+tls://195.58.51.167:7992
 tls://23.137.249.65:444
 tls://23.184.48.86:993
 tls://2ddoxwucodjfy6u34v3toxm2a463nzd3f523hhfzc3y5de7twj6a.b32.i2p:2281
@@ -188,9 +198,11 @@ tls://ip4.01.msk.ru.dioni.su:9003
 tls://ip4.01.tom.ru.dioni.su:9003
 tls://ip6.01.ekb.ru.dioni.su:9003
 tls://ip6.01.msk.ru.dioni.su:9003
+tls://kzn1.neonxp.ru:7992
 tls://london.sabretruth.org:18472
 tls://longseason.1200bps.xyz:13122
 tls://mima.localghost.org:443
+tls://msk1.neonxp.ru:7992
 tls://nxuwjikhsirri2rbrdlphstsn3jr2qzjrsylwkt65rh2miycr5n24tid.onion:706
 tls://p2pkbqdgvabddixbbr2y7vrra4qxq3sejfep2qknfu4owh7e3i622dqd.onion:1337
 tls://pp1.ygg.sy.sa:8442
@@ -250,6 +262,8 @@ tls://yggno.de:18227
 tls://yggpeer.tilde.green:59454
 tls://yzkelq2cd76znzdbexyeqp35hw2fgsj5pyc5yd5jntxode3cu4bysnqd.onion:42753
 ws://193.93.119.42:850
+ws://195.2.74.155:7993
+ws://195.58.51.167:7993
 ws://37.186.113.100:1516
 ws://[2a03:90c0:85::28a]:445
 ws://ekb.itrus.su:7994
@@ -258,6 +272,8 @@ ws://ip4.01.msk.ru.dioni.su:9004
 ws://ip4.01.tom.ru.dioni.su:9004
 ws://ip6.01.ekb.ru.dioni.su:9004
 ws://ip6.01.msk.ru.dioni.su:9004
+ws://kzn1.neonxp.ru:7993
+ws://msk1.neonxp.ru:7993
 ws://srv.itrus.su:7994
 ws://vpn.itrus.su:7994
 ws://ygg-kcmo.incognet.io:8886

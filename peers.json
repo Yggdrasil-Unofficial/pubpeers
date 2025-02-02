@@ -438,6 +438,12 @@
       "tls://x-sto-0.sergeysedoy97.ru:65534",
       "tls://s-sto-0.sergeysedoy97.ru:65534",
       "quic://x-sto-0.sergeysedoy97.ru:65535"
+    ],
+    [
+      "tcp://sto01.yggdrasil.hosted-by.skhron.eu:8883",
+      "tls://sto01.yggdrasil.hosted-by.skhron.eu:8884",
+      "quic://sto01.yggdrasil.hosted-by.skhron.eu:8885",
+      "ws://sto01.yggdrasil.hosted-by.skhron.eu:8886"
     ]
   ],
   "switzerland": [

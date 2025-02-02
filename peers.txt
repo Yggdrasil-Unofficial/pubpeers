@@ -26,6 +26,7 @@ quic://pp1.ygg.sy.sa:8443
 quic://redcatho.de:9494
 quic://spain.magicum.net:36900
 quic://srv.itrus.su:7993
+quic://sto01.yggdrasil.hosted-by.skhron.eu:8885
 quic://vix.duckdns.org:36014
 quic://vpn.itrus.su:7993
 quic://x-ams-0.sergeysedoy97.ru:65535
@@ -106,6 +107,7 @@ tcp://s-sto-0.sergeysedoy97.ru:65533
 tcp://s2.i2pd.xyz:39565
 tcp://sin.yuetau.net:6642
 tcp://srv.itrus.su:7991
+tcp://sto01.yggdrasil.hosted-by.skhron.eu:8883
 tcp://supergay.network:9002
 tcp://vpn.itrus.su:7991
 tcp://x-ams-0.sergeysedoy97.ru:65533
@@ -219,6 +221,7 @@ tls://s2.i2pd.xyz:39575
 tls://sin.yuetau.net:6643
 tls://spain.magicum.net:36901
 tls://srv.itrus.su:7992
+tls://sto01.yggdrasil.hosted-by.skhron.eu:8884
 tls://supergay.network:443
 tls://supergay.network:9001
 tls://uk.yggdrasil.neilalexander.dev:64648?key=c936c2171cf36fb4326acc644f83e367d0224b9e5b65bd97073c91e6d9d96559
@@ -275,6 +278,7 @@ ws://ip6.01.msk.ru.dioni.su:9004
 ws://kzn1.neonxp.ru:7993
 ws://msk1.neonxp.ru:7993
 ws://srv.itrus.su:7994
+ws://sto01.yggdrasil.hosted-by.skhron.eu:8886
 ws://vpn.itrus.su:7994
 ws://ygg-kcmo.incognet.io:8886
 ws://ygg-nl.incognet.io:8886

@@ -388,6 +388,11 @@
       "ws://195.58.51.167:7993",
       "quic://kzn1.neonxp.ru:7994",
       "quic://195.58.51.167:7994"
+    ],
+    [
+      "tls://kursk.cleverfox.org:15015",
+      "quic://kursk.cleverfox.org:15015",
+      "ws://kursk.cleverfox.org:15016"
     ]
   ],
   "saudi-arabia": [
@@ -401,6 +406,10 @@
     [
       "tcp://sin.yuetau.net:6642",
       "tls://sin.yuetau.net:6643"
+    ],
+    [
+      "tls://asia.deinfra.org:15015",
+      "quic://asia.deinfra.org:15015"
     ]
   ],
   "slovakia": [

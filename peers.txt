@@ -8,6 +8,7 @@ quic://37.186.113.100:1515
 quic://45.61.188.119:9003
 quic://[2602:fc24:18:7a42::1]:993
 quic://[2a03:90c0:85::28a]:444
+quic://asia.deinfra.org:15015
 quic://bode.theender.net:42269
 quic://ekb.itrus.su:7993
 quic://ip4.01.ekb.ru.dioni.su:9002
@@ -20,6 +21,7 @@ quic://ip6.01.msk.ru.dioni.su:9002
 quic://ip6.casa2.mywire.org:44443?key=af4885c078c705dc0e21a696171f3d7878c48bd47164571590f29f38ed5a4573
 quic://ip6.fvm.mywire.org:443?key=000000000143db657d1d6f80b5066dd109a4cb31f7dc6cb5d56050fffb014217
 quic://ip6.nerdvm.mywire.org:443?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7
+quic://kursk.cleverfox.org:15015
 quic://kzn1.neonxp.ru:7994
 quic://msk1.neonxp.ru:7994
 quic://pp1.ygg.sy.sa:8443
@@ -183,6 +185,7 @@ tls://[2a03:90c0:85::28a]:443
 tls://[2a04:5b81:2011:1:dea6:32ff:fe0b:b610]:2001
 tls://[2a09:5302:ffff::992]:443
 tls://[2a0e:dc0:6:257d::42]:9441
+tls://asia.deinfra.org:15015
 tls://aurora.devices.waren.io:18836
 tls://bode.theender.net:42169?key=f91b909f43829f8b20732b3bcf80cbc4bb078dd47b41638379a078e35984c9a4
 tls://box.paulll.cc:13338
@@ -200,6 +203,7 @@ tls://ip4.01.msk.ru.dioni.su:9003
 tls://ip4.01.tom.ru.dioni.su:9003
 tls://ip6.01.ekb.ru.dioni.su:9003
 tls://ip6.01.msk.ru.dioni.su:9003
+tls://kursk.cleverfox.org:15015
 tls://kzn1.neonxp.ru:7992
 tls://london.sabretruth.org:18472
 tls://longseason.1200bps.xyz:13122
@@ -275,6 +279,7 @@ ws://ip4.01.msk.ru.dioni.su:9004
 ws://ip4.01.tom.ru.dioni.su:9004
 ws://ip6.01.ekb.ru.dioni.su:9004
 ws://ip6.01.msk.ru.dioni.su:9004
+ws://kursk.cleverfox.org:15016
 ws://kzn1.neonxp.ru:7993
 ws://msk1.neonxp.ru:7993
 ws://srv.itrus.su:7994

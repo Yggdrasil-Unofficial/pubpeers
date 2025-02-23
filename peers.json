@@ -264,6 +264,9 @@
     [
       "tcp://185.165.169.234:8880",
       "tls://185.165.169.234:8443"
+    ],
+    [
+      "tcp://45.137.99.182:1337"
     ]
   ],
   "russia": [
@@ -480,6 +483,9 @@
     ],
     [
       "tls://goux4uxdsu4gdnoxvizb74fapjtsn2pstqeqonr2juwqn5qqfgiowjyd.onion:5222"
+    ],
+    [
+      "tls://mwk5ztldlqzwz5ksp6fe4zxjhfnpdtencx23aqssqokxhxe4xvopd7id.onion:1337"
     ]
   ],
   "ukraine": [

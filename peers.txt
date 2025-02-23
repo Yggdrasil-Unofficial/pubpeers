@@ -61,6 +61,7 @@ tcp://195.114.14.86:7676
 tcp://195.2.74.155:7991
 tcp://195.58.51.167:7991
 tcp://37.186.113.100:1514
+tcp://45.137.99.182:1337
 tcp://45.147.200.202:12402
 tcp://45.91.92.28:9442
 tcp://45.95.202.21:12403
@@ -209,6 +210,7 @@ tls://london.sabretruth.org:18472
 tls://longseason.1200bps.xyz:13122
 tls://mima.localghost.org:443
 tls://msk1.neonxp.ru:7992
+tls://mwk5ztldlqzwz5ksp6fe4zxjhfnpdtencx23aqssqokxhxe4xvopd7id.onion:1337
 tls://nxuwjikhsirri2rbrdlphstsn3jr2qzjrsylwkt65rh2miycr5n24tid.onion:706
 tls://p2pkbqdgvabddixbbr2y7vrra4qxq3sejfep2qknfu4owh7e3i622dqd.onion:1337
 tls://pp1.ygg.sy.sa:8442

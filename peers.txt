@@ -41,6 +41,7 @@ quic://x-sto-0.sergeysedoy97.ru:65535
 quic://yg-mel.magicum.net:23800
 quic://yg-osa.magicum.net:23900
 quic://yg-syd.magicum.net:23700
+quic://ygg-hel-1.wgos.org:45171
 quic://ygg-kcmo.incognet.io:8885
 quic://ygg-msk-1.averyan.ru:8364
 quic://ygg-nl.incognet.io:8885
@@ -122,6 +123,7 @@ tcp://x-mow-1.sergeysedoy97.ru:65533
 tcp://x-sto-0.sergeysedoy97.ru:65533
 tcp://y.zbin.eu:7743
 tcp://yes.loki:5000
+tcp://ygg-hel-1.wgos.org:45170
 tcp://ygg-kcmo.incognet.io:8883
 tcp://ygg-msk-1.averyan.ru:8363
 tcp://ygg-nl.incognet.io:8883
@@ -246,6 +248,7 @@ tls://yg-mel.magicum.net:23800
 tls://yg-osa.magicum.net:23900
 tls://yg-syd.magicum.net:23700
 tls://ygg-evn-1tls.wgos.org:443
+tls://ygg-hel-1.wgos.org:45171
 tls://ygg-kcmo.incognet.io:8884
 tls://ygg-msk-1.averyan.ru:8362
 tls://ygg-nl.incognet.io:8884
@@ -287,6 +290,7 @@ ws://msk1.neonxp.ru:7993
 ws://srv.itrus.su:7994
 ws://sto01.yggdrasil.hosted-by.skhron.eu:8886
 ws://vpn.itrus.su:7994
+ws://ygg-hel-1.wgos.org:45172
 ws://ygg-kcmo.incognet.io:8886
 ws://ygg-nl.incognet.io:8886
 ws://ygg-pa.incognet.io:8886

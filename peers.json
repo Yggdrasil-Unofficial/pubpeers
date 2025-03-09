@@ -141,6 +141,9 @@
       "tcp://193.107.20.230:7743"
     ],
     [
+      "tls://helium.avevad.com:1337"
+    ],
+    [
       "tls://yggdrasil.neilalexander.dev:64648?key=ecbbcb3298e7d3b4196103333c3e839cfe47a6ca47602b94a6d596683f6bb358"
     ],
     [

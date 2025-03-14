@@ -18,6 +18,9 @@
       "tls://yg-syd.magicum.net:23700"
     ],
     [
+      "tls://syd.joel.net.au:8443"
+    ],
+    [
       "quic://yg-mel.magicum.net:23800",
       "tls://yg-mel.magicum.net:23800"
     ],
@@ -196,6 +199,10 @@
     ],
     [
       "tls://ftp.aiwnios.com:989"
+    ],
+    [
+      "tls://yg-tyo.magicum.net:32333",
+      "quic://yg-tyo.magicum.net:32334"
     ],
     [
       "quic://yg-osa.magicum.net:23900",

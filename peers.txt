@@ -41,6 +41,7 @@ quic://x-sto-0.sergeysedoy97.ru:65535
 quic://yg-mel.magicum.net:23800
 quic://yg-osa.magicum.net:23900
 quic://yg-syd.magicum.net:23700
+quic://yg-tyo.magicum.net:32334
 quic://ygg-hel-1.wgos.org:45171
 quic://ygg-kcmo.incognet.io:8885
 quic://ygg-msk-1.averyan.ru:8364
@@ -229,6 +230,7 @@ tls://srv.itrus.su:7992
 tls://sto01.yggdrasil.hosted-by.skhron.eu:8884
 tls://supergay.network:443
 tls://supergay.network:9001
+tls://syd.joel.net.au:8443
 tls://uk.yggdrasil.neilalexander.dev:64648?key=c936c2171cf36fb4326acc644f83e367d0224b9e5b65bd97073c91e6d9d96559
 tls://vix.duckdns.org:36014
 tls://vpn.itrus.su:7992
@@ -244,6 +246,7 @@ tls://xmgzqfidm3zn4y3vfljqiuyfxorifntjca3rfnwv3dbbfcrx4uca.b32.i2p:30112
 tls://yg-mel.magicum.net:23800
 tls://yg-osa.magicum.net:23900
 tls://yg-syd.magicum.net:23700
+tls://yg-tyo.magicum.net:32333
 tls://ygg-evn-1tls.wgos.org:443
 tls://ygg-hel-1.wgos.org:45171
 tls://ygg-kcmo.incognet.io:8884

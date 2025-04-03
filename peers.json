@@ -406,6 +406,10 @@
       "tls://kursk.cleverfox.org:15015",
       "quic://kursk.cleverfox.org:15015",
       "ws://kursk.cleverfox.org:15016"
+    ],
+    [
+      "tls://yg-vlk.magicum.net:8443",
+      "ws://yg-vlk.magicum.net:8080"
     ]
   ],
   "saudi-arabia": [

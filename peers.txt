@@ -2,10 +2,8 @@ quic://0.ygg.l1qu1d.net:11102?key=0000000998b5ff8c0f1115ce9212f772d0427151f50fe8
 quic://193.93.119.42:1443
 quic://195.2.74.155:7994
 quic://195.58.51.167:7994
-quic://198.23.229.154:9003
 quic://23.184.48.86:993
 quic://37.186.113.100:1515
-quic://45.61.188.119:9003
 quic://[2602:fc24:18:7a42::1]:993
 quic://[2a03:90c0:85::28a]:444
 quic://asia.deinfra.org:15015
@@ -23,7 +21,9 @@ quic://ip6.fvm.mywire.org:443?key=000000000143db657d1d6f80b5066dd109a4cb31f7dc6c
 quic://ip6.nerdvm.mywire.org:443?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7
 quic://kursk.cleverfox.org:15015
 quic://kzn1.neonxp.ru:7994
+quic://leo.node.3dt.net:9004
 quic://msk1.neonxp.ru:7994
+quic://neo.node.3dt.net:9004
 quic://pp1.ygg.sy.sa:8443
 quic://redcatho.de:9494
 quic://spain.magicum.net:36900
@@ -94,9 +94,11 @@ tcp://ip6.nerdvm.mywire.org:8080?key=6342592a45a234afce0966610217f798e4898f6b160
 tcp://itcom.multed.com:7991
 tcp://jeff.loki:5000
 tcp://kzn1.neonxp.ru:7991
+tcp://leo.node.3dt.net:9002
 tcp://london.sabretruth.org:18473
 tcp://longseason.1200bps.xyz:13121
 tcp://msk1.neonxp.ru:7991
+tcp://neo.node.3dt.net:9002
 tcp://pp1.ygg.sy.sa:8441
 tcp://rendezvous.anton.molyboha.me:50421
 tcp://s-ams-0.sergeysedoy97.ru:65533
@@ -206,11 +208,13 @@ tls://ip6.01.ekb.ru.dioni.su:9003
 tls://ip6.01.msk.ru.dioni.su:9003
 tls://kursk.cleverfox.org:15015
 tls://kzn1.neonxp.ru:7992
+tls://leo.node.3dt.net:9003
 tls://london.sabretruth.org:18472
 tls://longseason.1200bps.xyz:13122
 tls://mima.localghost.org:443
 tls://msk1.neonxp.ru:7992
 tls://mwk5ztldlqzwz5ksp6fe4zxjhfnpdtencx23aqssqokxhxe4xvopd7id.onion:1337
+tls://neo.node.3dt.net:9003
 tls://nxuwjikhsirri2rbrdlphstsn3jr2qzjrsylwkt65rh2miycr5n24tid.onion:706
 tls://p2pkbqdgvabddixbbr2y7vrra4qxq3sejfep2qknfu4owh7e3i622dqd.onion:1337
 tls://pp1.ygg.sy.sa:8442
@@ -297,4 +301,6 @@ ws://ygg-nl.incognet.io:8886
 ws://ygg-pa.incognet.io:8886
 ws://ygg-wa.incognet.io:8886
 ws://ygg1.grin.hu:42443
+wss://leo.node.3dt.net:9005
+wss://neo.node.3dt.net:9005
 wss://ygg-evn-1.wgos.org:443

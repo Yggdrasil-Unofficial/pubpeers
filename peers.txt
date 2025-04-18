@@ -46,7 +46,6 @@ quic://ygg-kcmo.incognet.io:8885
 quic://ygg-msk-1.averyan.ru:8364
 quic://ygg-nl.incognet.io:8885
 quic://ygg-pa.incognet.io:8885
-quic://ygg-uplink.thingylabs.io:443
 quic://ygg-wa.incognet.io:8885
 quic://ygg1.grin.hu:4299
 quic://yggdrasil.sunsung.fun:4441
@@ -257,8 +256,6 @@ tls://ygg-kcmo.incognet.io:8884
 tls://ygg-msk-1.averyan.ru:8362
 tls://ygg-nl.incognet.io:8884
 tls://ygg-pa.incognet.io:8884
-tls://ygg-uplink.thingylabs.io:443
-tls://ygg-uplink.thingylabs.io:993
 tls://ygg-wa.incognet.io:8884
 tls://ygg.ace.ctrl-c.liu.se:9999?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908
 tls://ygg.jjolly.dev:3443

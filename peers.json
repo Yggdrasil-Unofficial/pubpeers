@@ -100,10 +100,7 @@
   ],
   "germany": [
     [
-      "tcp://ygg-uplink.thingylabs.io:80",
-      "tls://ygg-uplink.thingylabs.io:443",
-      "tls://ygg-uplink.thingylabs.io:993",
-      "quic://ygg-uplink.thingylabs.io:443"
+      "tcp://ygg-uplink.thingylabs.io:80"
     ],
     [
       "tls://ygg.mkg20001.io:443",

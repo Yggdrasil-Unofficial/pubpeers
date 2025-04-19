@@ -29,6 +29,7 @@ quic://redcatho.de:9494
 quic://spain.magicum.net:36900
 quic://srv.itrus.su:7993
 quic://sto01.yggdrasil.hosted-by.skhron.eu:8885
+quic://sysop.link:555
 quic://vix.duckdns.org:36014
 quic://vpn.itrus.su:7993
 quic://x-ams-0.sergeysedoy97.ru:65535
@@ -112,6 +113,7 @@ tcp://sin.yuetau.net:6642
 tcp://srv.itrus.su:7991
 tcp://sto01.yggdrasil.hosted-by.skhron.eu:8883
 tcp://supergay.network:9002
+tcp://sysop.link:555
 tcp://vpn.itrus.su:7991
 tcp://x-ams-0.sergeysedoy97.ru:65533
 tcp://x-ams-1.sergeysedoy97.ru:65533

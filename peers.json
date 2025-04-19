@@ -467,6 +467,10 @@
       "tls://sto01.yggdrasil.hosted-by.skhron.eu:8884",
       "quic://sto01.yggdrasil.hosted-by.skhron.eu:8885",
       "ws://sto01.yggdrasil.hosted-by.skhron.eu:8886"
+    ],
+    [
+      "tcp://sysop.link:555",
+      "quic://sysop.link:555"
     ]
   ],
   "tor": [

@@ -114,6 +114,7 @@ tcp://srv.itrus.su:7991
 tcp://sto01.yggdrasil.hosted-by.skhron.eu:8883
 tcp://supergay.network:9002
 tcp://sysop.link:555
+tcp://thatmaidguy.fvds.ru:7991
 tcp://vpn.itrus.su:7991
 tcp://x-ams-0.sergeysedoy97.ru:65533
 tcp://x-ams-1.sergeysedoy97.ru:65533

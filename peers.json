@@ -257,6 +257,9 @@
       "tls://x-ams-1.sergeysedoy97.ru:65534",
       "tls://s-ams-1.sergeysedoy97.ru:65534",
       "quic://x-ams-1.sergeysedoy97.ru:65535"
+    ],
+    [
+      "tcp://thatmaidguy.fvds.ru:7991"
     ]
   ],
   "philippines": [

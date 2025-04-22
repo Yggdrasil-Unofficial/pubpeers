@@ -14,14 +14,14 @@
       "tcp://195.114.14.86:7676"
     ],
     [
-      "quic://yg-syd.magicum.net:23700",
+      "quic://yg-syd.magicum.net:23701",
       "tls://yg-syd.magicum.net:23700"
     ],
     [
       "tls://syd.joel.net.au:8443"
     ],
     [
-      "quic://yg-mel.magicum.net:23800",
+      "quic://yg-mel.magicum.net:23801",
       "tls://yg-mel.magicum.net:23800"
     ],
     [
@@ -408,8 +408,8 @@
       "ws://kursk.cleverfox.org:15016"
     ],
     [
-      "tls://yg-vlk.magicum.net:8443",
-      "ws://yg-vlk.magicum.net:8080"
+      "tcp://193.124.9.204:29330",
+      "tls://193.124.9.204:29331"
     ]
   ],
   "saudi-arabia": [

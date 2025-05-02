@@ -125,6 +125,9 @@
       "tls://yggdrasil.su:62586"
     ],
     [
+      "tls://mlupo.duckdns.org:9001"
+    ],
+    [
       "tcp://x-fra-0.sergeysedoy97.ru:65533",
       "tcp://s-fra-0.sergeysedoy97.ru:65533",
       "tls://x-fra-0.sergeysedoy97.ru:65534",

@@ -216,6 +216,7 @@ tls://leo.node.3dt.net:9003
 tls://london.sabretruth.org:18472
 tls://longseason.1200bps.xyz:13122
 tls://mima.localghost.org:443
+tls://mlupo.duckdns.org:9001
 tls://msk1.neonxp.ru:7992
 tls://mwk5ztldlqzwz5ksp6fe4zxjhfnpdtencx23aqssqokxhxe4xvopd7id.onion:1337
 tls://neo.node.3dt.net:9003

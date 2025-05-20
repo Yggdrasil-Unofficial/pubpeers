@@ -39,6 +39,7 @@ quic://x-kiv-0.sergeysedoy97.ru:65535
 quic://x-mow-0.sergeysedoy97.ru:65535
 quic://x-mow-1.sergeysedoy97.ru:65535
 quic://x-sto-0.sergeysedoy97.ru:65535
+quic://yg-hkg.magicum.net:32334
 quic://yg-mel.magicum.net:23801
 quic://yg-syd.magicum.net:23701
 quic://yg-tyo.magicum.net:32334
@@ -55,7 +56,6 @@ tcp://165.227.17.198:9002
 tcp://185.165.169.234:8880
 tcp://188.225.9.167:18226
 tcp://193.107.20.230:7743
-tcp://193.124.9.204:29330
 tcp://193.93.119.42:14244
 tcp://194.156.98.6:7676
 tcp://195.114.14.86:7676
@@ -126,6 +126,7 @@ tcp://x-mow-1.sergeysedoy97.ru:65533
 tcp://x-sto-0.sergeysedoy97.ru:65533
 tcp://y.zbin.eu:7743
 tcp://yes.loki:5000
+tcp://yg-vvo.magicum.net:29330
 tcp://ygg-hel-1.wgos.org:45170
 tcp://ygg-kcmo.incognet.io:8883
 tcp://ygg-msk-1.averyan.ru:8363
@@ -152,7 +153,6 @@ tls://139.28.220.141:3333
 tls://153.120.42.137:54232
 tls://185.165.169.234:8443
 tls://188.225.9.167:18227
-tls://193.124.9.204:29331
 tls://193.93.119.42:443
 tls://195.2.74.155:7992
 tls://195.58.51.167:7992
@@ -223,6 +223,7 @@ tls://neo.node.3dt.net:9003
 tls://nxuwjikhsirri2rbrdlphstsn3jr2qzjrsylwkt65rh2miycr5n24tid.onion:706
 tls://p2pkbqdgvabddixbbr2y7vrra4qxq3sejfep2qknfu4owh7e3i622dqd.onion:1337
 tls://pp1.ygg.sy.sa:8442
+tls://rdssbb3furycghvyb7c4k6deblp45lnutluymvprw3hloonl6nrq.b32.i2p:1337
 tls://redcatho.de:9494
 tls://ro7bwwx7ch6echfqwgivsi37tgojgcrjosgq5jrgx5ebadu4xsaq.b32.i2p:39565
 tls://s-ams-0.sergeysedoy97.ru:65534
@@ -252,9 +253,11 @@ tls://x-mow-0.sergeysedoy97.ru:65534
 tls://x-mow-1.sergeysedoy97.ru:65534
 tls://x-sto-0.sergeysedoy97.ru:65534
 tls://xmgzqfidm3zn4y3vfljqiuyfxorifntjca3rfnwv3dbbfcrx4uca.b32.i2p:30112
+tls://yg-hkg.magicum.net:32333
 tls://yg-mel.magicum.net:23800
 tls://yg-syd.magicum.net:23700
 tls://yg-tyo.magicum.net:32333
+tls://yg-vvo.magicum.net:29331
 tls://ygg-evn-1tls.wgos.org:443
 tls://ygg-hel-1.wgos.org:45171
 tls://ygg-kcmo.incognet.io:8884

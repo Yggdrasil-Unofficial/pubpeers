@@ -159,6 +159,10 @@
     [
       "tcp://194.156.98.6:7676",
       "tcp://[2a09:7c45:0:10::1]:7676"
+    ],
+    [
+      "tls://yg-hkg.magicum.net:32333",
+      "quic://yg-hkg.magicum.net:32334"
     ]
   ],
   "hungary": [
@@ -187,6 +191,9 @@
     ],
     [
       "tls://3qqi3lxscvx2ebatj36y6wmdzaah7eblf5fl7scayp6wgyhh3vpa.b32.i2p"
+    ],
+    [
+      "tls://rdssbb3furycghvyb7c4k6deblp45lnutluymvprw3hloonl6nrq.b32.i2p:1337"
     ]
   ],
   "japan": [
@@ -411,8 +418,8 @@
       "ws://kursk.cleverfox.org:15016"
     ],
     [
-      "tcp://193.124.9.204:29330",
-      "tls://193.124.9.204:29331"
+      "tcp://yg-vvo.magicum.net:29330",
+      "tls://yg-vvo.magicum.net:29331"
     ]
   ],
   "saudi-arabia": [

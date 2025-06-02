@@ -100,9 +100,6 @@
   ],
   "germany": [
     [
-      "tcp://ygg-uplink.thingylabs.io:80"
-    ],
-    [
       "tls://ygg.mkg20001.io:443",
       "tcp://ygg.mkg20001.io:80"
     ],
@@ -227,6 +224,10 @@
       "quic://[2a03:90c0:85::28a]:444",
       "ws://[2a03:90c0:85::28a]:445",
       "tcp://[2a03:90c0:85::28a]:446"
+    ],
+    [
+      "tls://srl.newsdeef.eu:59999",
+      "tcp://srl.newsdeef.eu:9999"
     ]
   ],
   "moldova": [
@@ -576,6 +577,10 @@
       "tls://neo.node.3dt.net:9003",
       "quic://neo.node.3dt.net:9004",
       "wss://neo.node.3dt.net:9005"
+    ],
+    [
+      "tls://srv.newsdeef.eu:59999",
+      "tcp://srv.newsdeef.eu:9999"
     ],
     [
       "tcp://longseason.1200bps.xyz:13121",

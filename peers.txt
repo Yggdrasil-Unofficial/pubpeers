@@ -112,7 +112,9 @@ tcp://s-mow-1.sergeysedoy97.ru:65533
 tcp://s-sto-0.sergeysedoy97.ru:65533
 tcp://s2.i2pd.xyz:39565
 tcp://sin.yuetau.net:6642
+tcp://srl.newsdeef.eu:9999
 tcp://srv.itrus.su:7991
+tcp://srv.newsdeef.eu:9999
 tcp://sto01.yggdrasil.hosted-by.skhron.eu:8883
 tcp://supergay.network:9002
 tcp://sysop.link:555
@@ -133,7 +135,6 @@ tcp://ygg-kcmo.incognet.io:8883
 tcp://ygg-msk-1.averyan.ru:8363
 tcp://ygg-nl.incognet.io:8883
 tcp://ygg-pa.incognet.io:8883
-tcp://ygg-uplink.thingylabs.io:80
 tcp://ygg-wa.incognet.io:8883
 tcp://ygg.ace.ctrl-c.liu.se:9998?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908
 tcp://ygg.everypizza.im:9441
@@ -237,7 +238,9 @@ tls://s-sto-0.sergeysedoy97.ru:65534
 tls://s2.i2pd.xyz:39575
 tls://sin.yuetau.net:6643
 tls://spain.magicum.net:36901
+tls://srl.newsdeef.eu:59999
 tls://srv.itrus.su:7992
+tls://srv.newsdeef.eu:59999
 tls://sto01.yggdrasil.hosted-by.skhron.eu:8884
 tls://supergay.network:443
 tls://supergay.network:9001

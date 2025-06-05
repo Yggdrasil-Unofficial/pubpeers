@@ -11,9 +11,6 @@
   ],
   "australia": [
     [
-      "tcp://195.114.14.86:7676"
-    ],
-    [
       "quic://yg-syd.magicum.net:23701",
       "tls://yg-syd.magicum.net:23700"
     ],
@@ -36,10 +33,6 @@
   ],
   "brazil": [
     [
-      "tcp://95.164.4.146:7676",
-      "tcp://[2a14:2d81:0:6::1]:7676"
-    ],
-    [
       "quic://ip6.casa2.mywire.org:44443?key=af4885c078c705dc0e21a696171f3d7878c48bd47164571590f29f38ed5a4573"
     ]
   ],
@@ -59,9 +52,6 @@
       "tls://aurora.devices.waren.io:18836",
       "tls://95.216.5.243:18836",
       "tls://[2a01:4f9:2a:60c::2]:18836"
-    ],
-    [
-      "tls://139.28.220.141:3333"
     ],
     [
       "tls://95.217.35.92:1337",
@@ -138,9 +128,6 @@
       "quic://ip6.fvm.mywire.org:443?key=000000000143db657d1d6f80b5066dd109a4cb31f7dc6cb5d56050fffb014217"
     ],
     [
-      "tcp://193.107.20.230:7743"
-    ],
-    [
       "tls://helium.avevad.com:1337"
     ],
     [
@@ -153,10 +140,6 @@
     ]
   ],
   "hong-kong": [
-    [
-      "tcp://194.156.98.6:7676",
-      "tcp://[2a09:7c45:0:10::1]:7676"
-    ],
     [
       "tls://yg-hkg.magicum.net:32333",
       "quic://yg-hkg.magicum.net:32334"
@@ -230,15 +213,6 @@
       "tcp://srl.newsdeef.eu:9999"
     ]
   ],
-  "moldova": [
-    [
-      "tcp://x-kiv-0.sergeysedoy97.ru:65533",
-      "tcp://s-kiv-0.sergeysedoy97.ru:65533",
-      "tls://x-kiv-0.sergeysedoy97.ru:65534",
-      "tls://s-kiv-0.sergeysedoy97.ru:65534",
-      "quic://x-kiv-0.sergeysedoy97.ru:65535"
-    ]
-  ],
   "netherlands": [
     [
       "tcp://vpn.itrus.su:7991",
@@ -271,11 +245,6 @@
     ],
     [
       "tcp://thatmaidguy.fvds.ru:7991"
-    ]
-  ],
-  "philippines": [
-    [
-      "tls://mima.localghost.org:443"
     ]
   ],
   "poland": [
@@ -329,9 +298,6 @@
       "tcp://[2a09:5302:ffff::992]:12403",
       "tls://45.95.202.21:443",
       "tls://[2a09:5302:ffff::992]:443"
-    ],
-    [
-      "tcp://94.103.183.125:7676"
     ],
     [
       "tcp://ip4.01.msk.ru.dioni.su:9002",
@@ -435,10 +401,6 @@
   ],
   "singapore": [
     [
-      "tcp://sin.yuetau.net:6642",
-      "tls://sin.yuetau.net:6643"
-    ],
-    [
       "tls://asia.deinfra.org:15015",
       "quic://asia.deinfra.org:15015"
     ]
@@ -536,9 +498,6 @@
   ],
   "united-kingdom": [
     [
-      "tls://uk.yggdrasil.neilalexander.dev:64648?key=c936c2171cf36fb4326acc644f83e367d0224b9e5b65bd97073c91e6d9d96559"
-    ],
-    [
       "tls://london.sabretruth.org:18472",
       "tcp://london.sabretruth.org:18473"
     ]
@@ -552,15 +511,6 @@
       "quic://ip4.nerdvm.mywire.org:443?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7",
       "tcp://ip6.nerdvm.mywire.org:8080?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7",
       "quic://ip6.nerdvm.mywire.org:443?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7"
-    ],
-    [
-      "tls://supergay.network:443",
-      "tls://supergay.network:9001",
-      "tcp://supergay.network:9002"
-    ],
-    [
-      "tcp://ygg4.mk16.de:1337?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b",
-      "tls://ygg4.mk16.de:1338?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b"
     ],
     [
       "tls://redcatho.de:9494",
@@ -601,9 +551,6 @@
       "tls://ygg-pa.incognet.io:8884",
       "quic://ygg-pa.incognet.io:8885",
       "ws://ygg-pa.incognet.io:8886"
-    ],
-    [
-      "tcp://cowboy.supergay.network:9111"
     ],
     [
       "tcp://ygg.everypizza.im:9441"

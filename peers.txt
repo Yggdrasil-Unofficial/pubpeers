@@ -22,6 +22,7 @@ quic://ip6.nerdvm.mywire.org:443?key=6342592a45a234afce0966610217f798e4898f6b160
 quic://kursk.cleverfox.org:15015
 quic://kzn1.neonxp.ru:7994
 quic://leo.node.3dt.net:9004
+quic://mn.us.ygg.triplebit.org:443
 quic://msk1.neonxp.ru:7994
 quic://neo.node.3dt.net:9004
 quic://pp1.ygg.sy.sa:8443
@@ -90,6 +91,7 @@ tcp://kzn1.neonxp.ru:7991
 tcp://leo.node.3dt.net:9002
 tcp://london.sabretruth.org:18473
 tcp://longseason.1200bps.xyz:13121
+tcp://mn.us.ygg.triplebit.org:9000
 tcp://msk1.neonxp.ru:7991
 tcp://neo.node.3dt.net:9002
 tcp://pp1.ygg.sy.sa:8441
@@ -205,6 +207,7 @@ tls://leo.node.3dt.net:9003
 tls://london.sabretruth.org:18472
 tls://longseason.1200bps.xyz:13122
 tls://mlupo.duckdns.org:9001
+tls://mn.us.ygg.triplebit.org:993
 tls://msk1.neonxp.ru:7992
 tls://mwk5ztldlqzwz5ksp6fe4zxjhfnpdtencx23aqssqokxhxe4xvopd7id.onion:1337
 tls://n.ygg.yt:443
@@ -279,6 +282,7 @@ ws://ip6.01.ekb.ru.dioni.su:9004
 ws://ip6.01.msk.ru.dioni.su:9004
 ws://kursk.cleverfox.org:15016
 ws://kzn1.neonxp.ru:7993
+ws://mn.us.ygg.triplebit.org:9010
 ws://msk1.neonxp.ru:7993
 ws://srv.itrus.su:7994
 ws://sto01.yggdrasil.hosted-by.skhron.eu:8886

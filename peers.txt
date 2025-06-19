@@ -191,7 +191,6 @@ tls://douchedeiqqvyyylqorwpej4q3oz46n2shpngp7d27tlcnufnpwag7ad.onion:5222
 tls://ekb.itrus.su:7992
 tls://fi1.servers.devices.cwinfo.net:61995
 tls://fllrj72kxnenalmmi3uz22ljqnmuex4h2jlhwnapxlzrnn7lknadxuqd.onion:706
-tls://ftp.aiwnios.com:989
 tls://g.ygg.yt:443
 tls://goux4uxdsu4gdnoxvizb74fapjtsn2pstqeqonr2juwqn5qqfgiowjyd.onion:5222
 tls://helium.avevad.com:1337

@@ -190,9 +190,6 @@
       "tls://astrra.space:55535"
     ],
     [
-      "tls://ftp.aiwnios.com:989"
-    ],
-    [
       "tls://yg-tyo.magicum.net:32333",
       "quic://yg-tyo.magicum.net:32334"
     ]

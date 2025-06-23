@@ -187,7 +187,6 @@ tls://bode.theender.net:42169?key=f91b909f43829f8b20732b3bcf80cbc4bb078dd47b4163
 tls://box.paulll.cc:13338
 tls://cloudberry.fr1.servers.devices.cwinfo.net:54232
 tls://de-fsn-1.peer.v4.yggdrasil.chaz6.com:4444
-tls://douchedeiqqvyyylqorwpej4q3oz46n2shpngp7d27tlcnufnpwag7ad.onion:5222
 tls://ekb.itrus.su:7992
 tls://fi1.servers.devices.cwinfo.net:61995
 tls://fllrj72kxnenalmmi3uz22ljqnmuex4h2jlhwnapxlzrnn7lknadxuqd.onion:706

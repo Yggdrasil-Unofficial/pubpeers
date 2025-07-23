@@ -34,6 +34,10 @@
   "brazil": [
     [
       "quic://ip6.casa2.mywire.org:44443?key=af4885c078c705dc0e21a696171f3d7878c48bd47164571590f29f38ed5a4573"
+    ],
+    [
+      "tcp://ygg.nadeko.net:44441",
+      "tls://ygg.nadeko.net:44442"
     ]
   ],
   "czechia": [
@@ -179,6 +183,16 @@
     ],
     [
       "tls://rdssbb3furycghvyb7c4k6deblp45lnutluymvprw3hloonl6nrq.b32.i2p:1337"
+    ],
+    [
+      "tls://3es3qg37kp5ufqws7vn4wb4eu2ufcy4rjxycdkqisdql7cotbaca.b32.i2p:9000"
+    ],
+    [
+      "tls://7e2q2nrypvbfqparjqa5ubuof6zat6eq3abk2reujyzg2v32dsxq.b32.i2p:9000"
+    ],
+    [
+      "tls://hgtciq2ususgkmomliphhwenaafdd3lvg3xayzhoyyxn2x3uix5a.b32.i2p:555",
+      "tls://3xgziioqsz6q7m3ihcl6k5ojti5vats2jze2ilajnt5a62v3ltfa.b32.i2p:555"
     ]
   ],
   "japan": [
@@ -473,6 +487,9 @@
     ],
     [
       "tls://mwk5ztldlqzwz5ksp6fe4zxjhfnpdtencx23aqssqokxhxe4xvopd7id.onion:1337"
+    ],
+    [
+      "tls://iniuzq6i6r4tgbd3shnfgcm6ntg64lc75owmcnjyudgbajq7wvvrzwad.onion:555"
     ]
   ],
   "ukraine": [
@@ -526,6 +543,12 @@
       "tls://ygg-kcmo.incognet.io:8884",
       "quic://ygg-kcmo.incognet.io:8885",
       "ws://ygg-kcmo.incognet.io:8886"
+    ],
+    [
+      "tcp://mo.us.ygg.triplebit.org:9000",
+      "tls://mo.us.ygg.triplebit.org:993",
+      "quic://mo.us.ygg.triplebit.org:443",
+      "ws://mo.us.ygg.triplebit.org:9010"
     ],
     [
       "tcp://neo.node.3dt.net:9002",

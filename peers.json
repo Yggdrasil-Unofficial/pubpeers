@@ -40,6 +40,11 @@
       "tls://ygg.nadeko.net:44442"
     ]
   ],
+  "canada": [
+    [
+      "quic://scarlet.mboa.dev:3443"
+    ]
+  ],
   "czechia": [
     [
       "tls://37.205.14.171:993",
@@ -47,11 +52,6 @@
     ]
   ],
   "finland": [
-    [
-      "tls://fi1.servers.devices.cwinfo.net:61995",
-      "tls://65.21.57.122:61995",
-      "tls://[2a01:4f9:c012:a8df::1]:61995"
-    ],
     [
       "tls://aurora.devices.waren.io:18836",
       "tls://95.216.5.243:18836",
@@ -69,11 +69,6 @@
     ]
   ],
   "france": [
-    [
-      "tls://cloudberry.fr1.servers.devices.cwinfo.net:54232",
-      "tls://51.255.223.60:54232",
-      "tls://[2001:41d0:303:13b3:51:255:223:60]:54232"
-    ],
     [
       "tcp://51.15.204.214:12345",
       "tls://51.15.204.214:54321"

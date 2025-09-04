@@ -85,6 +85,9 @@
       "tls://yggpeer.tilde.green:59454",
       "tcp://yggpeer.tilde.green:53299",
       "quic://yggpeer.tilde.green:62265"
+    ],
+    [
+      "tls://ygg.jholden.org:1555"
     ]
   ],
   "germany": [

@@ -171,7 +171,6 @@ tls://7e2q2nrypvbfqparjqa5ubuof6zat6eq3abk2reujyzg2v32dsxq.b32.i2p:9000
 tls://7mx6ztmimo5nrnmydjjtkr6maupknr3zlyr33umly22pqnivyxcq.b32.i2p:46944
 tls://95.216.5.243:18836
 tls://95.217.35.92:1337
-tls://[2001:44b8:26e:1300::1]:7676
 tls://[2001:470:1f13:e56::64]:39575
 tls://[2602:fc24:18:7a42::1]:993
 tls://[2a00:b700::a:279]:443
@@ -227,6 +226,7 @@ tls://s-mow-0.sergeysedoy97.ru:65534
 tls://s-mow-1.sergeysedoy97.ru:65534
 tls://s-sto-0.sergeysedoy97.ru:65534
 tls://s2.i2pd.xyz:39575
+tls://sirsegv.moe:7676
 tls://spain.magicum.net:36901
 tls://srl.newsdeef.eu:59999
 tls://srv.itrus.su:7992

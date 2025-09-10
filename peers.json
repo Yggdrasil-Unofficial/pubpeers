@@ -261,6 +261,14 @@
       "tcp://thatmaidguy.fvds.ru:7991"
     ]
   ],
+  "norway": [
+    [
+      "tls://185.181.60.111:1513?key=00defa4b4b243547f2d5641ac5235ff1e35d393c576e4bb9cd45baefc81e48d9",
+      "quic://185.181.60.111:1513?key=00defa4b4b243547f2d5641ac5235ff1e35d393c576e4bb9cd45baefc81e48d9",
+      "tls://[2a03:94e0:ffff:185:181:60:0:111]:1513?key=00defa4b4b243547f2d5641ac5235ff1e35d393c576e4bb9cd45baefc81e48d9",
+      "quic://[2a03:94e0:ffff:185:181:60:0:111]:1513?key=00defa4b4b243547f2d5641ac5235ff1e35d393c576e4bb9cd45baefc81e48d9"
+    ]
+  ],
   "poland": [
     [
       "quic://0.ygg.l1qu1d.net:11102?key=0000000998b5ff8c0f1115ce9212f772d0427151f50fe858e6de1d22600f1680"

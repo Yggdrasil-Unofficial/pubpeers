@@ -99,6 +99,7 @@ tcp://kzn1.neonxp.ru:7991
 tcp://leo.node.3dt.net:9002
 tcp://london.sabretruth.org:18473
 tcp://longseason.1200bps.xyz:13121
+tcp://micr0.dev:7991
 tcp://mn.us.ygg.triplebit.org:9000
 tcp://mo.us.ygg.triplebit.org:9000
 tcp://msk1.neonxp.ru:7991
@@ -216,6 +217,7 @@ tls://kzn1.neonxp.ru:7992
 tls://leo.node.3dt.net:9003
 tls://london.sabretruth.org:18472
 tls://longseason.1200bps.xyz:13122
+tls://micr0.dev:7992
 tls://mlupo.duckdns.org:9001
 tls://mn.us.ygg.triplebit.org:993
 tls://mo.us.ygg.triplebit.org:993
@@ -283,10 +285,12 @@ tls://yggnekkmyitzepgl5ltdl277y5wdg36n4pc45sualo3yesm3usnuwyad.onion:1863
 tls://yggno.de:18227
 tls://yggpeer.tilde.green:59454
 tls://yzkelq2cd76znzdbexyeqp35hw2fgsj5pyc5yd5jntxode3cu4bysnqd.onion:42753
+ws://129.80.167.244:23166
 ws://193.93.119.42:850
 ws://195.2.74.155:7993
 ws://195.58.51.167:7993
 ws://37.186.113.100:1516
+ws://[2603:c020:4015:b937:a1c7:aff8:b558:d1fe]:23166
 ws://[2a03:90c0:85::28a]:445
 ws://ekb.itrus.su:7994
 ws://ip4.01.ekb.ru.dioni.su:9004

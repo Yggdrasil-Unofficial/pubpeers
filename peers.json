@@ -36,6 +36,10 @@
       "quic://ip6.casa2.mywire.org:44443?key=af4885c078c705dc0e21a696171f3d7878c48bd47164571590f29f38ed5a4573"
     ],
     [
+      "tcp://Yggdrasil.UnderEu.Net:37001",
+      "quic://Yggdrasil.UnderEu.Net:37003"
+    ],
+    [
       "tcp://ygg.nadeko.net:44441",
       "tls://ygg.nadeko.net:44442"
     ]
@@ -117,11 +121,26 @@
       "tls://mlupo.duckdns.org:9001"
     ],
     [
-      "tcp://x-fra-0.sergeysedoy97.ru:65533",
-      "tcp://s-fra-0.sergeysedoy97.ru:65533",
-      "tls://x-fra-0.sergeysedoy97.ru:65534",
-      "tls://s-fra-0.sergeysedoy97.ru:65534",
-      "quic://x-fra-0.sergeysedoy97.ru:65535"
+      "tcp://94.159.110.4:65535",
+      "quic://94.159.110.4:65535",
+      "tcp://[2a0b:4142:ce0::2]:65535",
+      "quic://[2a0b:4142:ce0::2]:65535"
+    ],
+    [
+      "tcp://94.159.111.184:65535",
+      "quic://94.159.111.184:65535",
+      "tcp://[2a0b:4142:e9e::2]:65535",
+      "quic://[2a0b:4142:e9e::2]:65535"
+    ],
+    [
+      "tcp://87.251.77.39:65535",
+      "quic://87.251.77.39:65535"
+    ],
+    [
+      "tcp://31.57.241.104:65535",
+      "quic://31.57.241.104:65535",
+      "tcp://[2a0c:b641:ce0::25d8:c5d6]:65535",
+      "quic://[2a0c:b641:ce0::25d8:c5d6]:65535"
     ],
     [
       "tcp://ip4.fvm.mywire.org:8080?key=000000000143db657d1d6f80b5066dd109a4cb31f7dc6cb5d56050fffb014217",
@@ -238,18 +257,46 @@
       "ws://ygg-nl.incognet.io:8886"
     ],
     [
-      "tcp://x-ams-0.sergeysedoy97.ru:65533",
-      "tcp://s-ams-0.sergeysedoy97.ru:65533",
-      "tls://x-ams-0.sergeysedoy97.ru:65534",
-      "tls://s-ams-0.sergeysedoy97.ru:65534",
-      "quic://x-ams-0.sergeysedoy97.ru:65535"
+      "tcp://146.103.111.53:65535",
+      "quic://146.103.111.53:65535",
+      "tcp://[2a14:1e00:3:15c::]:65535",
+      "quic://[2a14:1e00:3:15c::]:65535"
     ],
     [
-      "tcp://x-ams-1.sergeysedoy97.ru:65533",
-      "tcp://s-ams-1.sergeysedoy97.ru:65533",
-      "tls://x-ams-1.sergeysedoy97.ru:65534",
-      "tls://s-ams-1.sergeysedoy97.ru:65534",
-      "quic://x-ams-1.sergeysedoy97.ru:65535"
+      "tcp://212.34.131.160:65535",
+      "quic://212.34.131.160:65535",
+      "tcp://[2a14:1e00:1:bae::]:65535",
+      "quic://[2a14:1e00:1:bae::]:65535"
+    ],
+    [
+      "tcp://109.107.177.127:65535",
+      "quic://109.107.177.127:65535",
+      "tcp://[2a0d:8480:3:234c::]:65535",
+      "quic://[2a0d:8480:3:234c::]:65535"
+    ],
+    [
+      "tcp://146.103.107.222:65535",
+      "quic://146.103.107.222:65535",
+      "tcp://[2a14:1e00:3:2b2::]:65535",
+      "quic://[2a14:1e00:3:2b2::]:65535"
+    ],
+    [
+      "tcp://5.35.70.181:65535",
+      "quic://5.35.70.181:65535",
+      "tcp://[2a14:1e00:1:ecd::]:65535",
+      "quic://[2a14:1e00:1:ecd::]:65535"
+    ],
+    [
+      "tcp://88.210.10.78:65535",
+      "quic://88.210.10.78:65535",
+      "tcp://[2a0d:8480:1:209e::]:65535",
+      "quic://[2a0d:8480:1:209e::]:65535"
+    ],
+    [
+      "tcp://89.110.116.167:65535",
+      "quic://89.110.116.167:65535",
+      "tcp://[2a14:1e00:1:f3c::]:65535",
+      "quic://[2a14:1e00:1:f3c::]:65535"
     ],
     [
       "tcp://thatmaidguy.fvds.ru:7991"
@@ -290,18 +337,14 @@
       "tls://188.225.9.167:18227"
     ],
     [
-      "tcp://x-mow-0.sergeysedoy97.ru:65533",
-      "tcp://s-mow-0.sergeysedoy97.ru:65533",
-      "tls://x-mow-0.sergeysedoy97.ru:65534",
-      "tls://s-mow-0.sergeysedoy97.ru:65534",
-      "quic://x-mow-0.sergeysedoy97.ru:65535"
+      "tcp://89.44.86.85:65535",
+      "quic://89.44.86.85:65535",
+      "tcp://[2a09:5302:ffff::132a]:65535",
+      "quic://[2a09:5302:ffff::132a]:65535"
     ],
     [
-      "tcp://x-mow-1.sergeysedoy97.ru:65533",
-      "tcp://s-mow-1.sergeysedoy97.ru:65533",
-      "tls://x-mow-1.sergeysedoy97.ru:65534",
-      "tls://s-mow-1.sergeysedoy97.ru:65534",
-      "quic://x-mow-1.sergeysedoy97.ru:65535"
+      "tcp://94.156.181.85:65535",
+      "quic://94.156.181.85:65535"
     ],
     [
       "tcp://45.147.200.202:12402",
@@ -451,11 +494,10 @@
       "tcp://ygg.ace.ctrl-c.liu.se:9998?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908"
     ],
     [
-      "tcp://x-sto-0.sergeysedoy97.ru:65533",
-      "tcp://s-sto-0.sergeysedoy97.ru:65533",
-      "tls://x-sto-0.sergeysedoy97.ru:65534",
-      "tls://s-sto-0.sergeysedoy97.ru:65534",
-      "quic://x-sto-0.sergeysedoy97.ru:65535"
+      "tcp://77.91.84.76:65535",
+      "quic://77.91.84.76:65535",
+      "tcp://[2a12:5940:b1a0::2]:65535",
+      "quic://[2a12:5940:b1a0::2]:65535"
     ],
     [
       "tcp://sto01.yggdrasil.hosted-by.skhron.eu:8883",

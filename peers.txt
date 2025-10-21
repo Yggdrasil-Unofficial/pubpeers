@@ -213,13 +213,11 @@ tls://78.27.153.163:3785
 tls://7e2q2nrypvbfqparjqa5ubuof6zat6eq3abk2reujyzg2v32dsxq.b32.i2p:9000
 tls://7mx6ztmimo5nrnmydjjtkr6maupknr3zlyr33umly22pqnivyxcq.b32.i2p:46944
 tls://91.98.126.143:32000
-tls://95.216.5.243:18836
 tls://95.217.35.92:1337
 tls://[2001:470:1f13:e56::64]:39575
 tls://[2602:fc24:18:7a42::1]:993
 tls://[2603:c020:4015:b937:a1c7:aff8:b558:d1fe]:23164
 tls://[2a00:b700::a:279]:443
-tls://[2a01:4f9:2a:60c::2]:18836
 tls://[2a01:4f9:2b:2d8f::2]:1337
 tls://[2a02:1b8:10:147::1:1ea]:65534
 tls://[2a03:3b40:fe:ab::1]:993
@@ -228,7 +226,6 @@ tls://[2a04:5b81:2011:1:dea6:32ff:fe0b:b610]:2001
 tls://[2a09:5302:ffff::992]:443
 tls://asia.deinfra.org:15015
 tls://astrra.space:55535
-tls://aurora.devices.waren.io:18836
 tls://b.ygg.yt:443
 tls://bode.theender.net:42169?key=f91b909f43829f8b20732b3bcf80cbc4bb078dd47b41638379a078e35984c9a4
 tls://box.paulll.cc:13338

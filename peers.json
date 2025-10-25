@@ -571,6 +571,9 @@
       "quic://ip6.nerdvm.mywire.org:443?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7"
     ],
     [
+      "tls://209.205.228.160:5621"
+    ],
+    [
       "tls://redcatho.de:9494",
       "quic://redcatho.de:9494"
     ],

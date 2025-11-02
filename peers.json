@@ -33,7 +33,7 @@
   ],
   "brazil": [
     [
-      "quic://ip6.casa2.mywire.org:44443?key=af4885c078c705dc0e21a696171f3d7878c48bd47164571590f29f38ed5a4573"
+      "quic://ip6.casa2.mywire.org:44443?key=000000003cb1cc50e05147fc548f6d1f78e7ffcdc67b456f9bb0db6f0a5e4723"
     ],
     [
       "tcp://Yggdrasil.UnderEu.Net:37001",
@@ -565,10 +565,10 @@
       "tcp://165.227.17.198:9002"
     ],
     [
-      "tcp://ip4.nerdvm.mywire.org:8080?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7",
-      "quic://ip4.nerdvm.mywire.org:443?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7",
-      "tcp://ip6.nerdvm.mywire.org:8080?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7",
-      "quic://ip6.nerdvm.mywire.org:443?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7"
+      "tcp://ip4.nerdvm.mywire.org:8080?key=00000000c61d731961a290d127cd3fc03a4c5f3f35b9083559d4c81d48d65854",
+      "quic://ip4.nerdvm.mywire.org:443?key=00000000c61d731961a290d127cd3fc03a4c5f3f35b9083559d4c81d48d65854",
+      "tcp://ip6.nerdvm.mywire.org:8080?key=00000000c61d731961a290d127cd3fc03a4c5f3f35b9083559d4c81d48d65854",
+      "quic://ip6.nerdvm.mywire.org:443?key=00000000c61d731961a290d127cd3fc03a4c5f3f35b9083559d4c81d48d65854"
     ],
     [
       "tls://209.205.228.160:5621"

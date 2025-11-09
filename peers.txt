@@ -49,6 +49,7 @@ quic://ip6.01.msk.ru.dioni.su:9002
 quic://ip6.casa2.mywire.org:44443?key=000000003cb1cc50e05147fc548f6d1f78e7ffcdc67b456f9bb0db6f0a5e4723
 quic://ip6.fvm.mywire.org:443?key=000000000143db657d1d6f80b5066dd109a4cb31f7dc6cb5d56050fffb014217
 quic://ip6.nerdvm.mywire.org:443?key=00000000c61d731961a290d127cd3fc03a4c5f3f35b9083559d4c81d48d65854
+quic://jed-peer.ygg.sy.sa:8443
 quic://kursk.cleverfox.org:15015
 quic://kzn1.neonxp.ru:7994
 quic://leo.node.3dt.net:9004
@@ -56,8 +57,8 @@ quic://mn.us.ygg.triplebit.org:443
 quic://mo.us.ygg.triplebit.org:443
 quic://msk1.neonxp.ru:7994
 quic://neo.node.3dt.net:9004
-quic://pp1.ygg.sy.sa:8443
 quic://redcatho.de:9494
+quic://ryd-peer.ygg.sy.sa:8443
 quic://scarlet.mboa.dev:3443
 quic://spain.magicum.net:36900
 quic://srv.itrus.su:7993
@@ -140,6 +141,7 @@ tcp://ip6.01.msk.ru.dioni.su:9002
 tcp://ip6.fvm.mywire.org:8080?key=000000000143db657d1d6f80b5066dd109a4cb31f7dc6cb5d56050fffb014217
 tcp://ip6.nerdvm.mywire.org:8080?key=00000000c61d731961a290d127cd3fc03a4c5f3f35b9083559d4c81d48d65854
 tcp://itcom.multed.com:7991
+tcp://jed-peer.ygg.sy.sa:8441
 tcp://jeff.loki:5000
 tcp://kzn1.neonxp.ru:7991
 tcp://leo.node.3dt.net:9002
@@ -150,8 +152,8 @@ tcp://mn.us.ygg.triplebit.org:9000
 tcp://mo.us.ygg.triplebit.org:9000
 tcp://msk1.neonxp.ru:7991
 tcp://neo.node.3dt.net:9002
-tcp://pp1.ygg.sy.sa:8441
 tcp://rendezvous.anton.molyboha.me:50421
+tcp://ryd-peer.ygg.sy.sa:8441
 tcp://s2.i2pd.xyz:39565
 tcp://srl.newsdeef.eu:9999
 tcp://srv.itrus.su:7991
@@ -244,6 +246,7 @@ tls://ip4.01.msk.ru.dioni.su:9003
 tls://ip4.01.tom.ru.dioni.su:9003
 tls://ip6.01.ekb.ru.dioni.su:9003
 tls://ip6.01.msk.ru.dioni.su:9003
+tls://jed-peer.ygg.sy.sa:8442
 tls://kursk.cleverfox.org:15015
 tls://kzn1.neonxp.ru:7992
 tls://leo.node.3dt.net:9003
@@ -259,10 +262,10 @@ tls://n.ygg.yt:443
 tls://neo.node.3dt.net:9003
 tls://nxuwjikhsirri2rbrdlphstsn3jr2qzjrsylwkt65rh2miycr5n24tid.onion:706
 tls://p2pkbqdgvabddixbbr2y7vrra4qxq3sejfep2qknfu4owh7e3i622dqd.onion:1337
-tls://pp1.ygg.sy.sa:8442
 tls://rdssbb3furycghvyb7c4k6deblp45lnutluymvprw3hloonl6nrq.b32.i2p:1337
 tls://redcatho.de:9494
 tls://ro7bwwx7ch6echfqwgivsi37tgojgcrjosgq5jrgx5ebadu4xsaq.b32.i2p:39565
+tls://ryd-peer.ygg.sy.sa:8442
 tls://s2.i2pd.xyz:39575
 tls://sirsegv.moe:7676
 tls://spain.magicum.net:36901

@@ -453,9 +453,14 @@
   ],
   "saudi-arabia": [
     [
-      "tcp://pp1.ygg.sy.sa:8441",
-      "tls://pp1.ygg.sy.sa:8442",
-      "quic://pp1.ygg.sy.sa:8443"
+      "tcp://jed-peer.ygg.sy.sa:8441",
+      "tls://jed-peer.ygg.sy.sa:8442",
+      "quic://jed-peer.ygg.sy.sa:8443"
+    ],
+    [
+      "tcp://ryd-peer.ygg.sy.sa:8441",
+      "tls://ryd-peer.ygg.sy.sa:8442",
+      "quic://ryd-peer.ygg.sy.sa:8443"
     ]
   ],
   "singapore": [

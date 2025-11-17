@@ -76,6 +76,7 @@ quic://ygg-msk-1.averyan.ru:8364
 quic://ygg-nl.incognet.io:8885
 quic://ygg-pa.incognet.io:8885
 quic://ygg-wa.incognet.io:8885
+quic://ygg.ace.ctrl-c.liu.se:9997?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908
 quic://ygg1.grin.hu:4299
 quic://yggdrasil.sunsung.fun:4441
 quic://yggpeer.tilde.green:62265

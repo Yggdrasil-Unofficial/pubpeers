@@ -166,6 +166,7 @@ tcp://vpn.itrus.su:7991
 tcp://y.zbin.eu:7743
 tcp://yes.loki:5000
 tcp://yg-vvo.magicum.net:29330
+tcp://ygg-1.okade.pro:20000
 tcp://ygg-hel-1.wgos.org:45170
 tcp://ygg-kcmo.incognet.io:8883
 tcp://ygg-msk-1.averyan.ru:8363

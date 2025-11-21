@@ -256,6 +256,7 @@ tls://london.sabretruth.org:18472
 tls://longseason.1200bps.xyz:13122
 tls://micr0.dev:7992
 tls://mlupo.duckdns.org:9001
+tls://mm6nn75i3xfy7yc3dlj567gz3eq4qram55beqfw5ogf5lfj6hjoq.b32.i2p:555
 tls://mn.us.ygg.triplebit.org:993
 tls://mo.us.ygg.triplebit.org:993
 tls://msk1.neonxp.ru:7992

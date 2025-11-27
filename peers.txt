@@ -66,10 +66,6 @@ quic://sto01.yggdrasil.hosted-by.skhron.eu:8885
 quic://sysop.link:555
 quic://vix.duckdns.org:36014
 quic://vpn.itrus.su:7993
-quic://yg-hkg.magicum.net:32334
-quic://yg-mel.magicum.net:23801
-quic://yg-syd.magicum.net:23701
-quic://yg-tyo.magicum.net:32334
 quic://ygg-hel-1.wgos.org:45171
 quic://ygg-kcmo.incognet.io:8885
 quic://ygg-msk-1.averyan.ru:8364
@@ -165,6 +161,10 @@ tcp://thatmaidguy.fvds.ru:7991
 tcp://vpn.itrus.su:7991
 tcp://y.zbin.eu:7743
 tcp://yes.loki:5000
+tcp://yg-hkg.magicum.net:32334
+tcp://yg-mel.magicum.net:23801
+tcp://yg-syd.magicum.net:23701
+tcp://yg-tyo.magicum.net:32334
 tcp://yg-vvo.magicum.net:29330
 tcp://ygg-1.okade.pro:20000
 tcp://ygg-hel-1.wgos.org:45170

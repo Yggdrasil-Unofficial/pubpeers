@@ -108,6 +108,9 @@
       "tls://ygg2.mk16.de:1338?key=000000d80a2d7b3126ea65c8c08fc751088c491a5cdd47eff11c86fa1e4644ae"
     ],
     [
+      "tls://159.195.4.143:9001"
+    ],
+    [
       "tls://vpn.ltha.de:443?key=0000006149970f245e6cec43664bce203f2514b60a153e194f31e2b229a1339d"
     ],
     [
@@ -214,6 +217,12 @@
       "tls://hgtciq2ususgkmomliphhwenaafdd3lvg3xayzhoyyxn2x3uix5a.b32.i2p:555",
       "tls://3xgziioqsz6q7m3ihcl6k5ojti5vats2jze2ilajnt5a62v3ltfa.b32.i2p:555",
       "tls://mm6nn75i3xfy7yc3dlj567gz3eq4qram55beqfw5ogf5lfj6hjoq.b32.i2p:555"
+    ]
+  ],
+  "indonesia": [
+    [
+      "tls://supanadit.com:15021",
+      "quic://supanadit.com:15022"
     ]
   ],
   "japan": [

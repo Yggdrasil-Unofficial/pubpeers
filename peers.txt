@@ -63,6 +63,7 @@ quic://scarlet.mboa.dev:3443
 quic://spain.magicum.net:36900
 quic://srv.itrus.su:7993
 quic://sto01.yggdrasil.hosted-by.skhron.eu:8885
+quic://supanadit.com:15022
 quic://sysop.link:555
 quic://vix.duckdns.org:36014
 quic://vpn.itrus.su:7993
@@ -190,6 +191,7 @@ tls://109.176.250.101:65534
 tls://129.80.167.244:23164
 tls://133.18.201.69:54232
 tls://153.120.42.137:54232
+tls://159.195.4.143:9001
 tls://185.165.169.234:8443
 tls://185.181.60.111:1513?key=00defa4b4b243547f2d5641ac5235ff1e35d393c576e4bb9cd45baefc81e48d9
 tls://188.225.9.167:18227
@@ -276,6 +278,7 @@ tls://srl.newsdeef.eu:59999
 tls://srv.itrus.su:7992
 tls://srv.newsdeef.eu:59999
 tls://sto01.yggdrasil.hosted-by.skhron.eu:8884
+tls://supanadit.com:15021
 tls://syd.joel.net.au:8443
 tls://vix.duckdns.org:36014
 tls://vpn.itrus.su:7992

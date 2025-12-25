@@ -128,6 +128,7 @@ tcp://[2a14:1e00:3:2b2::]:65535
 tcp://bode.theender.net:42069
 tcp://box.paulll.cc:13337
 tcp://chiefsnapp.loki:42753
+tcp://cirno.nadeko.net:44441
 tcp://ekb.itrus.su:7991
 tcp://ip4.01.ekb.ru.dioni.su:9002
 tcp://ip4.01.msk.ru.dioni.su:9002
@@ -141,10 +142,12 @@ tcp://ip6.nerdvm.mywire.org:8080?key=00000000c61d731961a290d127cd3fc03a4c5f3f35b
 tcp://itcom.multed.com:7991
 tcp://jed-peer.ygg.sy.sa:8441
 tcp://jeff.loki:5000
+tcp://kisume.nadeko.net:44441
 tcp://kzn1.neonxp.ru:7991
 tcp://leo.node.3dt.net:9002
 tcp://london.sabretruth.org:18473
 tcp://longseason.1200bps.xyz:13121
+tcp://marisa.nadeko.net:44441
 tcp://micr0.dev:7991
 tcp://mn.us.ygg.triplebit.org:9000
 tcp://mo.us.ygg.triplebit.org:9000
@@ -153,6 +156,7 @@ tcp://neo.node.3dt.net:9002
 tcp://rendezvous.anton.molyboha.me:50421
 tcp://ryd-peer.ygg.sy.sa:8441
 tcp://s2.i2pd.xyz:39565
+tcp://satori.nadeko.net:44441
 tcp://srl.newsdeef.eu:9999
 tcp://srv.itrus.su:7991
 tcp://srv.newsdeef.eu:9999
@@ -236,6 +240,7 @@ tls://astrra.space:55535
 tls://b.ygg.yt:443
 tls://bode.theender.net:42169?key=f91b909f43829f8b20732b3bcf80cbc4bb078dd47b41638379a078e35984c9a4
 tls://box.paulll.cc:13338
+tls://cirno.nadeko.net:44442
 tls://de-fsn-1.peer.v4.yggdrasil.chaz6.com:4444
 tls://ekb.itrus.su:7992
 tls://fllrj72kxnenalmmi3uz22ljqnmuex4h2jlhwnapxlzrnn7lknadxuqd.onion:706
@@ -251,11 +256,13 @@ tls://ip4.01.tom.ru.dioni.su:9003
 tls://ip6.01.ekb.ru.dioni.su:9003
 tls://ip6.01.msk.ru.dioni.su:9003
 tls://jed-peer.ygg.sy.sa:8442
+tls://kisume.nadeko.net:44442
 tls://kursk.cleverfox.org:15015
 tls://kzn1.neonxp.ru:7992
 tls://leo.node.3dt.net:9003
 tls://london.sabretruth.org:18472
 tls://longseason.1200bps.xyz:13122
+tls://marisa.nadeko.net:44442
 tls://micr0.dev:7992
 tls://mlupo.duckdns.org:9001
 tls://mm6nn75i3xfy7yc3dlj567gz3eq4qram55beqfw5ogf5lfj6hjoq.b32.i2p:555
@@ -272,6 +279,7 @@ tls://redcatho.de:9494
 tls://ro7bwwx7ch6echfqwgivsi37tgojgcrjosgq5jrgx5ebadu4xsaq.b32.i2p:39565
 tls://ryd-peer.ygg.sy.sa:8442
 tls://s2.i2pd.xyz:39575
+tls://satori.nadeko.net:44442
 tls://sirsegv.moe:7676
 tls://spain.magicum.net:36901
 tls://srl.newsdeef.eu:59999

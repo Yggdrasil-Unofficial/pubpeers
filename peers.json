@@ -51,6 +51,10 @@
       "tls://ygg.nadeko.net:44442"
     ],
     [
+      "tcp://satori.nadeko.net:44441",
+      "tls://satori.nadeko.net:44442"
+    ],
+    [
       "tcp://ygg-1.okade.pro:20000"
     ]
   ],
@@ -313,6 +317,10 @@
     ],
     [
       "tcp://thatmaidguy.fvds.ru:7991"
+    ],
+    [
+      "tcp://cirno.nadeko.net:44441",
+      "tls://cirno.nadeko.net:44442"
     ]
   ],
   "norway": [
@@ -681,6 +689,14 @@
       "tls://ygg-wa.incognet.io:8884",
       "quic://ygg-wa.incognet.io:8885",
       "ws://ygg-wa.incognet.io:8886"
+    ],
+    [
+      "tcp://marisa.nadeko.net:44441",
+      "tls://marisa.nadeko.net:44442"
+    ],
+    [
+      "tcp://kisume.nadeko.net:44441",
+      "tls://kisume.nadeko.net:44442"
     ]
   ]
 }

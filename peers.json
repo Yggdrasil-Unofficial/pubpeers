@@ -433,6 +433,9 @@
       "tcp://itcom.multed.com:7991"
     ],
     [
+      "tcp://kem.txlyre.website:1337"
+    ],
+    [
       "tcp://ekb.itrus.su:7991",
       "tls://ekb.itrus.su:7992",
       "quic://ekb.itrus.su:7993",
@@ -452,7 +455,8 @@
     ],
     [
       "tls://vix.duckdns.org:36014",
-      "quic://vix.duckdns.org:36014"
+      "quic://vix.duckdns.org:36014",
+      "wss://donotclickthis.link:443/api/v2/socket"
     ],
     [
       "tcp://ip4.01.tom.ru.dioni.su:9002",

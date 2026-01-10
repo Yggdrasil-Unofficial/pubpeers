@@ -140,6 +140,7 @@ tcp://ip6.nerdvm.mywire.org:8080?key=00000000c61d731961a290d127cd3fc03a4c5f3f35b
 tcp://itcom.multed.com:7991
 tcp://jed-peer.ygg.sy.sa:8441
 tcp://jeff.loki:5000
+tcp://kem.txlyre.website:1337
 tcp://kisume.nadeko.net:44441
 tcp://kzn1.neonxp.ru:7991
 tcp://leo.node.3dt.net:9002
@@ -346,6 +347,7 @@ ws://ygg-nl.incognet.io:8886
 ws://ygg-pa.incognet.io:8886
 ws://ygg-wa.incognet.io:8886
 ws://ygg1.grin.hu:42443
+wss://donotclickthis.link:443/api/v2/socket
 wss://leo.node.3dt.net:9005
 wss://neo.node.3dt.net:9005
 wss://ygg-evn-1.wgos.org:443

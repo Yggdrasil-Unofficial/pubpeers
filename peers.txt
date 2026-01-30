@@ -82,6 +82,7 @@ quic://ygg4.mk16.de:1339?key=000000573433e11f23768b078bcdc10b42712a7b131d6d04b82
 quic://ygg5.mk16.de:1339?key=0000009611ae5391dc0aceea9f3fa6a0dc1279f4306059339e84bfb8b74d2f9b
 quic://ygg6.mk16.de:1339?key=0000005e5ced06fd4d465bc651c5deb6d70cbe82d36efb68c0450268eaaa5384
 quic://ygg7.mk16.de:1339?key=000000086278b5f3ba1eb63acb5b7f6e406f04ce83990dee9c07f49011e375ae
+quic://ygg8.mk16.de:1339?key=0000000b0683e38d8cb3085cfbf217edf0f0b2de76bb5ac7f02a94cd42a3fed9
 quic://yggdrasil.sunsung.fun:4441
 quic://yggpeer.tilde.green:62265
 tcp://109.107.177.127:65535
@@ -195,6 +196,7 @@ tcp://ygg4.mk16.de:1337?key=000000573433e11f23768b078bcdc10b42712a7b131d6d04b820
 tcp://ygg5.mk16.de:1337?key=0000009611ae5391dc0aceea9f3fa6a0dc1279f4306059339e84bfb8b74d2f9b
 tcp://ygg6.mk16.de:1337?key=0000005e5ced06fd4d465bc651c5deb6d70cbe82d36efb68c0450268eaaa5384
 tcp://ygg7.mk16.de:1337?key=000000086278b5f3ba1eb63acb5b7f6e406f04ce83990dee9c07f49011e375ae
+tcp://ygg8.mk16.de:1337?key=0000000b0683e38d8cb3085cfbf217edf0f0b2de76bb5ac7f02a94cd42a3fed9
 tcp://yggdrasil.1337.moe:7676
 tcp://yggdrasil.deavmi.assigned.network:2000
 tcp://yggdrasil.su:62486
@@ -216,11 +218,12 @@ tls://23.137.249.65:444
 tls://23.184.48.86:993
 tls://2ddoxwucodjfy6u34v3toxm2a463nzd3f523hhfzc3y5de7twj6a.b32.i2p:2281
 tls://31.22.111.195:32000
+tls://34kxfd4n5oxg7nztr2ek2cjhk4rl7tqw6gvcizldptqbtwlkiv6q.b32.i2p:1337?key=000000573433e11f23768b078bcdc10b42712a7b131d6d04b82042ffc0c97df0
 tls://37.186.113.100:1515
 tls://37.192.232.33:442
 tls://37.205.14.171:993
 tls://3es3qg37kp5ufqws7vn4wb4eu2ufcy4rjxycdkqisdql7cotbaca.b32.i2p:9000
-tls://3qqi3lxscvx2ebatj36y6wmdzaah7eblf5fl7scayp6wgyhh3vpa.b32.i2p
+tls://3qqi3lxscvx2ebatj36y6wmdzaah7eblf5fl7scayp6wgyhh3vpa.b32.i2p:1337?key=000000d80a2d7b3126ea65c8c08fc751088c491a5cdd47eff11c86fa1e4644ae
 tls://3xgziioqsz6q7m3ihcl6k5ojti5vats2jze2ilajnt5a62v3ltfa.b32.i2p:555
 tls://44.234.134.124:443
 tls://45.147.200.202:443
@@ -251,10 +254,12 @@ tls://astrra.space:55535
 tls://b.ygg.yt:443
 tls://bode.theender.net:42169?key=f91b909f43829f8b20732b3bcf80cbc4bb078dd47b41638379a078e35984c9a4
 tls://box.paulll.cc:13338
+tls://bvjhuq5v4g63a3eqs7asbequscjzp444g6yqu337qkzxx3gupegq.b32.i2p:1337?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1
 tls://cirno.nadeko.net:44442
 tls://de-fsn-1.peer.v4.yggdrasil.chaz6.com:4444
 tls://ekb.itrus.su:7992
 tls://fllrj72kxnenalmmi3uz22ljqnmuex4h2jlhwnapxlzrnn7lknadxuqd.onion:706
+tls://fq3bcn6mnscqo5t7xaxswcfpvr6e245tsjybwz3xurjdw5t7npca.b32.i2p:1337?key=0000000087ee9949eeab56bd430ee8f324cad55abf3993ed9b9be63ce693e18a
 tls://g.ygg.yt:443
 tls://goux4uxdsu4gdnoxvizb74fapjtsn2pstqeqonr2juwqn5qqfgiowjyd.onion:5222
 tls://helium.avevad.com:1337
@@ -267,6 +272,7 @@ tls://ip4.01.tom.ru.dioni.su:9003
 tls://ip6.01.ekb.ru.dioni.su:9003
 tls://ip6.01.msk.ru.dioni.su:9003
 tls://jed-peer.ygg.sy.sa:8442
+tls://jef2ems7n6ewwcyca7jauzb2ym3vogpi5sbnqqshvnhjymkdw7sq.b32.i2p:1337?key=0000009611ae5391dc0aceea9f3fa6a0dc1279f4306059339e84bfb8b74d2f9b
 tls://kisume.nadeko.net:44442
 tls://kursk.cleverfox.org:15015
 tls://kzn1.neonxp.ru:7992
@@ -329,6 +335,7 @@ tls://ygg4.mk16.de:1338?key=000000573433e11f23768b078bcdc10b42712a7b131d6d04b820
 tls://ygg5.mk16.de:1338?key=0000009611ae5391dc0aceea9f3fa6a0dc1279f4306059339e84bfb8b74d2f9b
 tls://ygg6.mk16.de:1338?key=0000005e5ced06fd4d465bc651c5deb6d70cbe82d36efb68c0450268eaaa5384
 tls://ygg7.mk16.de:1338?key=000000086278b5f3ba1eb63acb5b7f6e406f04ce83990dee9c07f49011e375ae
+tls://ygg8.mk16.de:1338?key=0000000b0683e38d8cb3085cfbf217edf0f0b2de76bb5ac7f02a94cd42a3fed9
 tls://yggdrasil.deavmi.assigned.network:2001
 tls://yggdrasil.neilalexander.dev:64648?key=ecbbcb3298e7d3b4196103333c3e839cfe47a6ca47602b94a6d596683f6bb358
 tls://yggdrasil.su:62586
@@ -337,6 +344,7 @@ tls://yggnekkmyitzepgl5ltdl277y5wdg36n4pc45sualo3yesm3usnuwyad.onion:1863
 tls://yggno.de:18227
 tls://yggpeer.tilde.green:59454
 tls://yzkelq2cd76znzdbexyeqp35hw2fgsj5pyc5yd5jntxode3cu4bysnqd.onion:42753
+tls://zjbhpptbgnoz7abawqko3mp2rreulog5tng2mctks7jgsgjezr6q.b32.i2p:1337?key=0000000b0683e38d8cb3085cfbf217edf0f0b2de76bb5ac7f02a94cd42a3fed9
 tls:[2001:1af8:4010:a06c:3::112]:443?key=00000002a957313975d1fe53b9ac641b05b1a9c37da22d4ebcef45e7a5bd4c67
 ws://193.93.119.42:850
 ws://195.2.74.155:7993
@@ -369,6 +377,7 @@ ws://ygg4.mk16.de:1340?key=000000573433e11f23768b078bcdc10b42712a7b131d6d04b8204
 ws://ygg5.mk16.de:1340?key=0000009611ae5391dc0aceea9f3fa6a0dc1279f4306059339e84bfb8b74d2f9b
 ws://ygg6.mk16.de:1340?key=0000005e5ced06fd4d465bc651c5deb6d70cbe82d36efb68c0450268eaaa5384
 ws://ygg7.mk16.de:1340?key=000000086278b5f3ba1eb63acb5b7f6e406f04ce83990dee9c07f49011e375ae
+ws://ygg8.mk16.de:1340?key=0000000b0683e38d8cb3085cfbf217edf0f0b2de76bb5ac7f02a94cd42a3fed9
 wss://donotclickthis.link:443/api/v2/socket
 wss://leo.node.3dt.net:9005
 wss://neo.node.3dt.net:9005

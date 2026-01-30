@@ -238,7 +238,12 @@
       "tls://xmgzqfidm3zn4y3vfljqiuyfxorifntjca3rfnwv3dbbfcrx4uca.b32.i2p:30112"
     ],
     [
-      "tls://3qqi3lxscvx2ebatj36y6wmdzaah7eblf5fl7scayp6wgyhh3vpa.b32.i2p"
+      "tls://3qqi3lxscvx2ebatj36y6wmdzaah7eblf5fl7scayp6wgyhh3vpa.b32.i2p:1337?key=000000d80a2d7b3126ea65c8c08fc751088c491a5cdd47eff11c86fa1e4644ae",
+      "tls://fq3bcn6mnscqo5t7xaxswcfpvr6e245tsjybwz3xurjdw5t7npca.b32.i2p:1337?key=0000000087ee9949eeab56bd430ee8f324cad55abf3993ed9b9be63ce693e18a",
+      "tls://jef2ems7n6ewwcyca7jauzb2ym3vogpi5sbnqqshvnhjymkdw7sq.b32.i2p:1337?key=0000009611ae5391dc0aceea9f3fa6a0dc1279f4306059339e84bfb8b74d2f9b",
+      "tls://zjbhpptbgnoz7abawqko3mp2rreulog5tng2mctks7jgsgjezr6q.b32.i2p:1337?key=0000000b0683e38d8cb3085cfbf217edf0f0b2de76bb5ac7f02a94cd42a3fed9",
+      "tls://34kxfd4n5oxg7nztr2ek2cjhk4rl7tqw6gvcizldptqbtwlkiv6q.b32.i2p:1337?key=000000573433e11f23768b078bcdc10b42712a7b131d6d04b82042ffc0c97df0",
+      "tls://bvjhuq5v4g63a3eqs7asbequscjzp444g6yqu337qkzxx3gupegq.b32.i2p:1337?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1"
     ],
     [
       "tls://rdssbb3furycghvyb7c4k6deblp45lnutluymvprw3hloonl6nrq.b32.i2p:1337"
@@ -658,6 +663,12 @@
       "tls://mo.us.ygg.triplebit.org:993",
       "quic://mo.us.ygg.triplebit.org:443",
       "ws://mo.us.ygg.triplebit.org:9010"
+    ],
+    [
+      "tcp://ygg8.mk16.de:1337?key=0000000b0683e38d8cb3085cfbf217edf0f0b2de76bb5ac7f02a94cd42a3fed9",
+      "tls://ygg8.mk16.de:1338?key=0000000b0683e38d8cb3085cfbf217edf0f0b2de76bb5ac7f02a94cd42a3fed9",
+      "quic://ygg8.mk16.de:1339?key=0000000b0683e38d8cb3085cfbf217edf0f0b2de76bb5ac7f02a94cd42a3fed9",
+      "ws://ygg8.mk16.de:1340?key=0000000b0683e38d8cb3085cfbf217edf0f0b2de76bb5ac7f02a94cd42a3fed9"
     ],
     [
       "tcp://neo.node.3dt.net:9002",

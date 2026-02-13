@@ -538,6 +538,10 @@
   "slovakia": [
     [
       "tcp://y.zbin.eu:7743"
+    ],
+    [
+      "tls://ygg-ke.8px.sk:4321",
+      "quic://ygg-ke.8px.sk:4321"
     ]
   ],
   "south-africa": [
@@ -580,6 +584,13 @@
     [
       "tcp://sysop.link:555",
       "quic://sysop.link:555"
+    ]
+  ],
+  "taiwan": [
+    [
+      "tcp://ygg-tw.lxak.net:8879",
+      "tls://ygg-tw.lxak.net:8880",
+      "quic://ygg-tw.lxak.net:8881"
     ]
   ],
   "tor": [
@@ -712,6 +723,11 @@
     [
       "quic://[2603:c020:4015:b937:a1c7:aff8:b558:d1fe]:23165",
       "quic://129.80.167.244:23165"
+    ],
+    [
+      "tcp://ygg-dc.lxak.net:8879",
+      "tls://ygg-dc.lxak.net:8880",
+      "quic://ygg-dc.lxak.net:8881"
     ],
     [
       "tcp://ygg4.mk16.de:1337?key=000000573433e11f23768b078bcdc10b42712a7b131d6d04b82042ffc0c97df0",

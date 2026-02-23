@@ -244,6 +244,7 @@ tls://7e2q2nrypvbfqparjqa5ubuof6zat6eq3abk2reujyzg2v32dsxq.b32.i2p:9000
 tls://7mx6ztmimo5nrnmydjjtkr6maupknr3zlyr33umly22pqnivyxcq.b32.i2p:46944
 tls://91.98.126.143:32000
 tls://95.217.35.92:1337
+tls://[2001:1af8:4010:a06c:3::112]:443?key=00000002a957313975d1fe53b9ac641b05b1a9c37da22d4ebcef45e7a5bd4c67
 tls://[2001:470:1f13:e56::64]:39575
 tls://[2602:fc24:18:7a42::1]:993
 tls://[2a00:b700::a:279]:443
@@ -353,7 +354,6 @@ tls://yggno.de:18227
 tls://yggpeer.tilde.green:59454
 tls://yzkelq2cd76znzdbexyeqp35hw2fgsj5pyc5yd5jntxode3cu4bysnqd.onion:42753
 tls://zjbhpptbgnoz7abawqko3mp2rreulog5tng2mctks7jgsgjezr6q.b32.i2p:1337?key=0000000b0683e38d8cb3085cfbf217edf0f0b2de76bb5ac7f02a94cd42a3fed9
-tls:[2001:1af8:4010:a06c:3::112]:443?key=00000002a957313975d1fe53b9ac641b05b1a9c37da22d4ebcef45e7a5bd4c67
 ws://193.93.119.42:850
 ws://195.2.74.155:7993
 ws://195.58.51.167:7993

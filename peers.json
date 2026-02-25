@@ -140,14 +140,8 @@
       "tls://vpn.ltha.de:443?key=0000006149970f245e6cec43664bce203f2514b60a153e194f31e2b229a1339d"
     ],
     [
-      "tls://de-fsn-1.peer.v4.yggdrasil.chaz6.com:4444"
-    ],
-    [
       "tcp://yggdrasil.su:62486",
       "tls://yggdrasil.su:62586"
-    ],
-    [
-      "tls://mlupo.duckdns.org:9001"
     ],
     [
       "tls://91.98.126.143:32000"
@@ -290,8 +284,7 @@
   ],
   "luxembourg": [
     [
-      "tls://srl.newsdeef.eu:59999",
-      "tcp://srl.newsdeef.eu:9999"
+      "tls://srl.newsdeef.eu:59999"
     ]
   ],
   "netherlands": [
@@ -303,12 +296,6 @@
     ],
     [
       "tls://23.137.249.65:444"
-    ],
-    [
-      "tcp://ygg-nl.incognet.io:8883",
-      "tls://ygg-nl.incognet.io:8884",
-      "quic://ygg-nl.incognet.io:8885",
-      "ws://ygg-nl.incognet.io:8886"
     ],
     [
       "tcp://146.103.111.53:65535",
@@ -381,9 +368,6 @@
     [
       "tcp://185.165.169.234:8880",
       "tls://185.165.169.234:8443"
-    ],
-    [
-      "tcp://45.137.99.182:1337"
     ]
   ],
   "russia": [
@@ -436,21 +420,8 @@
       "tcp://yggdrasil.1337.moe:7676"
     ],
     [
-      "tcp://msk1.neonxp.ru:7991",
-      "tcp://195.2.74.155:7991",
-      "tls://msk1.neonxp.ru:7992",
-      "tls://195.2.74.155:7992",
-      "ws://msk1.neonxp.ru:7993",
-      "ws://195.2.74.155:7993",
-      "quic://msk1.neonxp.ru:7994",
-      "quic://195.2.74.155:7994"
-    ],
-    [
       "tcp://box.paulll.cc:13337",
       "tls://box.paulll.cc:13338"
-    ],
-    [
-      "tcp://91.220.109.93:8080"
     ],
     [
       "tcp://srv.itrus.su:7991",
@@ -498,16 +469,6 @@
       "ws://ip4.01.tom.ru.dioni.su:9004"
     ],
     [
-      "tcp://kzn1.neonxp.ru:7991",
-      "tcp://195.58.51.167:7991",
-      "tls://kzn1.neonxp.ru:7992",
-      "tls://195.58.51.167:7992",
-      "ws://kzn1.neonxp.ru:7993",
-      "ws://195.58.51.167:7993",
-      "quic://kzn1.neonxp.ru:7994",
-      "quic://195.58.51.167:7994"
-    ],
-    [
       "tls://kursk.cleverfox.org:15015",
       "quic://kursk.cleverfox.org:15015",
       "ws://kursk.cleverfox.org:15016"
@@ -548,10 +509,6 @@
     [
       "tcp://yggdrasil.deavmi.assigned.network:2000",
       "tls://yggdrasil.deavmi.assigned.network:2001"
-    ],
-    [
-      "tcp://[2a04:5b81:2011:1:dea6:32ff:fe0b:b610]:2000",
-      "tls://[2a04:5b81:2011:1:dea6:32ff:fe0b:b610]:2001"
     ]
   ],
   "spain": [
@@ -682,12 +639,6 @@
       "ws://ygg8.mk16.de:1340?key=0000000b0683e38d8cb3085cfbf217edf0f0b2de76bb5ac7f02a94cd42a3fed9"
     ],
     [
-      "tcp://neo.node.3dt.net:9002",
-      "tls://neo.node.3dt.net:9003",
-      "quic://neo.node.3dt.net:9004",
-      "wss://neo.node.3dt.net:9005"
-    ],
-    [
       "tls://srv.newsdeef.eu:59999",
       "tcp://srv.newsdeef.eu:9999"
     ],
@@ -706,10 +657,6 @@
       "tls://ygg-pa.incognet.io:8884",
       "quic://ygg-pa.incognet.io:8885",
       "ws://ygg-pa.incognet.io:8886"
-    ],
-    [
-      "tcp://micr0.dev:7991",
-      "tls://micr0.dev:7992"
     ],
     [
       "tcp://ygg.everypizza.im:9441"

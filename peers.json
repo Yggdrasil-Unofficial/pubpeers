@@ -494,6 +494,10 @@
     [
       "tls://asia.deinfra.org:15015",
       "quic://asia.deinfra.org:15015"
+    ],
+    [
+      "tcp://yg-sin.magicum.net:23901",
+      "tls://yg-sin.magicum.net:23900"
     ]
   ],
   "slovakia": [

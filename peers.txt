@@ -164,6 +164,7 @@ tcp://y.zbin.eu:7743
 tcp://yes.loki:5000
 tcp://yg-hkg.magicum.net:32334
 tcp://yg-mel.magicum.net:23801
+tcp://yg-sin.magicum.net:23901
 tcp://yg-syd.magicum.net:23701
 tcp://yg-tyo.magicum.net:32334
 tcp://yg-vvo.magicum.net:29330
@@ -294,6 +295,7 @@ tls://vpn.ltha.de:443?key=0000006149970f245e6cec43664bce203f2514b60a153e194f31e2
 tls://xmgzqfidm3zn4y3vfljqiuyfxorifntjca3rfnwv3dbbfcrx4uca.b32.i2p:30112
 tls://yg-hkg.magicum.net:32333
 tls://yg-mel.magicum.net:23800
+tls://yg-sin.magicum.net:23900
 tls://yg-syd.magicum.net:23700
 tls://yg-tyo.magicum.net:32333
 tls://yg-vvo.magicum.net:29331

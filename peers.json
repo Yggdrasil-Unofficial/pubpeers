@@ -86,6 +86,9 @@
       "tls://ygg-hel-1.wgos.org:45171",
       "quic://ygg-hel-1.wgos.org:45171",
       "ws://ygg-hel-1.wgos.org:45172"
+    ],
+    [
+      "tls://204.168.147.93:1337"
     ]
   ],
   "france": [
@@ -142,9 +145,6 @@
     [
       "tcp://yggdrasil.su:62486",
       "tls://yggdrasil.su:62586"
-    ],
-    [
-      "tls://91.98.126.143:32000"
     ],
     [
       "tcp://94.159.110.4:65535",

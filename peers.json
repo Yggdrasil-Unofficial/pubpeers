@@ -420,6 +420,15 @@
       "tcp://yggdrasil.1337.moe:7676"
     ],
     [
+      "wss://assets.route172.de:443/api/request/media?key=00000000000da547036a01860a9e3a0476a525415801ec34f4e5b59fd6055b88"
+    ],
+    [
+      "tcp://ru2.cert.dev:7040",
+      "tls://ru2.cert.dev:7041",
+      "quic://ru2.cert.dev:7042",
+      "ws://ru2.cert.dev:7043"
+    ],
+    [
       "tcp://box.paulll.cc:13337",
       "tls://box.paulll.cc:13338"
     ],

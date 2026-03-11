@@ -54,6 +54,7 @@ quic://leo.node.3dt.net:9004
 quic://mn.us.ygg.triplebit.org:443
 quic://mo.us.ygg.triplebit.org:443
 quic://redcatho.de:9494
+quic://ru2.cert.dev:7042
 quic://ryd-peer.ygg.sy.sa:8443
 quic://scarlet.mboa.dev:3443
 quic://spain.magicum.net:36900
@@ -151,6 +152,7 @@ tcp://marisa.nadeko.net:44441
 tcp://mn.us.ygg.triplebit.org:9000
 tcp://mo.us.ygg.triplebit.org:9000
 tcp://rendezvous.anton.molyboha.me:50421
+tcp://ru2.cert.dev:7040
 tcp://ryd-peer.ygg.sy.sa:8441
 tcp://s2.i2pd.xyz:39565
 tcp://satori.nadeko.net:44441
@@ -278,6 +280,7 @@ tls://p2pkbqdgvabddixbbr2y7vrra4qxq3sejfep2qknfu4owh7e3i622dqd.onion:1337
 tls://rdssbb3furycghvyb7c4k6deblp45lnutluymvprw3hloonl6nrq.b32.i2p:1337
 tls://redcatho.de:9494
 tls://ro7bwwx7ch6echfqwgivsi37tgojgcrjosgq5jrgx5ebadu4xsaq.b32.i2p:39565
+tls://ru2.cert.dev:7041
 tls://ryd-peer.ygg.sy.sa:8442
 tls://s2.i2pd.xyz:39575
 tls://satori.nadeko.net:44442
@@ -343,6 +346,7 @@ ws://ip6.01.msk.ru.dioni.su:9004
 ws://kursk.cleverfox.org:15016
 ws://mn.us.ygg.triplebit.org:9010
 ws://mo.us.ygg.triplebit.org:9010
+ws://ru2.cert.dev:7043
 ws://srv.itrus.su:7994
 ws://sto01.yggdrasil.hosted-by.skhron.eu:8886
 ws://vpn.itrus.su:7994
@@ -359,6 +363,7 @@ ws://ygg5.mk16.de:1340?key=0000009611ae5391dc0aceea9f3fa6a0dc1279f4306059339e84b
 ws://ygg6.mk16.de:1340?key=0000005e5ced06fd4d465bc651c5deb6d70cbe82d36efb68c0450268eaaa5384
 ws://ygg7.mk16.de:1340?key=000000086278b5f3ba1eb63acb5b7f6e406f04ce83990dee9c07f49011e375ae
 ws://ygg8.mk16.de:1340?key=0000000b0683e38d8cb3085cfbf217edf0f0b2de76bb5ac7f02a94cd42a3fed9
+wss://assets.route172.de:443/api/request/media?key=00000000000da547036a01860a9e3a0476a525415801ec34f4e5b59fd6055b88
 wss://donotclickthis.link:443/api/v2/socket
 wss://leo.node.3dt.net:9005
 wss://ygg-evn-1.wgos.org:443

@@ -37,7 +37,9 @@ quic://[2a14:1e00:3:15c::]:65535
 quic://[2a14:1e00:3:2b2::]:65535
 quic://asia.deinfra.org:15015
 quic://bode.theender.net:42269
+quic://des.8px.sk:4321
 quic://ekb.itrus.su:7993
+quic://ins.8px.sk:4321
 quic://ip4.01.ekb.ru.dioni.su:9002
 quic://ip4.01.msk.ru.dioni.su:9002
 quic://ip4.01.tom.ru.dioni.su:9002
@@ -64,7 +66,9 @@ quic://supanadit.com:15022
 quic://sysop.link:555
 quic://vix.duckdns.org:36014
 quic://vpn.itrus.su:7993
+quic://ygg-atvps.axxa.dev:18083
 quic://ygg-dc.lxak.net:8881
+quic://ygg-google.axxa.dev:18083
 quic://ygg-hel-1.wgos.org:45171
 quic://ygg-kcmo.incognet.io:8885
 quic://ygg-ke.8px.sk:4321
@@ -248,6 +252,7 @@ tls://bode.theender.net:42169?key=f91b909f43829f8b20732b3bcf80cbc4bb078dd47b4163
 tls://box.paulll.cc:13338
 tls://bvjhuq5v4g63a3eqs7asbequscjzp444g6yqu337qkzxx3gupegq.b32.i2p:1337?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1
 tls://cirno.nadeko.net:44442
+tls://des.8px.sk:4321
 tls://ekb.itrus.su:7992
 tls://fllrj72kxnenalmmi3uz22ljqnmuex4h2jlhwnapxlzrnn7lknadxuqd.onion:706
 tls://fq3bcn6mnscqo5t7xaxswcfpvr6e245tsjybwz3xurjdw5t7npca.b32.i2p:1337?key=0000000087ee9949eeab56bd430ee8f324cad55abf3993ed9b9be63ce693e18a
@@ -257,6 +262,7 @@ tls://helium.avevad.com:1337
 tls://hgtciq2ususgkmomliphhwenaafdd3lvg3xayzhoyyxn2x3uix5a.b32.i2p:555
 tls://i6lbsjw7kh4gqmbylcsjtfh3juj3dbbk24bwzrpgvtalhs7xagoa.b32.i2p:2721
 tls://iniuzq6i6r4tgbd3shnfgcm6ntg64lc75owmcnjyudgbajq7wvvrzwad.onion:555
+tls://ins.8px.sk:4321
 tls://ip4.01.ekb.ru.dioni.su:9003
 tls://ip4.01.msk.ru.dioni.su:9003
 tls://ip4.01.tom.ru.dioni.su:9003
@@ -302,8 +308,10 @@ tls://yg-sin.magicum.net:23900
 tls://yg-syd.magicum.net:23700
 tls://yg-tyo.magicum.net:32333
 tls://yg-vvo.magicum.net:29331
+tls://ygg-atvps.axxa.dev:18080
 tls://ygg-dc.lxak.net:8880
 tls://ygg-evn-1tls.wgos.org:443
+tls://ygg-google.axxa.dev:18080
 tls://ygg-hel-1.wgos.org:45171
 tls://ygg-kcmo.incognet.io:8884
 tls://ygg-ke.8px.sk:4321
@@ -314,6 +322,7 @@ tls://ygg-wa.incognet.io:8884
 tls://ygg.ace.ctrl-c.liu.se:9999?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908
 tls://ygg.jholden.org:1555
 tls://ygg.jjolly.dev:3443
+tls://ygg.med-dev-systems.ru:6221
 tls://ygg.mkg20001.io:443
 tls://ygg.mnpnk.com:443
 tls://ygg.nadeko.net:44442

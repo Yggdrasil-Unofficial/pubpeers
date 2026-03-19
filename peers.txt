@@ -73,7 +73,9 @@ quic://ygg-hel-1.wgos.org:45171
 quic://ygg-kcmo.incognet.io:8885
 quic://ygg-ke.8px.sk:4321
 quic://ygg-msk-1.averyan.ru:8364
+quic://ygg-oracle.axxa.dev:18083
 quic://ygg-pa.incognet.io:8885
+quic://ygg-ro.axxa.dev:18083
 quic://ygg-tw.lxak.net:8881
 quic://ygg-wa.incognet.io:8885
 quic://ygg.ace.ctrl-c.liu.se:9997?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908
@@ -168,7 +170,6 @@ tcp://thatmaidguy.fvds.ru:7991
 tcp://vpn.itrus.su:7991
 tcp://y.zbin.eu:7743
 tcp://yes.loki:5000
-tcp://yg-hkg.magicum.net:32334
 tcp://yg-mel.magicum.net:23801
 tcp://yg-sin.magicum.net:23901
 tcp://yg-syd.magicum.net:23701
@@ -302,7 +303,6 @@ tls://vix.duckdns.org:36014
 tls://vpn.itrus.su:7992
 tls://vpn.ltha.de:443?key=0000006149970f245e6cec43664bce203f2514b60a153e194f31e2b229a1339d
 tls://xmgzqfidm3zn4y3vfljqiuyfxorifntjca3rfnwv3dbbfcrx4uca.b32.i2p:30112
-tls://yg-hkg.magicum.net:32333
 tls://yg-mel.magicum.net:23800
 tls://yg-sin.magicum.net:23900
 tls://yg-syd.magicum.net:23700
@@ -316,7 +316,9 @@ tls://ygg-hel-1.wgos.org:45171
 tls://ygg-kcmo.incognet.io:8884
 tls://ygg-ke.8px.sk:4321
 tls://ygg-msk-1.averyan.ru:8362
+tls://ygg-oracle.axxa.dev:18080
 tls://ygg-pa.incognet.io:8884
+tls://ygg-ro.axxa.dev:18080
 tls://ygg-tw.lxak.net:8880
 tls://ygg-wa.incognet.io:8884
 tls://ygg.ace.ctrl-c.liu.se:9999?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908

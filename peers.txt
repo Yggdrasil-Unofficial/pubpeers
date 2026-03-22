@@ -167,6 +167,7 @@ tcp://srv.newsdeef.eu:9999
 tcp://sto01.yggdrasil.hosted-by.skhron.eu:8883
 tcp://sysop.link:555
 tcp://thatmaidguy.fvds.ru:7991
+tcp://u-neroit.ru:7000
 tcp://vpn.itrus.su:7991
 tcp://y.zbin.eu:7743
 tcp://yes.loki:5000

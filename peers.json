@@ -446,6 +446,9 @@
       "tls://ygg.med-dev-systems.ru:6221"
     ],
     [
+      "tcp://u-neroit.ru:7000"
+    ],
+    [
       "tcp://box.paulll.cc:13337",
       "tls://box.paulll.cc:13338"
     ],

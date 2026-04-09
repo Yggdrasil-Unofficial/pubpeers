@@ -254,6 +254,7 @@ tls://bode.theender.net:42169?key=f91b909f43829f8b20732b3bcf80cbc4bb078dd47b4163
 tls://box.paulll.cc:13338
 tls://bvjhuq5v4g63a3eqs7asbequscjzp444g6yqu337qkzxx3gupegq.b32.i2p:1337?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1
 tls://cirno.nadeko.net:44442
+tls://cowgl.tech:1337
 tls://des.8px.sk:4321
 tls://ekb.itrus.su:7992
 tls://fllrj72kxnenalmmi3uz22ljqnmuex4h2jlhwnapxlzrnn7lknadxuqd.onion:706

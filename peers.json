@@ -581,6 +581,9 @@
       "tcp://ygg-tw.lxak.net:8879",
       "tls://ygg-tw.lxak.net:8880",
       "quic://ygg-tw.lxak.net:8881"
+    ],
+    [
+      "tls://cowgl.tech:1337"
     ]
   ],
   "tor": [

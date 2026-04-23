@@ -449,6 +449,11 @@
       "ws://ru2.cert.dev:7043"
     ],
     [
+      "tcp://ygg-ru.lskd.pw:30041",
+      "tls://ygg-ru.lskd.pw:30042",
+      "quic://ygg-ru.lskd.pw:30043"
+    ],
+    [
       "tls://ygg.med-dev-systems.ru:6221"
     ],
     [

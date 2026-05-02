@@ -89,6 +89,12 @@
     ],
     [
       "tls://204.168.147.93:1337"
+    ],
+    [
+      "tcp://vpn2.strcat.su:8888",
+      "tls://vpn2.strcat.su:8443",
+      "quic://vpn2.strcat.su:5353",
+      "ws://vpn2.strcat.su:8080"
     ]
   ],
   "france": [
@@ -287,6 +293,14 @@
     [
       "tls://yg-tyo.magicum.net:32333",
       "tcp://yg-tyo.magicum.net:32334"
+    ]
+  ],
+  "latvia": [
+    [
+      "tls://vpn1.strcat.su:8443",
+      "tcp://vpn1.strcat.su:8888",
+      "quic://vpn1.strcat.su:5353",
+      "ws://vpn1.strcat.su:8080"
     ]
   ],
   "lokinet": [

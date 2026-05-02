@@ -67,6 +67,8 @@ quic://supanadit.com:15022
 quic://sysop.link:555
 quic://vix.duckdns.org:36014
 quic://vpn.itrus.su:7993
+quic://vpn1.strcat.su:5353
+quic://vpn2.strcat.su:5353
 quic://ygg-atvps.axxa.dev:18083
 quic://ygg-dc.lxak.net:8881
 quic://ygg-google.axxa.dev:18083
@@ -172,6 +174,8 @@ tcp://sysop.link:555
 tcp://thatmaidguy.fvds.ru:7991
 tcp://u-neroit.ru:7000
 tcp://vpn.itrus.su:7991
+tcp://vpn1.strcat.su:8888
+tcp://vpn2.strcat.su:8888
 tcp://y.zbin.eu:7743
 tcp://yes.loki:5000
 tcp://yg-mel.magicum.net:23801
@@ -309,6 +313,8 @@ tls://syd.joel.net.au:8443
 tls://vix.duckdns.org:36014
 tls://vpn.itrus.su:7992
 tls://vpn.ltha.de:443?key=0000006149970f245e6cec43664bce203f2514b60a153e194f31e2b229a1339d
+tls://vpn1.strcat.su:8443
+tls://vpn2.strcat.su:8443
 tls://xmgzqfidm3zn4y3vfljqiuyfxorifntjca3rfnwv3dbbfcrx4uca.b32.i2p:30112
 tls://yg-mel.magicum.net:23800
 tls://yg-sin.magicum.net:23900
@@ -369,6 +375,8 @@ ws://ru2.cert.dev:7043
 ws://srv.itrus.su:7994
 ws://sto01.yggdrasil.hosted-by.skhron.eu:8886
 ws://vpn.itrus.su:7994
+ws://vpn1.strcat.su:8080
+ws://vpn2.strcat.su:8080
 ws://ygg-hel-1.wgos.org:45172
 ws://ygg-kcmo.incognet.io:8886
 ws://ygg-pa.incognet.io:8886

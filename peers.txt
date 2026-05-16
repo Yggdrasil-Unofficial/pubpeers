@@ -70,7 +70,6 @@ quic://vpn.itrus.su:7993
 quic://vpn1.strcat.su:5353
 quic://vpn2.strcat.su:5353
 quic://ygg-atvps.axxa.dev:18083
-quic://ygg-dc.lxak.net:8881
 quic://ygg-google.axxa.dev:18083
 quic://ygg-hel-1.wgos.org:45171
 quic://ygg-kcmo.incognet.io:8885
@@ -80,7 +79,6 @@ quic://ygg-oracle.axxa.dev:18083
 quic://ygg-pa.incognet.io:8885
 quic://ygg-ro.axxa.dev:18083
 quic://ygg-ru.lskd.pw:30043
-quic://ygg-tw.lxak.net:8881
 quic://ygg-wa.incognet.io:8885
 quic://ygg.ace.ctrl-c.liu.se:9997?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908
 quic://ygg1.grin.hu:4299
@@ -190,7 +188,7 @@ tcp://ygg-kcmo.incognet.io:8883
 tcp://ygg-msk-1.averyan.ru:8363
 tcp://ygg-pa.incognet.io:8883
 tcp://ygg-ru.lskd.pw:30041
-tcp://ygg-tw.lxak.net:8879
+tcp://ygg-tw.lxak.net:80
 tcp://ygg-wa.incognet.io:8883
 tcp://ygg.ace.ctrl-c.liu.se:9998?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908
 tcp://ygg.everypizza.im:9441
@@ -333,7 +331,7 @@ tls://ygg-oracle.axxa.dev:18080
 tls://ygg-pa.incognet.io:8884
 tls://ygg-ro.axxa.dev:18080
 tls://ygg-ru.lskd.pw:30042
-tls://ygg-tw.lxak.net:8880
+tls://ygg-tw.lxak.net:443
 tls://ygg-wa.incognet.io:8884
 tls://ygg.ace.ctrl-c.liu.se:9999?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908
 tls://ygg.jholden.org:1555

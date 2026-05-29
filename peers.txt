@@ -67,8 +67,6 @@ quic://supanadit.com:15022
 quic://sysop.link:555
 quic://vix.duckdns.org:36014
 quic://vpn.itrus.su:7993
-quic://vpn1.strcat.su:5353
-quic://vpn2.strcat.su:5353
 quic://ygg-atvps.axxa.dev:18083
 quic://ygg-google.axxa.dev:18083
 quic://ygg-hel-1.wgos.org:45171
@@ -172,8 +170,6 @@ tcp://sysop.link:555
 tcp://thatmaidguy.fvds.ru:7991
 tcp://u-neroit.ru:7000
 tcp://vpn.itrus.su:7991
-tcp://vpn1.strcat.su:8888
-tcp://vpn2.strcat.su:8888
 tcp://y.zbin.eu:7743
 tcp://yes.loki:5000
 tcp://yg-mel.magicum.net:23801
@@ -206,6 +202,7 @@ tcp://yggdrasil.1337.moe:7676
 tcp://yggdrasil.deavmi.assigned.network:2000
 tcp://yggdrasil.su:62486
 tcp://yggdrasil.sunsung.fun:4442
+tcp://yggdrasil2.deavmi.assigned.network:2000
 tcp://yggno.de:18226
 tcp://yggpeer.tilde.green:53299
 tls://103.109.234.106:443?key=000000035621c71b5610434589df051aed2688510f904ae79860668dc0fbf182
@@ -291,6 +288,7 @@ tls://mn.us.ygg.triplebit.org:993
 tls://mo.us.ygg.triplebit.org:993
 tls://mwk5ztldlqzwz5ksp6fe4zxjhfnpdtencx23aqssqokxhxe4xvopd7id.onion:1337
 tls://n.ygg.yt:443
+tls://nuket0wn.mystora.su:443
 tls://nxuwjikhsirri2rbrdlphstsn3jr2qzjrsylwkt65rh2miycr5n24tid.onion:706
 tls://p2pkbqdgvabddixbbr2y7vrra4qxq3sejfep2qknfu4owh7e3i622dqd.onion:1337
 tls://rdssbb3furycghvyb7c4k6deblp45lnutluymvprw3hloonl6nrq.b32.i2p:1337
@@ -311,8 +309,6 @@ tls://syd.joel.net.au:8443
 tls://vix.duckdns.org:36014
 tls://vpn.itrus.su:7992
 tls://vpn.ltha.de:443?key=0000006149970f245e6cec43664bce203f2514b60a153e194f31e2b229a1339d
-tls://vpn1.strcat.su:8443
-tls://vpn2.strcat.su:8443
 tls://xmgzqfidm3zn4y3vfljqiuyfxorifntjca3rfnwv3dbbfcrx4uca.b32.i2p:30112
 tls://yg-mel.magicum.net:23800
 tls://yg-sin.magicum.net:23900
@@ -353,6 +349,7 @@ tls://yggdrasil.deavmi.assigned.network:2001
 tls://yggdrasil.neilalexander.dev:64648?key=ecbbcb3298e7d3b4196103333c3e839cfe47a6ca47602b94a6d596683f6bb358
 tls://yggdrasil.su:62586
 tls://yggdrasil.sunsung.fun:4443
+tls://yggdrasil2.deavmi.assigned.network:2001
 tls://yggnekkmyitzepgl5ltdl277y5wdg36n4pc45sualo3yesm3usnuwyad.onion:1863
 tls://yggno.de:18227
 tls://yggpeer.tilde.green:59454
@@ -369,12 +366,11 @@ ws://ip6.01.msk.ru.dioni.su:9004
 ws://kursk.cleverfox.org:15016
 ws://mn.us.ygg.triplebit.org:9010
 ws://mo.us.ygg.triplebit.org:9010
+ws://nuket0wn.mystora.su:80
 ws://ru2.cert.dev:7043
 ws://srv.itrus.su:7994
 ws://sto01.yggdrasil.hosted-by.skhron.eu:8886
 ws://vpn.itrus.su:7994
-ws://vpn1.strcat.su:8080
-ws://vpn2.strcat.su:8080
 ws://ygg-hel-1.wgos.org:45172
 ws://ygg-kcmo.incognet.io:8886
 ws://ygg-pa.incognet.io:8886

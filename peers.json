@@ -44,6 +44,9 @@
     [
       "tcp://Yggdrasil.UnderEu.Net:37001",
       "quic://Yggdrasil.UnderEu.Net:37003"
+    ],
+    [
+      "tls://thinkmedia.freeddns.org:9002"
     ]
   ],
   "canada": [
@@ -312,9 +315,6 @@
       "tls://vpn.itrus.su:7992",
       "quic://vpn.itrus.su:7993",
       "ws://vpn.itrus.su:7994"
-    ],
-    [
-      "tls://23.137.249.65:444"
     ],
     [
       "tcp://146.103.111.53:65535",

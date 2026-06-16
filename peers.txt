@@ -216,7 +216,6 @@ tls://185.165.169.234:8443
 tls://188.225.9.167:18227
 tls://193.93.119.42:443
 tls://204.168.147.93:1337
-tls://23.137.249.65:444
 tls://23.184.48.86:1443
 tls://2ddoxwucodjfy6u34v3toxm2a463nzd3f523hhfzc3y5de7twj6a.b32.i2p:2281
 tls://31.22.111.195:32000
@@ -307,6 +306,7 @@ tls://srv.newsdeef.eu:59999
 tls://sto01.yggdrasil.hosted-by.skhron.eu:8884
 tls://supanadit.com:15021
 tls://syd.joel.net.au:8443
+tls://thinkmedia.freeddns.org:9002
 tls://vix.duckdns.org:36014
 tls://vpn.itrus.su:7992
 tls://vpn.ltha.de:443?key=0000006149970f245e6cec43664bce203f2514b60a153e194f31e2b229a1339d

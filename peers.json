@@ -75,8 +75,8 @@
   ],
   "czechia": [
     [
-      "tls://37.205.14.171:993",
-      "tls://[2a03:3b40:fe:ab::1]:993"
+      "tls://37.205.14.171:993?key=0009e16b9e3afe7b13c3612560410434d3dfc70c8a8a0a63e51e0470cb8124f6",
+      "tls://[2a03:3b40:fe:ab::1]:993?key=0009e16b9e3afe7b13c3612560410434d3dfc70c8a8a0a63e51e0470cb8124f6"
     ]
   ],
   "finland": [
@@ -674,6 +674,9 @@
       "quic://ip6.nerdvm.mywire.org:443?key=00000000c61d731961a290d127cd3fc03a4c5f3f35b9083559d4c81d48d65854"
     ],
     [
+      "tls://ca.us.ygg.informatics.coop:443?key=0000000023fc6ffb62afb79448aefb0943df2e4472cf08bd489f5407378300a2"
+    ],
+    [
       "tls://redcatho.de:9494",
       "quic://redcatho.de:9494"
     ],
@@ -747,6 +750,9 @@
     [
       "tls://ygg-atvps.axxa.dev:18080",
       "quic://ygg-atvps.axxa.dev:18083"
+    ],
+    [
+      "tcp://ygg1.asriyan.me:23672"
     ],
     [
       "tls://23.184.48.86:1443",

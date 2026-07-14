@@ -56,6 +56,7 @@ quic://kursk.cleverfox.org:15015
 quic://leo.node.3dt.net:9004
 quic://mn.us.ygg.triplebit.org:443
 quic://mo.us.ygg.triplebit.org:443
+quic://no0.yggdrasil.netralex.com:65535?key=f4b9fe4f9923834b1c20f84e13b14d90ecde443f78613ec54cf484eea6880fea
 quic://redcatho.de:9494
 quic://ru2.cert.dev:7042
 quic://ryd-peer.ygg.sy.sa:8443
@@ -158,6 +159,7 @@ tcp://longseason.1200bps.xyz:13121
 tcp://marisa.nadeko.net:44441
 tcp://mn.us.ygg.triplebit.org:9000
 tcp://mo.us.ygg.triplebit.org:9000
+tcp://no0.yggdrasil.netralex.com:65533?key=f4b9fe4f9923834b1c20f84e13b14d90ecde443f78613ec54cf484eea6880fea
 tcp://rendezvous.anton.molyboha.me:50421
 tcp://ru2.cert.dev:7040
 tcp://ryd-peer.ygg.sy.sa:8441
@@ -215,6 +217,7 @@ tls://159.195.4.143:9001
 tls://176.117.187.69:64535
 tls://185.165.169.234:8443
 tls://188.225.9.167:18227
+tls://192.3.13.16:8118
 tls://193.93.119.42:443
 tls://204.168.147.93:1337
 tls://23.184.48.86:1443
@@ -289,6 +292,7 @@ tls://mn.us.ygg.triplebit.org:993
 tls://mo.us.ygg.triplebit.org:993
 tls://mwk5ztldlqzwz5ksp6fe4zxjhfnpdtencx23aqssqokxhxe4xvopd7id.onion:1337
 tls://n.ygg.yt:443
+tls://no0.yggdrasil.netralex.com:65534?key=f4b9fe4f9923834b1c20f84e13b14d90ecde443f78613ec54cf484eea6880fea
 tls://nuket0wn.mystora.su:443
 tls://nxuwjikhsirri2rbrdlphstsn3jr2qzjrsylwkt65rh2miycr5n24tid.onion:706
 tls://p2pkbqdgvabddixbbr2y7vrra4qxq3sejfep2qknfu4owh7e3i622dqd.onion:1337
@@ -391,3 +395,6 @@ wss://assets.route172.de:443/api/request/media?key=00000000000da547036a01860a9e3
 wss://donotclickthis.link:443/api/v2/socket
 wss://leo.node.3dt.net:9005
 wss://ygg-evn-1.wgos.org:443
+wss://ygg.ch.mvault.ru.net:443
+wss://ygg.fi.mvault.ru.net:443
+wss://ygg.mvault.ru.net:443

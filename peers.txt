@@ -201,7 +201,6 @@ tcp://ygg5.mk16.de:1337?key=0000009611ae5391dc0aceea9f3fa6a0dc1279f4306059339e84
 tcp://ygg6.mk16.de:1337?key=0000005e5ced06fd4d465bc651c5deb6d70cbe82d36efb68c0450268eaaa5384
 tcp://ygg7.mk16.de:1337?key=000000086278b5f3ba1eb63acb5b7f6e406f04ce83990dee9c07f49011e375ae
 tcp://ygg8.mk16.de:1337?key=0000000b0683e38d8cb3085cfbf217edf0f0b2de76bb5ac7f02a94cd42a3fed9
-tcp://yggdrasil.1337.moe:7676
 tcp://yggdrasil.deavmi.assigned.network:2000
 tcp://yggdrasil.su:62486
 tcp://yggdrasil.sunsung.fun:4442

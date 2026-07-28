@@ -369,8 +369,9 @@
       "tls://cirno.nadeko.net:44442"
     ],
     [
-      "tls://62.212.82.55:443?key=00000002a957313975d1fe53b9ac641b05b1a9c37da22d4ebcef45e7a5bd4c67",
-      "tls://[2001:1af8:4010:a06c:3::112]:443?key=00000002a957313975d1fe53b9ac641b05b1a9c37da22d4ebcef45e7a5bd4c67"
+      "tls://nl1.route172.de:443?key=000000002643ae27bad63e2a81f1d30554ce9ea634f5990062a9e079e23593cd",
+      "tcp://nl1.route172.de:65535?key=000000002643ae27bad63e2a81f1d30554ce9ea634f5990062a9e079e23593cd",
+      "quic://nl1.route172.de:65535?key=000000002643ae27bad63e2a81f1d30554ce9ea634f5990062a9e079e23593cd"
     ]
   ],
   "norway": [
@@ -575,10 +576,10 @@
   ],
   "south-africa": [
     [
-      "tcp://yggdrasil.deavmi.assigned.network:2000",
-      "tls://yggdrasil.deavmi.assigned.network:2001",
-      "tcp://yggdrasil2.deavmi.assigned.network:2000",
-      "tls://yggdrasil2.deavmi.assigned.network:2001"
+      "tcp://r1.worcester.yggdrasil.novasredes.network:2000",
+      "tls://r1.worcester.yggdrasil.novasredes.network:2001",
+      "tcp://r2.worcester.yggdrasil.novasredes.network:2000",
+      "tls://r2.worcester.yggdrasil.novasredes.network:2001"
     ]
   ],
   "spain": [

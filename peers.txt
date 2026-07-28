@@ -56,6 +56,7 @@ quic://kursk.cleverfox.org:15015
 quic://leo.node.3dt.net:9004
 quic://mn.us.ygg.triplebit.org:443
 quic://mo.us.ygg.triplebit.org:443
+quic://nl1.route172.de:65535?key=000000002643ae27bad63e2a81f1d30554ce9ea634f5990062a9e079e23593cd
 quic://no0.yggdrasil.netralex.com:65535?key=f4b9fe4f9923834b1c20f84e13b14d90ecde443f78613ec54cf484eea6880fea
 quic://redcatho.de:9494
 quic://ru2.cert.dev:7042
@@ -160,7 +161,10 @@ tcp://longseason.1200bps.xyz:13121
 tcp://marisa.nadeko.net:44441
 tcp://mn.us.ygg.triplebit.org:9000
 tcp://mo.us.ygg.triplebit.org:9000
+tcp://nl1.route172.de:65535?key=000000002643ae27bad63e2a81f1d30554ce9ea634f5990062a9e079e23593cd
 tcp://no0.yggdrasil.netralex.com:65533?key=f4b9fe4f9923834b1c20f84e13b14d90ecde443f78613ec54cf484eea6880fea
+tcp://r1.worcester.yggdrasil.novasredes.network:2000
+tcp://r2.worcester.yggdrasil.novasredes.network:2000
 tcp://rendezvous.anton.molyboha.me:50421
 tcp://ru2.cert.dev:7040
 tcp://ryd-peer.ygg.sy.sa:8441
@@ -203,10 +207,8 @@ tcp://ygg5.mk16.de:1337?key=0000009611ae5391dc0aceea9f3fa6a0dc1279f4306059339e84
 tcp://ygg6.mk16.de:1337?key=0000005e5ced06fd4d465bc651c5deb6d70cbe82d36efb68c0450268eaaa5384
 tcp://ygg7.mk16.de:1337?key=000000086278b5f3ba1eb63acb5b7f6e406f04ce83990dee9c07f49011e375ae
 tcp://ygg8.mk16.de:1337?key=0000000b0683e38d8cb3085cfbf217edf0f0b2de76bb5ac7f02a94cd42a3fed9
-tcp://yggdrasil.deavmi.assigned.network:2000
 tcp://yggdrasil.su:62486
 tcp://yggdrasil.sunsung.fun:4442
-tcp://yggdrasil2.deavmi.assigned.network:2000
 tcp://yggno.de:18226
 tcp://yggpeer.tilde.green:53299
 tls://103.109.234.106:443?key=000000035621c71b5610434589df051aed2688510f904ae79860668dc0fbf182
@@ -236,7 +238,6 @@ tls://45.147.200.202:443
 tls://45.95.202.21:443
 tls://51.15.204.214:54321
 tls://62.210.85.80:39575
-tls://62.212.82.55:443?key=00000002a957313975d1fe53b9ac641b05b1a9c37da22d4ebcef45e7a5bd4c67
 tls://64.226.122.118:10000
 tls://78.27.153.163:179
 tls://78.27.153.163:33166
@@ -246,7 +247,6 @@ tls://7e2q2nrypvbfqparjqa5ubuof6zat6eq3abk2reujyzg2v32dsxq.b32.i2p:9000
 tls://7mx6ztmimo5nrnmydjjtkr6maupknr3zlyr33umly22pqnivyxcq.b32.i2p:46944
 tls://91.98.161.68:9001?key=0e638944bfd6b277fa5e0dddbeb4444778eea8bece63a9862c661797022a8f05
 tls://95.217.35.92:1337
-tls://[2001:1af8:4010:a06c:3::112]:443?key=00000002a957313975d1fe53b9ac641b05b1a9c37da22d4ebcef45e7a5bd4c67
 tls://[2001:470:1f13:e56::64]:39575
 tls://[2602:fc24:18:7a42::1]:1443
 tls://[2a00:b700::a:279]:443
@@ -293,10 +293,13 @@ tls://mn.us.ygg.triplebit.org:993
 tls://mo.us.ygg.triplebit.org:993
 tls://mwk5ztldlqzwz5ksp6fe4zxjhfnpdtencx23aqssqokxhxe4xvopd7id.onion:1337
 tls://n.ygg.yt:443
+tls://nl1.route172.de:443?key=000000002643ae27bad63e2a81f1d30554ce9ea634f5990062a9e079e23593cd
 tls://no0.yggdrasil.netralex.com:65534?key=f4b9fe4f9923834b1c20f84e13b14d90ecde443f78613ec54cf484eea6880fea
 tls://nuket0wn.mystora.su:443
 tls://nxuwjikhsirri2rbrdlphstsn3jr2qzjrsylwkt65rh2miycr5n24tid.onion:706
 tls://p2pkbqdgvabddixbbr2y7vrra4qxq3sejfep2qknfu4owh7e3i622dqd.onion:1337
+tls://r1.worcester.yggdrasil.novasredes.network:2001
+tls://r2.worcester.yggdrasil.novasredes.network:2001
 tls://rdssbb3furycghvyb7c4k6deblp45lnutluymvprw3hloonl6nrq.b32.i2p:1337
 tls://redcatho.de:9494
 tls://reticulum.me:12393?key=a3d411280dfc350a4484aa3da5feb0407518c5820cbb011d5620347769b26665
@@ -354,11 +357,9 @@ tls://ygg5.mk16.de:1338?key=0000009611ae5391dc0aceea9f3fa6a0dc1279f4306059339e84
 tls://ygg6.mk16.de:1338?key=0000005e5ced06fd4d465bc651c5deb6d70cbe82d36efb68c0450268eaaa5384
 tls://ygg7.mk16.de:1338?key=000000086278b5f3ba1eb63acb5b7f6e406f04ce83990dee9c07f49011e375ae
 tls://ygg8.mk16.de:1338?key=0000000b0683e38d8cb3085cfbf217edf0f0b2de76bb5ac7f02a94cd42a3fed9
-tls://yggdrasil.deavmi.assigned.network:2001
 tls://yggdrasil.neilalexander.dev:64648?key=ecbbcb3298e7d3b4196103333c3e839cfe47a6ca47602b94a6d596683f6bb358
 tls://yggdrasil.su:62586
 tls://yggdrasil.sunsung.fun:4443
-tls://yggdrasil2.deavmi.assigned.network:2001
 tls://yggnekkmyitzepgl5ltdl277y5wdg36n4pc45sualo3yesm3usnuwyad.onion:1863
 tls://yggno.de:18227
 tls://yggpeer.tilde.green:59454

@@ -450,18 +450,6 @@
       "tls://[2a09:5302:ffff::992]:443"
     ],
     [
-      "tcp://ip4.01.msk.ru.dioni.su:9002",
-      "tls://ip4.01.msk.ru.dioni.su:9003",
-      "quic://ip4.01.msk.ru.dioni.su:9002",
-      "ws://ip4.01.msk.ru.dioni.su:9004"
-    ],
-    [
-      "tcp://ip6.01.msk.ru.dioni.su:9002",
-      "tls://ip6.01.msk.ru.dioni.su:9003",
-      "quic://ip6.01.msk.ru.dioni.su:9002",
-      "ws://ip6.01.msk.ru.dioni.su:9004"
-    ],
-    [
       "wss://assets.route172.de:443/api/request/media?key=00000000000da547036a01860a9e3a0476a525415801ec34f4e5b59fd6055b88"
     ],
     [
@@ -511,27 +499,9 @@
       "ws://ekb.itrus.su:7994"
     ],
     [
-      "tcp://ip4.01.ekb.ru.dioni.su:9002",
-      "tls://ip4.01.ekb.ru.dioni.su:9003",
-      "quic://ip4.01.ekb.ru.dioni.su:9002",
-      "ws://ip4.01.ekb.ru.dioni.su:9004"
-    ],
-    [
-      "tcp://ip6.01.ekb.ru.dioni.su:9002",
-      "tls://ip6.01.ekb.ru.dioni.su:9003",
-      "quic://ip6.01.ekb.ru.dioni.su:9002",
-      "ws://ip6.01.ekb.ru.dioni.su:9004"
-    ],
-    [
       "tls://vix.duckdns.org:36014",
       "quic://vix.duckdns.org:36014",
       "wss://donotclickthis.link:443/api/v2/socket"
-    ],
-    [
-      "tcp://ip4.01.tom.ru.dioni.su:9002",
-      "tls://ip4.01.tom.ru.dioni.su:9003",
-      "quic://ip4.01.tom.ru.dioni.su:9002",
-      "ws://ip4.01.tom.ru.dioni.su:9004"
     ],
     [
       "tls://kursk.cleverfox.org:15015",

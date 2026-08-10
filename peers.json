@@ -116,6 +116,11 @@
       "quic://yggpeer.tilde.green:62265"
     ],
     [
+      "tls://ygg.sumitkumarbisui.in:12345",
+      "tcp://ygg.sumitkumarbisui.in:12346",
+      "quic://ygg.sumitkumarbisui.in:12345"
+    ],
+    [
       "tls://ygg.jholden.org:1555"
     ],
     [
@@ -372,6 +377,11 @@
       "tls://nl1.route172.de:443?key=000000002643ae27bad63e2a81f1d30554ce9ea634f5990062a9e079e23593cd",
       "tcp://nl1.route172.de:65535?key=000000002643ae27bad63e2a81f1d30554ce9ea634f5990062a9e079e23593cd",
       "quic://nl1.route172.de:65535?key=000000002643ae27bad63e2a81f1d30554ce9ea634f5990062a9e079e23593cd"
+    ],
+    [
+      "tls://5.252.118.13:443",
+      "tcp://5.252.118.13:65535",
+      "quic://5.252.118.13:65535"
     ]
   ],
   "norway": [

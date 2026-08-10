@@ -11,6 +11,7 @@ quic://212.34.131.160:65535
 quic://23.184.48.86:1443
 quic://31.57.241.104:65535
 quic://37.186.113.100:1515
+quic://5.252.118.13:65535
 quic://5.35.70.181:65535
 quic://77.91.84.76:65535
 quic://87.251.77.39:65535
@@ -77,6 +78,7 @@ quic://ygg-ro.axxa.dev:18083
 quic://ygg-ru.lskd.pw:30043
 quic://ygg-wa.incognet.io:8885
 quic://ygg.ace.ctrl-c.liu.se:9997?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908
+quic://ygg.sumitkumarbisui.in:12345
 quic://ygg1.grin.hu:4299
 quic://ygg1.mk16.de:1339?key=0000000087ee9949eeab56bd430ee8f324cad55abf3993ed9b9be63ce693e18a
 quic://ygg2.mk16.de:1339?key=000000d80a2d7b3126ea65c8c08fc751088c491a5cdd47eff11c86fa1e4644ae
@@ -103,6 +105,7 @@ tcp://37.186.113.100:1514
 tcp://37.192.232.33:8080
 tcp://45.147.200.202:12402
 tcp://45.95.202.21:12403
+tcp://5.252.118.13:65535
 tcp://5.35.70.181:65535
 tcp://51.15.204.214:12345
 tcp://62.210.85.80:39565
@@ -188,6 +191,7 @@ tcp://ygg.ace.ctrl-c.liu.se:9998?key=5636b3af4738c3998284c4805d91209cab38921159c
 tcp://ygg.everypizza.im:9441
 tcp://ygg.mkg20001.io:80
 tcp://ygg.nadeko.net:44441
+tcp://ygg.sumitkumarbisui.in:12346
 tcp://ygg1.asriyan.me:23672
 tcp://ygg1.mk16.de:1337?key=0000000087ee9949eeab56bd430ee8f324cad55abf3993ed9b9be63ce693e18a
 tcp://ygg2.mk16.de:1337?key=000000d80a2d7b3126ea65c8c08fc751088c491a5cdd47eff11c86fa1e4644ae
@@ -226,6 +230,7 @@ tls://3xgziioqsz6q7m3ihcl6k5ojti5vats2jze2ilajnt5a62v3ltfa.b32.i2p:555
 tls://44.234.134.124:443
 tls://45.147.200.202:443
 tls://45.95.202.21:443
+tls://5.252.118.13:443
 tls://51.15.204.214:54321
 tls://62.210.85.80:39575
 tls://64.226.122.118:10000
@@ -333,6 +338,7 @@ tls://ygg.med-dev-systems.ru:6221
 tls://ygg.mkg20001.io:443
 tls://ygg.mnpnk.com:443
 tls://ygg.nadeko.net:44442
+tls://ygg.sumitkumarbisui.in:12345
 tls://ygg1.grin.hu:42444
 tls://ygg1.mk16.de:1338?key=0000000087ee9949eeab56bd430ee8f324cad55abf3993ed9b9be63ce693e18a
 tls://ygg2.mk16.de:1338?key=000000d80a2d7b3126ea65c8c08fc751088c491a5cdd47eff11c86fa1e4644ae

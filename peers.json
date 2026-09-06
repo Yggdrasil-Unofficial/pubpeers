@@ -116,11 +116,6 @@
       "quic://yggpeer.tilde.green:62265"
     ],
     [
-      "tls://ygg.sumitkumarbisui.in:12345",
-      "tcp://ygg.sumitkumarbisui.in:12346",
-      "quic://ygg.sumitkumarbisui.in:12345"
-    ],
-    [
       "tls://ygg.jholden.org:1555"
     ],
     [

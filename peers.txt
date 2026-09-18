@@ -186,6 +186,7 @@ tcp://ygg-ru.lskd.pw:30041
 tcp://ygg-tw.lxak.net:80
 tcp://ygg-wa.incognet.io:8883
 tcp://ygg.ace.ctrl-c.liu.se:9998?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908
+tcp://ygg.bruijn.nu:65535
 tcp://ygg.everypizza.im:9441
 tcp://ygg.mkg20001.io:80
 tcp://ygg.nadeko.net:44441

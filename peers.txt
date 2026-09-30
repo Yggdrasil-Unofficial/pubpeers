@@ -167,6 +167,7 @@ tcp://sto01.yggdrasil.hosted-by.skhron.eu:8883?key=ce8cfa43b8c9e71c1fe31832b3940
 tcp://sysop.link:555
 tcp://thatmaidguy.fvds.ru:7991
 tcp://u-neroit.ru:7000
+tcp://uk-lon1.ygg-public-peers.h.wer.ee:17160
 tcp://vpn.itrus.su:7991
 tcp://waw01.yggdrasil.hosted-by.skhron.eu:8883?key=030602cee88a761c68f5f14e1dad430f25238a703b69dc382321a38f833035b0
 tcp://y.zbin.eu:7743
@@ -304,6 +305,7 @@ tls://sto01.yggdrasil.hosted-by.skhron.eu:8884?key=ce8cfa43b8c9e71c1fe31832b3940
 tls://supanadit.com:15021
 tls://syd.joel.net.au:8443
 tls://thinkmedia.freeddns.org:9002
+tls://uk-lon1.ygg-public-peers.h.wer.ee:17161
 tls://vix.duckdns.org:36014
 tls://vpn.itrus.su:7992
 tls://vpn.ltha.de:443?key=0000006149970f245e6cec43664bce203f2514b60a153e194f31e2b229a1339d

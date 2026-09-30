@@ -655,6 +655,10 @@
     [
       "tls://london.sabretruth.org:18472",
       "tcp://london.sabretruth.org:18473"
+    ],
+    [
+      "tcp://uk-lon1.ygg-public-peers.h.wer.ee:17160",
+      "tls://uk-lon1.ygg-public-peers.h.wer.ee:17161"
     ]
   ],
   "united-states": [

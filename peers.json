@@ -475,6 +475,12 @@
       "quic://ygg-ru.lskd.pw:30043"
     ],
     [
+      "tcp://mskaeza.i113d.ru:12631",
+      "tls://mskaeza.i113d.ru:12632",
+      "quic://mskaeza.i113d.ru:12633",
+      "ws://mskaeza.i113d.ru:12634"
+    ],
+    [
       "tls://ygg.med-dev-systems.ru:6221"
     ],
     [
@@ -485,10 +491,19 @@
       "tls://box.paulll.cc:13338"
     ],
     [
+      "tcp://server.i113d.ru:12631",
+      "tls://server.i113d.ru:12632",
+      "quic://server.i113d.ru:12633",
+      "ws://server.i113d.ru:12634"
+    ],
+    [
       "tcp://srv.itrus.su:7991",
       "tls://srv.itrus.su:7992",
       "quic://srv.itrus.su:7993",
       "ws://srv.itrus.su:7994"
+    ],
+    [
+      "quic://novosibirsk.mie.foundation:9952"
     ],
     [
       "tcp://37.192.232.33:8080",

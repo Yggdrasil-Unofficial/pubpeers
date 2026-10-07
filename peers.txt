@@ -56,15 +56,18 @@ quic://mskaeza.i113d.ru:12633
 quic://nl1.route172.de:65535?key=000000002643ae27bad63e2a81f1d30554ce9ea634f5990062a9e079e23593cd
 quic://no0.yggdrasil.netralex.com:65535?key=f4b9fe4f9923834b1c20f84e13b14d90ecde443f78613ec54cf484eea6880fea
 quic://novosibirsk.mie.foundation:9952
+quic://peer.ryebreads.xyz:12345
 quic://redcatho.de:9494
 quic://ru2.cert.dev:7042
 quic://ryd-peer.ygg.sy.sa:8443
 quic://scarlet.mboa.dev:3443
+quic://se.laerad.top:54001?key=29512833cbca43f1f0bb1833d0edcb45791e66f7955c577b57fd0fc78892e2f8
 quic://server.i113d.ru:12633
 quic://srv.itrus.su:7993
 quic://sto01.yggdrasil.hosted-by.skhron.eu:8885?key=ce8cfa43b8c9e71c1fe31832b39403f23166f2bac12d52c755d9ac68f55da81c
 quic://supanadit.com:15022
 quic://sysop.link:555
+quic://us.laerad.top:54001?key=c81bc11f522837d2def65768a2593e30cdfa65de856fa129f1aa18e55ba3a484
 quic://vix.duckdns.org:36014
 quic://vpn.itrus.su:7993
 quic://waw01.yggdrasil.hosted-by.skhron.eu:8885?key=030602cee88a761c68f5f14e1dad430f25238a703b69dc382321a38f833035b0
@@ -303,6 +306,7 @@ tls://ru2.cert.dev:7041
 tls://ryd-peer.ygg.sy.sa:8442
 tls://s2.i2pd.xyz:39575
 tls://satori.nadeko.net:44442
+tls://se.laerad.top:54001?key=29512833cbca43f1f0bb1833d0edcb45791e66f7955c577b57fd0fc78892e2f8
 tls://server.i113d.ru:12632
 tls://sirsegv.moe:7676
 tls://srl.newsdeef.eu:59999
@@ -313,6 +317,7 @@ tls://supanadit.com:15021
 tls://syd.joel.net.au:8443
 tls://thinkmedia.freeddns.org:9002
 tls://uk-lon1.ygg-public-peers.h.wer.ee:17161
+tls://us.laerad.top:54001?key=c81bc11f522837d2def65768a2593e30cdfa65de856fa129f1aa18e55ba3a484
 tls://vix.duckdns.org:36014
 tls://vpn.itrus.su:7992
 tls://vpn.ltha.de:443?key=0000006149970f245e6cec43664bce203f2514b60a153e194f31e2b229a1339d

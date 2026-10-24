@@ -373,7 +373,8 @@
       "quic://5.252.118.13:65535"
     ],
     [
-      "tcp://ygg.bruijn.nu:65535"
+      "tcp://ygg.bruijn.nu:65535",
+      "quic://ygg.bruijn.nu:65535"
     ]
   ],
   "norway": [
@@ -789,6 +790,12 @@
       "tls://ygg-wa.incognet.io:8884",
       "quic://ygg-wa.incognet.io:8885",
       "ws://ygg-wa.incognet.io:8886"
+    ],
+    [
+      "tcp://scandic.us:2011",
+      "tls://scandic.us:2012",
+      "quic://scandic.us:2013",
+      "ws://scandic.us:2014"
     ],
     [
       "tcp://marisa.nadeko.net:44441",

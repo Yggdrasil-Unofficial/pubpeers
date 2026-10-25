@@ -40,7 +40,6 @@ quic://asia.deinfra.org:15015
 quic://bode.theender.net:42269
 quic://des.8px.sk:4321
 quic://ekb.itrus.su:7993
-quic://ins.8px.sk:4321
 quic://ip4.fvm.mywire.org:443?key=000000000143db657d1d6f80b5066dd109a4cb31f7dc6cb5d56050fffb014217
 quic://ip4.nerdvm.mywire.org:443?key=00000000c61d731961a290d127cd3fc03a4c5f3f35b9083559d4c81d48d65854
 quic://ip6.casa2.mywire.org:44443?key=000000003cb1cc50e05147fc548f6d1f78e7ffcdc67b456f9bb0db6f0a5e4723
@@ -275,7 +274,6 @@ tls://helium.avevad.com:1337
 tls://hgtciq2ususgkmomliphhwenaafdd3lvg3xayzhoyyxn2x3uix5a.b32.i2p:555
 tls://i6lbsjw7kh4gqmbylcsjtfh3juj3dbbk24bwzrpgvtalhs7xagoa.b32.i2p:2721
 tls://iniuzq6i6r4tgbd3shnfgcm6ntg64lc75owmcnjyudgbajq7wvvrzwad.onion:555
-tls://ins.8px.sk:4321
 tls://jed-peer.ygg.sy.sa:8442
 tls://jef2ems7n6ewwcyca7jauzb2ym3vogpi5sbnqqshvnhjymkdw7sq.b32.i2p:1337?key=0000009611ae5391dc0aceea9f3fa6a0dc1279f4306059339e84bfb8b74d2f9b
 tls://kisume.nadeko.net:44442

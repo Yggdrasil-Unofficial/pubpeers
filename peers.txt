@@ -38,6 +38,7 @@ quic://[2a14:1e00:3:15c::]:65535
 quic://[2a14:1e00:3:2b2::]:65535
 quic://asia.deinfra.org:15015
 quic://bode.theender.net:42269
+quic://dc.txlyre.website:13371
 quic://des.8px.sk:4321
 quic://ekb.itrus.su:7993
 quic://ip4.fvm.mywire.org:443?key=000000000143db657d1d6f80b5066dd109a4cb31f7dc6cb5d56050fffb014217
@@ -46,6 +47,7 @@ quic://ip6.casa2.mywire.org:44443?key=000000003cb1cc50e05147fc548f6d1f78e7ffcdc6
 quic://ip6.fvm.mywire.org:443?key=000000000143db657d1d6f80b5066dd109a4cb31f7dc6cb5d56050fffb014217
 quic://ip6.nerdvm.mywire.org:443?key=00000000c61d731961a290d127cd3fc03a4c5f3f35b9083559d4c81d48d65854
 quic://jed-peer.ygg.sy.sa:8443
+quic://kem.txlyre.website:13337
 quic://kursk.cleverfox.org:15015
 quic://leo.node.3dt.net:9004
 quic://mn.us.ygg.triplebit.org:443
@@ -140,6 +142,7 @@ tcp://bode.theender.net:42069
 tcp://box.paulll.cc:13337
 tcp://chiefsnapp.loki:42753
 tcp://cirno.nadeko.net:44441
+tcp://dc.txlyre.website:13372
 tcp://ekb.itrus.su:7991
 tcp://ip4.fvm.mywire.org:8080?key=000000000143db657d1d6f80b5066dd109a4cb31f7dc6cb5d56050fffb014217
 tcp://ip4.nerdvm.mywire.org:8080?key=00000000c61d731961a290d127cd3fc03a4c5f3f35b9083559d4c81d48d65854
@@ -246,11 +249,9 @@ tls://78.27.153.163:3785
 tls://7e2q2nrypvbfqparjqa5ubuof6zat6eq3abk2reujyzg2v32dsxq.b32.i2p:9000
 tls://7mx6ztmimo5nrnmydjjtkr6maupknr3zlyr33umly22pqnivyxcq.b32.i2p:46944
 tls://91.98.161.68:9001?key=0e638944bfd6b277fa5e0dddbeb4444778eea8bece63a9862c661797022a8f05
-tls://95.217.35.92:1337
 tls://[2001:470:1f13:e56::64]:39575
 tls://[2602:fc24:18:7a42::1]:1443
 tls://[2a00:b700::a:279]:443
-tls://[2a01:4f9:2b:2d8f::2]:1337
 tls://[2a02:1b8:10:147::1:1ea]:65534
 tls://[2a03:3b40:fe:ab::1]:993?key=0009e16b9e3afe7b13c3612560410434d3dfc70c8a8a0a63e51e0470cb8124f6
 tls://[2a09:5302:ffff::992]:443
@@ -264,6 +265,7 @@ tls://bvjhuq5v4g63a3eqs7asbequscjzp444g6yqu337qkzxx3gupegq.b32.i2p:1337?key=0000
 tls://ca.us.ygg.informatics.coop:443?key=0000000023fc6ffb62afb79448aefb0943df2e4472cf08bd489f5407378300a2
 tls://cirno.nadeko.net:44442
 tls://cowgl.tech:1337
+tls://dc.txlyre.website:1337
 tls://des.8px.sk:4321
 tls://ekb.itrus.su:7992
 tls://fllrj72kxnenalmmi3uz22ljqnmuex4h2jlhwnapxlzrnn7lknadxuqd.onion:706
@@ -276,6 +278,7 @@ tls://i6lbsjw7kh4gqmbylcsjtfh3juj3dbbk24bwzrpgvtalhs7xagoa.b32.i2p:2721
 tls://iniuzq6i6r4tgbd3shnfgcm6ntg64lc75owmcnjyudgbajq7wvvrzwad.onion:555
 tls://jed-peer.ygg.sy.sa:8442
 tls://jef2ems7n6ewwcyca7jauzb2ym3vogpi5sbnqqshvnhjymkdw7sq.b32.i2p:1337?key=0000009611ae5391dc0aceea9f3fa6a0dc1279f4306059339e84bfb8b74d2f9b
+tls://kem.txlyre.website:14437
 tls://kisume.nadeko.net:44442
 tls://kursk.cleverfox.org:15015
 tls://leo.node.3dt.net:9003
@@ -365,6 +368,7 @@ tls://yggpeer.tilde.green:59454
 tls://yzkelq2cd76znzdbexyeqp35hw2fgsj5pyc5yd5jntxode3cu4bysnqd.onion:42753
 tls://zjbhpptbgnoz7abawqko3mp2rreulog5tng2mctks7jgsgjezr6q.b32.i2p:1337?key=0000000b0683e38d8cb3085cfbf217edf0f0b2de76bb5ac7f02a94cd42a3fed9
 ws://37.186.113.100:1516
+ws://dc.txlyre.website:13370
 ws://ekb.itrus.su:7994
 ws://kursk.cleverfox.org:15016
 ws://mn.us.ygg.triplebit.org:9010

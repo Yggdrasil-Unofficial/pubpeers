@@ -81,8 +81,10 @@
   ],
   "finland": [
     [
-      "tls://95.217.35.92:1337",
-      "tls://[2a01:4f9:2b:2d8f::2]:1337"
+      "tls://dc.txlyre.website:1337",
+      "ws://dc.txlyre.website:13370",
+      "quic://dc.txlyre.website:13371",
+      "tcp://dc.txlyre.website:13372"
     ],
     [
       "tls://204.168.147.93:1337"
@@ -505,7 +507,9 @@
       "tcp://itcom.multed.com:7991"
     ],
     [
-      "tcp://kem.txlyre.website:1337"
+      "tcp://kem.txlyre.website:1337",
+      "quic://kem.txlyre.website:13337",
+      "tls://kem.txlyre.website:14437"
     ],
     [
       "tcp://ekb.itrus.su:7991",

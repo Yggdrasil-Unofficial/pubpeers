@@ -47,6 +47,7 @@ quic://ip6.casa2.mywire.org:44443?key=000000003cb1cc50e05147fc548f6d1f78e7ffcdc6
 quic://ip6.fvm.mywire.org:443?key=000000000143db657d1d6f80b5066dd109a4cb31f7dc6cb5d56050fffb014217
 quic://ip6.nerdvm.mywire.org:443?key=00000000c61d731961a290d127cd3fc03a4c5f3f35b9083559d4c81d48d65854
 quic://jed-peer.ygg.sy.sa:8443
+quic://ke46138.ddns.net:12345
 quic://kem.txlyre.website:13337
 quic://kursk.cleverfox.org:15015
 quic://leo.node.3dt.net:9004
@@ -57,6 +58,7 @@ quic://nl1.route172.de:65535?key=000000002643ae27bad63e2a81f1d30554ce9ea634f5990
 quic://no0.yggdrasil.netralex.com:65535?key=f4b9fe4f9923834b1c20f84e13b14d90ecde443f78613ec54cf484eea6880fea
 quic://novosibirsk.mie.foundation:9952
 quic://peer.ryebreads.xyz:12345
+quic://ralsei.ru:12345
 quic://redcatho.de:9494
 quic://ru2.cert.dev:7042
 quic://ryd-peer.ygg.sy.sa:8443
@@ -282,6 +284,7 @@ tls://i6lbsjw7kh4gqmbylcsjtfh3juj3dbbk24bwzrpgvtalhs7xagoa.b32.i2p:2721
 tls://iniuzq6i6r4tgbd3shnfgcm6ntg64lc75owmcnjyudgbajq7wvvrzwad.onion:555
 tls://jed-peer.ygg.sy.sa:8442
 tls://jef2ems7n6ewwcyca7jauzb2ym3vogpi5sbnqqshvnhjymkdw7sq.b32.i2p:1337?key=0000009611ae5391dc0aceea9f3fa6a0dc1279f4306059339e84bfb8b74d2f9b
+tls://ke46138.ddns.net:12345
 tls://kem.txlyre.website:14437
 tls://kisume.nadeko.net:44442
 tls://kursk.cleverfox.org:15015
@@ -302,6 +305,7 @@ tls://nxuwjikhsirri2rbrdlphstsn3jr2qzjrsylwkt65rh2miycr5n24tid.onion:706
 tls://p2pkbqdgvabddixbbr2y7vrra4qxq3sejfep2qknfu4owh7e3i622dqd.onion:1337
 tls://r1.worcester.yggdrasil.novasredes.network:2001
 tls://r2.worcester.yggdrasil.novasredes.network:2001
+tls://ralsei.ru:12345
 tls://rdssbb3furycghvyb7c4k6deblp45lnutluymvprw3hloonl6nrq.b32.i2p:1337
 tls://redcatho.de:9494
 tls://reticulum.me:12393?key=a3d411280dfc350a4484aa3da5feb0407518c5820cbb011d5620347769b26665

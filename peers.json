@@ -538,6 +538,12 @@
     [
       "tcp://yg-vvo.magicum.net:29330",
       "tls://yg-vvo.magicum.net:29331"
+    ],
+    [
+      "quic://ralsei.ru:12345",
+      "tls://ralsei.ru:12345",
+      "quic://ke46138.ddns.net:12345",
+      "tls://ke46138.ddns.net:12345"
     ]
   ],
   "saudi-arabia": [

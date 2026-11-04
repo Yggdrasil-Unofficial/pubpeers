@@ -187,6 +187,7 @@ tcp://waw01.yggdrasil.hosted-by.skhron.eu:8883?key=030602cee88a761c68f5f14e1dad4
 tcp://y.zbin.eu:7743
 tcp://yes.loki:5000
 tcp://yg-mel.magicum.net:23801
+tcp://yg-ovb.magicum.net:32332
 tcp://yg-sin.magicum.net:23901
 tcp://yg-syd.magicum.net:23701
 tcp://yg-tyo.magicum.net:32334
@@ -334,6 +335,7 @@ tls://vpn.ltha.de:443?key=0000006149970f245e6cec43664bce203f2514b60a153e194f31e2
 tls://waw01.yggdrasil.hosted-by.skhron.eu:8884?key=030602cee88a761c68f5f14e1dad430f25238a703b69dc382321a38f833035b0
 tls://xmgzqfidm3zn4y3vfljqiuyfxorifntjca3rfnwv3dbbfcrx4uca.b32.i2p:30112
 tls://yg-mel.magicum.net:23800
+tls://yg-ovb.magicum.net:32333
 tls://yg-sin.magicum.net:23900
 tls://yg-syd.magicum.net:23700
 tls://yg-tyo.magicum.net:32333

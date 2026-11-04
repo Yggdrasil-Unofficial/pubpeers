@@ -512,6 +512,10 @@
       "tls://37.192.232.33:442"
     ],
     [
+      "tcp://yg-ovb.magicum.net:32332",
+      "tls://yg-ovb.magicum.net:32333"
+    ],
+    [
       "tcp://itcom.multed.com:7991"
     ],
     [

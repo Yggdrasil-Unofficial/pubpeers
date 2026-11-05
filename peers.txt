@@ -38,7 +38,9 @@ quic://[2a14:1e00:3:15c::]:65535
 quic://[2a14:1e00:3:2b2::]:65535
 quic://asia.deinfra.org:15015
 quic://bode.theender.net:42269
+quic://cm1.wwire.su:2232
 quic://dc.txlyre.website:13371
+quic://de.wwire.su:2232
 quic://des.8px.sk:4321
 quic://ekb.itrus.su:7993
 quic://ip4.fvm.mywire.org:443?key=000000000143db657d1d6f80b5066dd109a4cb31f7dc6cb5d56050fffb014217
@@ -74,6 +76,7 @@ quic://us.laerad.top:54001?key=c81bc11f522837d2def65768a2593e30cdfa65de856fa129f
 quic://vix.duckdns.org:36014
 quic://vpn.itrus.su:7993
 quic://waw01.yggdrasil.hosted-by.skhron.eu:8885?key=030602cee88a761c68f5f14e1dad430f25238a703b69dc382321a38f833035b0
+quic://wwire.su:2232
 quic://ygg-atvps.axxa.dev:18083
 quic://ygg-google.axxa.dev:18083
 quic://ygg-kcmo.incognet.io:8885
@@ -146,7 +149,9 @@ tcp://bode.theender.net:42069
 tcp://box.paulll.cc:13337
 tcp://chiefsnapp.loki:42753
 tcp://cirno.nadeko.net:44441
+tcp://cm1.wwire.su:2230
 tcp://dc.txlyre.website:13372
+tcp://de.wwire.su:2230
 tcp://ekb.itrus.su:7991
 tcp://ip4.fvm.mywire.org:8080?key=000000000143db657d1d6f80b5066dd109a4cb31f7dc6cb5d56050fffb014217
 tcp://ip4.nerdvm.mywire.org:8080?key=00000000c61d731961a290d127cd3fc03a4c5f3f35b9083559d4c81d48d65854
@@ -184,6 +189,7 @@ tcp://u-neroit.ru:7000
 tcp://uk-lon1.ygg-public-peers.h.wer.ee:17160
 tcp://vpn.itrus.su:7991
 tcp://waw01.yggdrasil.hosted-by.skhron.eu:8883?key=030602cee88a761c68f5f14e1dad430f25238a703b69dc382321a38f833035b0
+tcp://wwire.su:2230
 tcp://y.zbin.eu:7743
 tcp://yes.loki:5000
 tcp://yg-mel.magicum.net:23801
@@ -271,8 +277,10 @@ tls://box.paulll.cc:13338
 tls://bvjhuq5v4g63a3eqs7asbequscjzp444g6yqu337qkzxx3gupegq.b32.i2p:1337?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1
 tls://ca.us.ygg.informatics.coop:443?key=0000000023fc6ffb62afb79448aefb0943df2e4472cf08bd489f5407378300a2
 tls://cirno.nadeko.net:44442
+tls://cm1.wwire.su:2231
 tls://cowgl.tech:1337
 tls://dc.txlyre.website:1337
+tls://de.wwire.su:2231
 tls://des.8px.sk:4321
 tls://ekb.itrus.su:7992
 tls://fllrj72kxnenalmmi3uz22ljqnmuex4h2jlhwnapxlzrnn7lknadxuqd.onion:706
@@ -333,6 +341,7 @@ tls://vix.duckdns.org:36014
 tls://vpn.itrus.su:7992
 tls://vpn.ltha.de:443?key=0000006149970f245e6cec43664bce203f2514b60a153e194f31e2b229a1339d
 tls://waw01.yggdrasil.hosted-by.skhron.eu:8884?key=030602cee88a761c68f5f14e1dad430f25238a703b69dc382321a38f833035b0
+tls://wwire.su:2231
 tls://xmgzqfidm3zn4y3vfljqiuyfxorifntjca3rfnwv3dbbfcrx4uca.b32.i2p:30112
 tls://yg-mel.magicum.net:23800
 tls://yg-ovb.magicum.net:32333
@@ -378,7 +387,9 @@ tls://yggpeer.tilde.green:59454
 tls://yzkelq2cd76znzdbexyeqp35hw2fgsj5pyc5yd5jntxode3cu4bysnqd.onion:42753
 tls://zjbhpptbgnoz7abawqko3mp2rreulog5tng2mctks7jgsgjezr6q.b32.i2p:1337?key=0000000b0683e38d8cb3085cfbf217edf0f0b2de76bb5ac7f02a94cd42a3fed9
 ws://37.186.113.100:1516
+ws://cm1.wwire.su:2233
 ws://dc.txlyre.website:13370
+ws://de.wwire.su:2233
 ws://ekb.itrus.su:7994
 ws://kursk.cleverfox.org:15016
 ws://mn.us.ygg.triplebit.org:9010
@@ -392,6 +403,7 @@ ws://srv.itrus.su:7994
 ws://sto01.yggdrasil.hosted-by.skhron.eu:8886?key=ce8cfa43b8c9e71c1fe31832b39403f23166f2bac12d52c755d9ac68f55da81c
 ws://vpn.itrus.su:7994
 ws://waw01.yggdrasil.hosted-by.skhron.eu:8886?key=030602cee88a761c68f5f14e1dad430f25238a703b69dc382321a38f833035b0
+ws://wwire.su:2233
 ws://ygg-kcmo.incognet.io:8886
 ws://ygg-pa.incognet.io:8886
 ws://ygg-wa.incognet.io:8886

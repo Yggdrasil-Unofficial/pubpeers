@@ -220,6 +220,12 @@
     ],
     [
       "tls://reticulum.me:12393?key=a3d411280dfc350a4484aa3da5feb0407518c5820cbb011d5620347769b26665"
+    ],
+    [
+      "tcp://de.wwire.su:2230",
+      "tls://de.wwire.su:2231",
+      "quic://de.wwire.su:2232",
+      "ws://de.wwire.su:2233"
     ]
   ],
   "hong-kong": [
@@ -483,6 +489,12 @@
       "ws://mskaeza.i113d.ru:12634"
     ],
     [
+      "tcp://cm1.wwire.su:2230",
+      "tls://cm1.wwire.su:2231",
+      "quic://cm1.wwire.su:2232",
+      "ws://cm1.wwire.su:2233"
+    ],
+    [
       "tls://ygg.med-dev-systems.ru:6221"
     ],
     [
@@ -528,6 +540,12 @@
       "tls://ekb.itrus.su:7992",
       "quic://ekb.itrus.su:7993",
       "ws://ekb.itrus.su:7994"
+    ],
+    [
+      "tcp://wwire.su:2230",
+      "tls://wwire.su:2231",
+      "quic://wwire.su:2232",
+      "ws://wwire.su:2233"
     ],
     [
       "tls://vix.duckdns.org:36014",

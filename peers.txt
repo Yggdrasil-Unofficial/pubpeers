@@ -178,6 +178,7 @@ tcp://ru2.cert.dev:7040
 tcp://ryd-peer.ygg.sy.sa:8441
 tcp://s2.i2pd.xyz:39565
 tcp://satori.nadeko.net:44441
+tcp://sb.eldritcht.fun:47737
 tcp://scandic.us:2011
 tcp://server.i113d.ru:12631
 tcp://srv.itrus.su:7991
@@ -323,6 +324,7 @@ tls://ru2.cert.dev:7041
 tls://ryd-peer.ygg.sy.sa:8442
 tls://s2.i2pd.xyz:39575
 tls://satori.nadeko.net:44442
+tls://sb.eldritcht.fun:47736
 tls://scandic.us:2012
 tls://se.laerad.top:54001?key=29512833cbca43f1f0bb1833d0edcb45791e66f7955c577b57fd0fc78892e2f8
 tls://server.i113d.ru:12632

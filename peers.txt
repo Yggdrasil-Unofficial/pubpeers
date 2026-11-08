@@ -60,7 +60,6 @@ quic://mn.us.ygg.triplebit.org:443
 quic://mo.us.ygg.triplebit.org:443
 quic://mskaeza.i113d.ru:12633
 quic://nl1.route172.de:65535?key=000000002643ae27bad63e2a81f1d30554ce9ea634f5990062a9e079e23593cd
-quic://no0.yggdrasil.netralex.com:65535?key=f4b9fe4f9923834b1c20f84e13b14d90ecde443f78613ec54cf484eea6880fea
 quic://novosibirsk.mie.foundation:9952
 quic://peer.ryebreads.xyz:12345
 quic://ralsei.ru:12345
@@ -174,7 +173,6 @@ tcp://mn.us.ygg.triplebit.org:9000
 tcp://mo.us.ygg.triplebit.org:9000
 tcp://mskaeza.i113d.ru:12631
 tcp://nl1.route172.de:65535?key=000000002643ae27bad63e2a81f1d30554ce9ea634f5990062a9e079e23593cd
-tcp://no0.yggdrasil.netralex.com:65533?key=f4b9fe4f9923834b1c20f84e13b14d90ecde443f78613ec54cf484eea6880fea
 tcp://r1.worcester.yggdrasil.novasredes.network:2000
 tcp://r2.worcester.yggdrasil.novasredes.network:2000
 tcp://rendezvous.anton.molyboha.me:50421
@@ -316,7 +314,6 @@ tls://mskaeza.i113d.ru:12632
 tls://mwk5ztldlqzwz5ksp6fe4zxjhfnpdtencx23aqssqokxhxe4xvopd7id.onion:1337
 tls://n.ygg.yt:443
 tls://nl1.route172.de:443?key=000000002643ae27bad63e2a81f1d30554ce9ea634f5990062a9e079e23593cd
-tls://no0.yggdrasil.netralex.com:65534?key=f4b9fe4f9923834b1c20f84e13b14d90ecde443f78613ec54cf484eea6880fea
 tls://nuket0wn.mystora.su:443
 tls://nxuwjikhsirri2rbrdlphstsn3jr2qzjrsylwkt65rh2miycr5n24tid.onion:706
 tls://p2pkbqdgvabddixbbr2y7vrra4qxq3sejfep2qknfu4owh7e3i622dqd.onion:1337

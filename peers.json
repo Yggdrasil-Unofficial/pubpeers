@@ -541,6 +541,10 @@
       "tls://kem.txlyre.website:14437"
     ],
     [
+      "tls://128.0.25.252:7743",
+      "quic://128.0.25.252:7743"
+    ],
+    [
       "tcp://ekb.itrus.su:7991",
       "tls://ekb.itrus.su:7992",
       "quic://ekb.itrus.su:7993",

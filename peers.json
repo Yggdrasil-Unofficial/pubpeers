@@ -29,12 +29,6 @@
     [
       "tls://109.176.250.101:65534",
       "tls://[2a02:1b8:10:147::1:1ea]:65534"
-    ],
-    [
-      "tcp://ygg7.mk16.de:1337?key=000000086278b5f3ba1eb63acb5b7f6e406f04ce83990dee9c07f49011e375ae",
-      "tls://ygg7.mk16.de:1338?key=000000086278b5f3ba1eb63acb5b7f6e406f04ce83990dee9c07f49011e375ae",
-      "quic://ygg7.mk16.de:1339?key=000000086278b5f3ba1eb63acb5b7f6e406f04ce83990dee9c07f49011e375ae",
-      "ws://ygg7.mk16.de:1340?key=000000086278b5f3ba1eb63acb5b7f6e406f04ce83990dee9c07f49011e375ae"
     ]
   ],
   "brazil": [
@@ -56,12 +50,6 @@
   "canada": [
     [
       "quic://scarlet.mboa.dev:3443"
-    ],
-    [
-      "tcp://ygg3.mk16.de:1337?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1",
-      "tls://ygg3.mk16.de:1338?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1",
-      "quic://ygg3.mk16.de:1339?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1",
-      "ws://ygg3.mk16.de:1340?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1"
     ]
   ],
   "chile": [
@@ -240,14 +228,6 @@
       "quic://62.83.97.198:9443?key=c706b8ea6abbcaf935b32df2b1a8783564877389619f9d4322ad6edde86c6548",
       "tls://[2a03:4000:15:1631:18c2:6eff:fe0b:432c]:9443?key=c706b8ea6abbcaf935b32df2b1a8783564877389619f9d4322ad6edde86c6548",
       "quic://[2a03:4000:15:1631:18c2:6eff:fe0b:432c]:9443?key=c706b8ea6abbcaf935b32df2b1a8783564877389619f9d4322ad6edde86c6548"
-    ]
-  ],
-  "hong-kong": [
-    [
-      "tcp://ygg5.mk16.de:1337?key=0000009611ae5391dc0aceea9f3fa6a0dc1279f4306059339e84bfb8b74d2f9b",
-      "tls://ygg5.mk16.de:1338?key=0000009611ae5391dc0aceea9f3fa6a0dc1279f4306059339e84bfb8b74d2f9b",
-      "quic://ygg5.mk16.de:1339?key=0000009611ae5391dc0aceea9f3fa6a0dc1279f4306059339e84bfb8b74d2f9b",
-      "ws://ygg5.mk16.de:1340?key=0000009611ae5391dc0aceea9f3fa6a0dc1279f4306059339e84bfb8b74d2f9b"
     ]
   ],
   "hungary": [
